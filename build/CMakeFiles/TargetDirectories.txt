@@ -1,0 +1,3 @@
+/usr/home/ylj/tinnyrenderer/build/CMakeFiles/rebuild_cache.dir
+/usr/home/ylj/tinnyrenderer/build/CMakeFiles/edit_cache.dir
+/usr/home/ylj/tinnyrenderer/build/CMakeFiles/Line.dir

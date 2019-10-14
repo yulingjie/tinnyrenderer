@@ -1,0 +1,684 @@
+The system is: FreeBSD - 12.0-RELEASE - amd64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is Clang, found in "/usr/home/ylj/tinnyrenderer/build/CMakeFiles/3.14.5/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is Clang, found in "/usr/home/ylj/tinnyrenderer/build/CMakeFiles/3.14.5/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/gmake cmTC_d16b6/fast 
+/usr/local/bin/gmake -f CMakeFiles/cmTC_d16b6.dir/build.make CMakeFiles/cmTC_d16b6.dir/build
+gmake[1]: 进入目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_d16b6.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_d16b6.dir/testCCompiler.c.o   -c /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_d16b6
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d16b6.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_d16b6.dir/testCCompiler.c.o  -o cmTC_d16b6 
+gmake[1]: 离开目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/gmake cmTC_56c2d/fast 
+/usr/local/bin/gmake -f CMakeFiles/cmTC_56c2d.dir/build.make CMakeFiles/cmTC_56c2d.dir/build
+gmake[1]: Entering directory '/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_56c2d.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc   -v -o CMakeFiles/cmTC_56c2d.dir/CMakeCCompilerABI.c.o   -c /usr/local/share/cmake/Modules/CMakeCCompilerABI.c
+FreeBSD clang version 6.0.1 (tags/RELEASE_601/final 335540) (based on LLVM 6.0.1)
+Target: x86_64-unknown-freebsd12.0
+Thread model: posix
+InstalledDir: /usr/bin
+ "/usr/bin/cc" -cc1 -triple x86_64-unknown-freebsd12.0 -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model static -mthread-model posix -mdisable-fp-elim -masm-verbose -mconstructor-aliases -munwind-tables -fuse-init-array -target-cpu x86-64 -dwarf-column-info -debugger-tuning=gdb -v -coverage-notes-file /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_56c2d.dir/CMakeCCompilerABI.c.gcno -resource-dir /usr/lib/clang/6.0.1 -fdebug-compilation-dir /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -fobjc-runtime=gnustep -fdiagnostics-show-option -o CMakeFiles/cmTC_56c2d.dir/CMakeCCompilerABI.c.o -x c /usr/local/share/cmake/Modules/CMakeCCompilerABI.c
+clang -cc1 version 6.0.1 based upon LLVM 6.0.1 default target x86_64-unknown-freebsd12.0
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/lib/clang/6.0.1/include
+ /usr/include
+End of search list.
+Linking C executable cmTC_56c2d
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_56c2d.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTC_56c2d.dir/CMakeCCompilerABI.c.o  -o cmTC_56c2d 
+FreeBSD clang version 6.0.1 (tags/RELEASE_601/final 335540) (based on LLVM 6.0.1)
+Target: x86_64-unknown-freebsd12.0
+Thread model: posix
+InstalledDir: /usr/bin
+ "/usr/bin/ld" --eh-frame-hdr -dynamic-linker /libexec/ld-elf.so.1 --hash-style=both --enable-new-dtags -o cmTC_56c2d /usr/lib/crt1.o /usr/lib/crti.o /usr/lib/crtbegin.o -L/usr/lib CMakeFiles/cmTC_56c2d.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/crtend.o /usr/lib/crtn.o
+gmake[1]: Leaving directory '/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp'
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/lib/clang/6.0.1/include]
+    add: [/usr/include]
+  end of search list found
+  collapse include dir [/usr/lib/clang/6.0.1/include] ==> [/usr/lib/clang/6.0.1/include]
+  collapse include dir [/usr/include] ==> [/usr/include]
+  implicit include dirs: [/usr/lib/clang/6.0.1/include;/usr/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/local/bin/gmake cmTC_56c2d/fast ]
+  ignore line: [/usr/local/bin/gmake -f CMakeFiles/cmTC_56c2d.dir/build.make CMakeFiles/cmTC_56c2d.dir/build]
+  ignore line: [gmake[1]: Entering directory '/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_56c2d.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_56c2d.dir/CMakeCCompilerABI.c.o   -c /usr/local/share/cmake/Modules/CMakeCCompilerABI.c]
+  ignore line: [FreeBSD clang version 6.0.1 (tags/RELEASE_601/final 335540) (based on LLVM 6.0.1)]
+  ignore line: [Target: x86_64-unknown-freebsd12.0]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /usr/bin]
+  ignore line: [ "/usr/bin/cc" -cc1 -triple x86_64-unknown-freebsd12.0 -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model static -mthread-model posix -mdisable-fp-elim -masm-verbose -mconstructor-aliases -munwind-tables -fuse-init-array -target-cpu x86-64 -dwarf-column-info -debugger-tuning=gdb -v -coverage-notes-file /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_56c2d.dir/CMakeCCompilerABI.c.gcno -resource-dir /usr/lib/clang/6.0.1 -fdebug-compilation-dir /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -fobjc-runtime=gnustep -fdiagnostics-show-option -o CMakeFiles/cmTC_56c2d.dir/CMakeCCompilerABI.c.o -x c /usr/local/share/cmake/Modules/CMakeCCompilerABI.c]
+  ignore line: [clang -cc1 version 6.0.1 based upon LLVM 6.0.1 default target x86_64-unknown-freebsd12.0]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/lib/clang/6.0.1/include]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [Linking C executable cmTC_56c2d]
+  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_56c2d.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_56c2d.dir/CMakeCCompilerABI.c.o  -o cmTC_56c2d ]
+  ignore line: [FreeBSD clang version 6.0.1 (tags/RELEASE_601/final 335540) (based on LLVM 6.0.1)]
+  ignore line: [Target: x86_64-unknown-freebsd12.0]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /usr/bin]
+  link line: [ "/usr/bin/ld" --eh-frame-hdr -dynamic-linker /libexec/ld-elf.so.1 --hash-style=both --enable-new-dtags -o cmTC_56c2d /usr/lib/crt1.o /usr/lib/crti.o /usr/lib/crtbegin.o -L/usr/lib CMakeFiles/cmTC_56c2d.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/crtend.o /usr/lib/crtn.o]
+    arg [/usr/bin/ld] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/libexec/ld-elf.so.1] ==> ignore
+    arg [--hash-style=both] ==> ignore
+    arg [--enable-new-dtags] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_56c2d] ==> ignore
+    arg [/usr/lib/crt1.o] ==> ignore
+    arg [/usr/lib/crti.o] ==> ignore
+    arg [/usr/lib/crtbegin.o] ==> ignore
+    arg [-L/usr/lib] ==> dir [/usr/lib]
+    arg [CMakeFiles/cmTC_56c2d.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [/usr/lib/crtend.o] ==> ignore
+    arg [/usr/lib/crtn.o] ==> ignore
+  collapse library dir [/usr/lib] ==> [/usr/lib]
+  implicit libs: [gcc;gcc_s;c;gcc;gcc_s]
+  implicit dirs: [/usr/lib]
+  implicit fwks: []
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/gmake cmTC_7c92e/fast 
+/usr/local/bin/gmake -f CMakeFiles/cmTC_7c92e.dir/build.make CMakeFiles/cmTC_7c92e.dir/build
+gmake[1]: 进入目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_7c92e.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_7c92e.dir/feature_tests.c.o   -c /usr/home/ylj/tinnyrenderer/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_7c92e
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7c92e.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_7c92e.dir/feature_tests.c.o  -o cmTC_7c92e 
+gmake[1]: 离开目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/gmake cmTC_0cf53/fast 
+/usr/local/bin/gmake -f CMakeFiles/cmTC_0cf53.dir/build.make CMakeFiles/cmTC_0cf53.dir/build
+gmake[1]: 进入目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_0cf53.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_0cf53.dir/feature_tests.c.o   -c /usr/home/ylj/tinnyrenderer/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_0cf53
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0cf53.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_0cf53.dir/feature_tests.c.o  -o cmTC_0cf53 
+gmake[1]: 离开目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/gmake cmTC_d47bd/fast 
+/usr/local/bin/gmake -f CMakeFiles/cmTC_d47bd.dir/build.make CMakeFiles/cmTC_d47bd.dir/build
+gmake[1]: 进入目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_d47bd.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_d47bd.dir/feature_tests.c.o   -c /usr/home/ylj/tinnyrenderer/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_d47bd
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d47bd.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_d47bd.dir/feature_tests.c.o  -o cmTC_d47bd 
+gmake[1]: 离开目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/gmake cmTC_e6176/fast 
+/usr/local/bin/gmake -f CMakeFiles/cmTC_e6176.dir/build.make CMakeFiles/cmTC_e6176.dir/build
+gmake[1]: 进入目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+Building CXX object CMakeFiles/cmTC_e6176.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_e6176.dir/testCXXCompiler.cxx.o -c /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_e6176
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e6176.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_e6176.dir/testCXXCompiler.cxx.o  -o cmTC_e6176 
+gmake[1]: 离开目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/gmake cmTC_841fa/fast 
+/usr/local/bin/gmake -f CMakeFiles/cmTC_841fa.dir/build.make CMakeFiles/cmTC_841fa.dir/build
+gmake[1]: Entering directory '/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_841fa.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++    -v -o CMakeFiles/cmTC_841fa.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+FreeBSD clang version 6.0.1 (tags/RELEASE_601/final 335540) (based on LLVM 6.0.1)
+Target: x86_64-unknown-freebsd12.0
+Thread model: posix
+InstalledDir: /usr/bin
+ "/usr/bin/c++" -cc1 -triple x86_64-unknown-freebsd12.0 -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model static -mthread-model posix -mdisable-fp-elim -masm-verbose -mconstructor-aliases -munwind-tables -fuse-init-array -target-cpu x86-64 -dwarf-column-info -debugger-tuning=gdb -v -coverage-notes-file /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_841fa.dir/CMakeCXXCompilerABI.cpp.gcno -resource-dir /usr/lib/clang/6.0.1 -internal-isystem /usr/include/c++/v1 -fdeprecated-macro -fdebug-compilation-dir /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -fobjc-runtime=gnustep -fcxx-exceptions -fexceptions -fdiagnostics-show-option -o CMakeFiles/cmTC_841fa.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/local/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+clang -cc1 version 6.0.1 based upon LLVM 6.0.1 default target x86_64-unknown-freebsd12.0
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/include/c++/v1
+ /usr/lib/clang/6.0.1/include
+ /usr/include
+End of search list.
+Linking CXX executable cmTC_841fa
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_841fa.dir/link.txt --verbose=1
+/usr/bin/c++      -v CMakeFiles/cmTC_841fa.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_841fa 
+FreeBSD clang version 6.0.1 (tags/RELEASE_601/final 335540) (based on LLVM 6.0.1)
+Target: x86_64-unknown-freebsd12.0
+Thread model: posix
+InstalledDir: /usr/bin
+ "/usr/bin/ld" --eh-frame-hdr -dynamic-linker /libexec/ld-elf.so.1 --hash-style=both --enable-new-dtags -o cmTC_841fa /usr/lib/crt1.o /usr/lib/crti.o /usr/lib/crtbegin.o -L/usr/lib CMakeFiles/cmTC_841fa.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lm -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/crtend.o /usr/lib/crtn.o
+gmake[1]: Leaving directory '/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp'
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/include/c++/v1]
+    add: [/usr/lib/clang/6.0.1/include]
+    add: [/usr/include]
+  end of search list found
+  collapse include dir [/usr/include/c++/v1] ==> [/usr/include/c++/v1]
+  collapse include dir [/usr/lib/clang/6.0.1/include] ==> [/usr/lib/clang/6.0.1/include]
+  collapse include dir [/usr/include] ==> [/usr/include]
+  implicit include dirs: [/usr/include/c++/v1;/usr/lib/clang/6.0.1/include;/usr/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/local/bin/gmake cmTC_841fa/fast ]
+  ignore line: [/usr/local/bin/gmake -f CMakeFiles/cmTC_841fa.dir/build.make CMakeFiles/cmTC_841fa.dir/build]
+  ignore line: [gmake[1]: Entering directory '/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_841fa.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++    -v -o CMakeFiles/cmTC_841fa.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [FreeBSD clang version 6.0.1 (tags/RELEASE_601/final 335540) (based on LLVM 6.0.1)]
+  ignore line: [Target: x86_64-unknown-freebsd12.0]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /usr/bin]
+  ignore line: [ "/usr/bin/c++" -cc1 -triple x86_64-unknown-freebsd12.0 -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model static -mthread-model posix -mdisable-fp-elim -masm-verbose -mconstructor-aliases -munwind-tables -fuse-init-array -target-cpu x86-64 -dwarf-column-info -debugger-tuning=gdb -v -coverage-notes-file /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_841fa.dir/CMakeCXXCompilerABI.cpp.gcno -resource-dir /usr/lib/clang/6.0.1 -internal-isystem /usr/include/c++/v1 -fdeprecated-macro -fdebug-compilation-dir /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -fobjc-runtime=gnustep -fcxx-exceptions -fexceptions -fdiagnostics-show-option -o CMakeFiles/cmTC_841fa.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/local/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [clang -cc1 version 6.0.1 based upon LLVM 6.0.1 default target x86_64-unknown-freebsd12.0]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/include/c++/v1]
+  ignore line: [ /usr/lib/clang/6.0.1/include]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [Linking CXX executable cmTC_841fa]
+  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_841fa.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_841fa.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_841fa ]
+  ignore line: [FreeBSD clang version 6.0.1 (tags/RELEASE_601/final 335540) (based on LLVM 6.0.1)]
+  ignore line: [Target: x86_64-unknown-freebsd12.0]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /usr/bin]
+  link line: [ "/usr/bin/ld" --eh-frame-hdr -dynamic-linker /libexec/ld-elf.so.1 --hash-style=both --enable-new-dtags -o cmTC_841fa /usr/lib/crt1.o /usr/lib/crti.o /usr/lib/crtbegin.o -L/usr/lib CMakeFiles/cmTC_841fa.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lm -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/crtend.o /usr/lib/crtn.o]
+    arg [/usr/bin/ld] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/libexec/ld-elf.so.1] ==> ignore
+    arg [--hash-style=both] ==> ignore
+    arg [--enable-new-dtags] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_841fa] ==> ignore
+    arg [/usr/lib/crt1.o] ==> ignore
+    arg [/usr/lib/crti.o] ==> ignore
+    arg [/usr/lib/crtbegin.o] ==> ignore
+    arg [-L/usr/lib] ==> dir [/usr/lib]
+    arg [CMakeFiles/cmTC_841fa.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lc++] ==> lib [c++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [/usr/lib/crtend.o] ==> ignore
+    arg [/usr/lib/crtn.o] ==> ignore
+  collapse library dir [/usr/lib] ==> [/usr/lib]
+  implicit libs: [c++;m;gcc;gcc_s;c;gcc;gcc_s]
+  implicit dirs: [/usr/lib]
+  implicit fwks: []
+
+
+
+
+Detecting CXX [-std=c++2a] compiler features compiled with the following output:
+Change Dir: /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/gmake cmTC_53940/fast 
+/usr/local/bin/gmake -f CMakeFiles/cmTC_53940.dir/build.make CMakeFiles/cmTC_53940.dir/build
+gmake[1]: 进入目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+Building CXX object CMakeFiles/cmTC_53940.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++2a -o CMakeFiles/cmTC_53940.dir/feature_tests.cxx.o -c /usr/home/ylj/tinnyrenderer/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_53940
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_53940.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_53940.dir/feature_tests.cxx.o  -o cmTC_53940 
+gmake[1]: 离开目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [-std=c++17] compiler features compiled with the following output:
+Change Dir: /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/gmake cmTC_236e7/fast 
+/usr/local/bin/gmake -f CMakeFiles/cmTC_236e7.dir/build.make CMakeFiles/cmTC_236e7.dir/build
+gmake[1]: 进入目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+Building CXX object CMakeFiles/cmTC_236e7.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++17 -o CMakeFiles/cmTC_236e7.dir/feature_tests.cxx.o -c /usr/home/ylj/tinnyrenderer/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_236e7
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_236e7.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_236e7.dir/feature_tests.cxx.o  -o cmTC_236e7 
+gmake[1]: 离开目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [-std=c++14] compiler features compiled with the following output:
+Change Dir: /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/gmake cmTC_7d1cd/fast 
+/usr/local/bin/gmake -f CMakeFiles/cmTC_7d1cd.dir/build.make CMakeFiles/cmTC_7d1cd.dir/build
+gmake[1]: 进入目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+Building CXX object CMakeFiles/cmTC_7d1cd.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_7d1cd.dir/feature_tests.cxx.o -c /usr/home/ylj/tinnyrenderer/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_7d1cd
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7d1cd.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_7d1cd.dir/feature_tests.cxx.o  -o cmTC_7d1cd 
+gmake[1]: 离开目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [-std=c++11] compiler features compiled with the following output:
+Change Dir: /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/gmake cmTC_bff91/fast 
+/usr/local/bin/gmake -f CMakeFiles/cmTC_bff91.dir/build.make CMakeFiles/cmTC_bff91.dir/build
+gmake[1]: 进入目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+Building CXX object CMakeFiles/cmTC_bff91.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_bff91.dir/feature_tests.cxx.o -c /usr/home/ylj/tinnyrenderer/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_bff91
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bff91.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_bff91.dir/feature_tests.cxx.o  -o cmTC_bff91 
+gmake[1]: 离开目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [-std=c++98] compiler features compiled with the following output:
+Change Dir: /usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/gmake cmTC_6478d/fast 
+/usr/local/bin/gmake -f CMakeFiles/cmTC_6478d.dir/build.make CMakeFiles/cmTC_6478d.dir/build
+gmake[1]: 进入目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+Building CXX object CMakeFiles/cmTC_6478d.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_6478d.dir/feature_tests.cxx.o -c /usr/home/ylj/tinnyrenderer/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_6478d
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6478d.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_6478d.dir/feature_tests.cxx.o  -o cmTC_6478d 
+gmake[1]: 离开目录“/usr/home/ylj/tinnyrenderer/build/CMakeFiles/CMakeTmp”
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:0cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:0cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:0cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:0cxx_default_function_template_args
+    Feature record: CXX_FEATURE:0cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:0cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:0cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:0cxx_explicit_conversions
+    Feature record: CXX_FEATURE:0cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:0cxx_extern_templates
+    Feature record: CXX_FEATURE:0cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:0cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:0cxx_local_type_template_args
+    Feature record: CXX_FEATURE:0cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:0cxx_nullptr
+    Feature record: CXX_FEATURE:0cxx_override
+    Feature record: CXX_FEATURE:0cxx_range_for
+    Feature record: CXX_FEATURE:0cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:0cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:0cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:0cxx_static_assert
+    Feature record: CXX_FEATURE:0cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:0cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:0cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:0cxx_variadic_macros
+    Feature record: CXX_FEATURE:0cxx_variadic_templates

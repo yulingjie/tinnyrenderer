@@ -1,0 +1,4 @@
+[submodule "tinyrenderer"]
+	path = tinyrenderer
+	url = https://github.com/ssloy/tinyrenderer.git
+	branch = master
