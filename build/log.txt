@@ -1,0 +1,3683 @@
+width = 1024 height = 1024
+bboxmin .x = 352 bboxmax.x = 457
+bboxmin.y = 352 bboxmax.y = 457
+bboxmin .x = 287 bboxmax.x = 502
+bboxmin.y = 287 bboxmax.y = 502
+bboxmin .x = 287 bboxmax.x = 502
+bboxmin.y = 287 bboxmax.y = 502
+bboxmin .x = 373 bboxmax.x = 505
+bboxmin.y = 373 bboxmax.y = 505
+bboxmin .x = 373 bboxmax.x = 516
+bboxmin.y = 373 bboxmax.y = 516
+bboxmin .x = 463 bboxmax.x = 541
+bboxmin.y = 463 bboxmax.y = 541
+bboxmin .x = 463 bboxmax.x = 541
+bboxmin.y = 463 bboxmax.y = 541
+bboxmin .x = 247 bboxmax.x = 433
+bboxmin.y = 247 bboxmax.y = 433
+bboxmin .x = 247 bboxmax.x = 462
+bboxmin.y = 247 bboxmax.y = 462
+bboxmin .x = 275 bboxmax.x = 469
+bboxmin.y = 275 bboxmax.y = 469
+bboxmin .x = 270 bboxmax.x = 455
+bboxmin.y = 270 bboxmax.y = 455
+bboxmin .x = 263 bboxmax.x = 466
+bboxmin.y = 263 bboxmax.y = 466
+bboxmin .x = 263 bboxmax.x = 453
+bboxmin.y = 263 bboxmax.y = 453
+bboxmin .x = 286 bboxmax.x = 490
+bboxmin.y = 286 bboxmax.y = 490
+bboxmin .x = 279 bboxmax.x = 475
+bboxmin.y = 279 bboxmax.y = 475
+bboxmin .x = 528 bboxmax.x = 592
+bboxmin.y = 528 bboxmax.y = 592
+bboxmin .x = 528 bboxmax.x = 592
+bboxmin.y = 528 bboxmax.y = 592
+bboxmin .x = 521 bboxmax.x = 559
+bboxmin.y = 521 bboxmax.y = 559
+bboxmin .x = 519 bboxmax.x = 559
+bboxmin.y = 519 bboxmax.y = 559
+bboxmin .x = 506 bboxmax.x = 513
+bboxmin.y = 506 bboxmax.y = 513
+bboxmin .x = 506 bboxmax.x = 520
+bboxmin.y = 506 bboxmax.y = 520
+bboxmin .x = 516 bboxmax.x = 539
+bboxmin.y = 516 bboxmax.y = 539
+bboxmin .x = 516 bboxmax.x = 550
+bboxmin.y = 516 bboxmax.y = 550
+bboxmin .x = 499 bboxmax.x = 509
+bboxmin.y = 499 bboxmax.y = 509
+bboxmin .x = 499 bboxmax.x = 509
+bboxmin.y = 499 bboxmax.y = 509
+bboxmin .x = 527 bboxmax.x = 581
+bboxmin.y = 527 bboxmax.y = 581
+bboxmin .x = 527 bboxmax.x = 589
+bboxmin.y = 527 bboxmax.y = 589
+bboxmin .x = 512 bboxmax.x = 539
+bboxmin.y = 512 bboxmax.y = 539
+bboxmin .x = 516 bboxmax.x = 539
+bboxmin.y = 516 bboxmax.y = 539
+bboxmin .x = 462 bboxmax.x = 603
+bboxmin.y = 462 bboxmax.y = 603
+bboxmin .x = 462 bboxmax.x = 594
+bboxmin.y = 462 bboxmax.y = 594
+bboxmin .x = 460 bboxmax.x = 575
+bboxmin.y = 460 bboxmax.y = 575
+bboxmin .x = 462 bboxmax.x = 575
+bboxmin.y = 462 bboxmax.y = 575
+bboxmin .x = 470 bboxmax.x = 634
+bboxmin.y = 470 bboxmax.y = 634
+bboxmin .x = 465 bboxmax.x = 634
+bboxmin.y = 465 bboxmax.y = 634
+bboxmin .x = 452 bboxmax.x = 518
+bboxmin.y = 452 bboxmax.y = 518
+bboxmin .x = 452 bboxmax.x = 518
+bboxmin.y = 452 bboxmax.y = 518
+bboxmin .x = 452 bboxmax.x = 513
+bboxmin.y = 452 bboxmax.y = 513
+bboxmin .x = 457 bboxmax.x = 551
+bboxmin.y = 457 bboxmax.y = 551
+bboxmin .x = 460 bboxmax.x = 555
+bboxmin.y = 460 bboxmax.y = 555
+bboxmin .x = 455 bboxmax.x = 527
+bboxmin.y = 455 bboxmax.y = 527
+bboxmin .x = 455 bboxmax.x = 527
+bboxmin.y = 455 bboxmax.y = 527
+bboxmin .x = 411 bboxmax.x = 538
+bboxmin.y = 411 bboxmax.y = 538
+bboxmin .x = 411 bboxmax.x = 542
+bboxmin.y = 411 bboxmax.y = 542
+bboxmin .x = 342 bboxmax.x = 521
+bboxmin.y = 342 bboxmax.y = 521
+bboxmin .x = 358 bboxmax.x = 522
+bboxmin.y = 358 bboxmax.y = 522
+bboxmin .x = 345 bboxmax.x = 474
+bboxmin.y = 345 bboxmax.y = 474
+bboxmin .x = 345 bboxmax.x = 474
+bboxmin.y = 345 bboxmax.y = 474
+bboxmin .x = 358 bboxmax.x = 530
+bboxmin.y = 358 bboxmax.y = 530
+bboxmin .x = 381 bboxmax.x = 530
+bboxmin.y = 381 bboxmax.y = 530
+bboxmin .x = 373 bboxmax.x = 502
+bboxmin.y = 373 bboxmax.y = 502
+bboxmin .x = 364 bboxmax.x = 493
+bboxmin.y = 364 bboxmax.y = 493
+bboxmin .x = 350 bboxmax.x = 461
+bboxmin.y = 350 bboxmax.y = 461
+bboxmin .x = 350 bboxmax.x = 466
+bboxmin.y = 350 bboxmax.y = 466
+bboxmin .x = 345 bboxmax.x = 474
+bboxmin.y = 345 bboxmax.y = 474
+bboxmin .x = 345 bboxmax.x = 483
+bboxmin.y = 345 bboxmax.y = 483
+bboxmin .x = 461 bboxmax.x = 524
+bboxmin.y = 461 bboxmax.y = 524
+bboxmin .x = 461 bboxmax.x = 525
+bboxmin.y = 461 bboxmax.y = 525
+bboxmin .x = 403 bboxmax.x = 513
+bboxmin.y = 403 bboxmax.y = 513
+bboxmin .x = 403 bboxmax.x = 523
+bboxmin.y = 403 bboxmax.y = 523
+bboxmin .x = 386 bboxmax.x = 526
+bboxmin.y = 386 bboxmax.y = 526
+bboxmin .x = 401 bboxmax.x = 526
+bboxmin.y = 401 bboxmax.y = 526
+bboxmin .x = 335 bboxmax.x = 456
+bboxmin.y = 335 bboxmax.y = 456
+bboxmin .x = 331 bboxmax.x = 451
+bboxmin.y = 331 bboxmax.y = 451
+bboxmin .x = 361 bboxmax.x = 470
+bboxmin.y = 361 bboxmax.y = 470
+bboxmin .x = 361 bboxmax.x = 480
+bboxmin.y = 361 bboxmax.y = 480
+bboxmin .x = 324 bboxmax.x = 480
+bboxmin.y = 324 bboxmax.y = 480
+bboxmin .x = 332 bboxmax.x = 480
+bboxmin.y = 332 bboxmax.y = 480
+bboxmin .x = 352 bboxmax.x = 483
+bboxmin.y = 352 bboxmax.y = 483
+bboxmin .x = 352 bboxmax.x = 480
+bboxmin.y = 352 bboxmax.y = 480
+bboxmin .x = 342 bboxmax.x = 456
+bboxmin.y = 342 bboxmax.y = 456
+bboxmin .x = 342 bboxmax.x = 453
+bboxmin.y = 342 bboxmax.y = 453
+bboxmin .x = 436 bboxmax.x = 463
+bboxmin.y = 436 bboxmax.y = 463
+bboxmin .x = 442 bboxmax.x = 455
+bboxmin.y = 442 bboxmax.y = 455
+bboxmin .x = 424 bboxmax.x = 486
+bboxmin.y = 424 bboxmax.y = 486
+bboxmin .x = 427 bboxmax.x = 480
+bboxmin.y = 427 bboxmax.y = 480
+bboxmin .x = 431 bboxmax.x = 493
+bboxmin.y = 431 bboxmax.y = 493
+bboxmin .x = 432 bboxmax.x = 483
+bboxmin.y = 432 bboxmax.y = 483
+bboxmin .x = 305 bboxmax.x = 486
+bboxmin.y = 305 bboxmax.y = 486
+bboxmin .x = 305 bboxmax.x = 494
+bboxmin.y = 305 bboxmax.y = 494
+bboxmin .x = 320 bboxmax.x = 518
+bboxmin.y = 320 bboxmax.y = 518
+bboxmin .x = 336 bboxmax.x = 521
+bboxmin.y = 336 bboxmax.y = 521
+bboxmin .x = 361 bboxmax.x = 534
+bboxmin.y = 361 bboxmax.y = 534
+bboxmin .x = 381 bboxmax.x = 536
+bboxmin.y = 381 bboxmax.y = 536
+bboxmin .x = 411 bboxmax.x = 542
+bboxmin.y = 411 bboxmax.y = 542
+bboxmin .x = 399 bboxmax.x = 536
+bboxmin.y = 399 bboxmax.y = 536
+bboxmin .x = 423 bboxmax.x = 694
+bboxmin.y = 423 bboxmax.y = 694
+bboxmin .x = 423 bboxmax.x = 694
+bboxmin.y = 423 bboxmax.y = 694
+bboxmin .x = 498 bboxmax.x = 645
+bboxmin.y = 498 bboxmax.y = 645
+bboxmin .x = 498 bboxmax.x = 662
+bboxmin.y = 498 bboxmax.y = 662
+bboxmin .x = 515 bboxmax.x = 634
+bboxmin.y = 515 bboxmax.y = 634
+bboxmin .x = 517 bboxmax.x = 630
+bboxmin.y = 517 bboxmax.y = 630
+bboxmin .x = 440 bboxmax.x = 606
+bboxmin.y = 440 bboxmax.y = 606
+bboxmin .x = 436 bboxmax.x = 606
+bboxmin.y = 436 bboxmax.y = 606
+bboxmin .x = 431 bboxmax.x = 493
+bboxmin.y = 431 bboxmax.y = 493
+bboxmin .x = 431 bboxmax.x = 500
+bboxmin.y = 431 bboxmax.y = 500
+bboxmin .x = 417 bboxmax.x = 490
+bboxmin.y = 417 bboxmax.y = 490
+bboxmin .x = 417 bboxmax.x = 490
+bboxmin.y = 417 bboxmax.y = 490
+bboxmin .x = 422 bboxmax.x = 642
+bboxmin.y = 422 bboxmax.y = 642
+bboxmin .x = 419 bboxmax.x = 642
+bboxmin.y = 419 bboxmax.y = 642
+bboxmin .x = 400 bboxmax.x = 571
+bboxmin.y = 400 bboxmax.y = 571
+bboxmin .x = 400 bboxmax.x = 572
+bboxmin.y = 400 bboxmax.y = 572
+bboxmin .x = 400 bboxmax.x = 607
+bboxmin.y = 400 bboxmax.y = 607
+bboxmin .x = 400 bboxmax.x = 607
+bboxmin.y = 400 bboxmax.y = 607
+bboxmin .x = 485 bboxmax.x = 572
+bboxmin.y = 485 bboxmax.y = 572
+bboxmin .x = 485 bboxmax.x = 564
+bboxmin.y = 485 bboxmax.y = 564
+bboxmin .x = 505 bboxmax.x = 564
+bboxmin.y = 505 bboxmax.y = 564
+bboxmin .x = 505 bboxmax.x = 552
+bboxmin.y = 505 bboxmax.y = 552
+bboxmin .x = 451 bboxmax.x = 480
+bboxmin.y = 451 bboxmax.y = 480
+bboxmin .x = 453 bboxmax.x = 475
+bboxmin.y = 453 bboxmax.y = 475
+bboxmin .x = 397 bboxmax.x = 425
+bboxmin.y = 397 bboxmax.y = 425
+bboxmin .x = 397 bboxmax.x = 441
+bboxmin.y = 397 bboxmax.y = 441
+bboxmin .x = 404 bboxmax.x = 441
+bboxmin.y = 404 bboxmax.y = 441
+bboxmin .x = 404 bboxmax.x = 454
+bboxmin.y = 404 bboxmax.y = 454
+bboxmin .x = 383 bboxmax.x = 433
+bboxmin.y = 383 bboxmax.y = 433
+bboxmin .x = 386 bboxmax.x = 425
+bboxmin.y = 386 bboxmax.y = 425
+bboxmin .x = 441 bboxmax.x = 464
+bboxmin.y = 441 bboxmax.y = 464
+bboxmin .x = 441 bboxmax.x = 466
+bboxmin.y = 441 bboxmax.y = 466
+bboxmin .x = 386 bboxmax.x = 410
+bboxmin.y = 386 bboxmax.y = 410
+bboxmin .x = 383 bboxmax.x = 400
+bboxmin.y = 383 bboxmax.y = 400
+bboxmin .x = 423 bboxmax.x = 454
+bboxmin.y = 423 bboxmax.y = 454
+bboxmin .x = 416 bboxmax.x = 454
+bboxmin.y = 416 bboxmax.y = 454
+bboxmin .x = 436 bboxmax.x = 454
+bboxmin.y = 436 bboxmax.y = 454
+bboxmin .x = 428 bboxmax.x = 460
+bboxmin.y = 428 bboxmax.y = 460
+bboxmin .x = 442 bboxmax.x = 498
+bboxmin.y = 442 bboxmax.y = 498
+bboxmin .x = 442 bboxmax.x = 498
+bboxmin.y = 442 bboxmax.y = 498
+bboxmin .x = 422 bboxmax.x = 672
+bboxmin.y = 422 bboxmax.y = 672
+bboxmin .x = 423 bboxmax.x = 672
+bboxmin.y = 423 bboxmax.y = 672
+bboxmin .x = 446 bboxmax.x = 698
+bboxmin.y = 446 bboxmax.y = 698
+bboxmin .x = 446 bboxmax.x = 698
+bboxmin.y = 446 bboxmax.y = 698
+bboxmin .x = 444 bboxmax.x = 681
+bboxmin.y = 444 bboxmax.y = 681
+bboxmin .x = 420 bboxmax.x = 703
+bboxmin.y = 420 bboxmax.y = 703
+bboxmin .x = 422 bboxmax.x = 703
+bboxmin.y = 422 bboxmax.y = 703
+bboxmin .x = 433 bboxmax.x = 575
+bboxmin.y = 433 bboxmax.y = 575
+bboxmin .x = 433 bboxmax.x = 575
+bboxmin.y = 433 bboxmax.y = 575
+bboxmin .x = 413 bboxmax.x = 573
+bboxmin.y = 413 bboxmax.y = 573
+bboxmin .x = 413 bboxmax.x = 573
+bboxmin.y = 413 bboxmax.y = 573
+bboxmin .x = 440 bboxmax.x = 533
+bboxmin.y = 440 bboxmax.y = 533
+bboxmin .x = 444 bboxmax.x = 533
+bboxmin.y = 444 bboxmax.y = 533
+bboxmin .x = 353 bboxmax.x = 463
+bboxmin.y = 353 bboxmax.y = 463
+bboxmin .x = 353 bboxmax.x = 458
+bboxmin.y = 353 bboxmax.y = 458
+bboxmin .x = 421 bboxmax.x = 447
+bboxmin.y = 421 bboxmax.y = 447
+bboxmin .x = 421 bboxmax.x = 445
+bboxmin.y = 421 bboxmax.y = 445
+bboxmin .x = 413 bboxmax.x = 432
+bboxmin.y = 413 bboxmax.y = 432
+bboxmin .x = 413 bboxmax.x = 430
+bboxmin.y = 413 bboxmax.y = 430
+bboxmin .x = 363 bboxmax.x = 412
+bboxmin.y = 363 bboxmax.y = 412
+bboxmin .x = 361 bboxmax.x = 432
+bboxmin.y = 361 bboxmax.y = 432
+bboxmin .x = 356 bboxmax.x = 412
+bboxmin.y = 356 bboxmax.y = 412
+bboxmin .x = 355 bboxmax.x = 429
+bboxmin.y = 355 bboxmax.y = 429
+bboxmin .x = 397 bboxmax.x = 421
+bboxmin.y = 397 bboxmax.y = 421
+bboxmin .x = 395 bboxmax.x = 410
+bboxmin.y = 395 bboxmax.y = 410
+bboxmin .x = 363 bboxmax.x = 411
+bboxmin.y = 363 bboxmax.y = 411
+bboxmin .x = 363 bboxmax.x = 400
+bboxmin.y = 363 bboxmax.y = 400
+bboxmin .x = 414 bboxmax.x = 448
+bboxmin.y = 414 bboxmax.y = 448
+bboxmin .x = 411 bboxmax.x = 448
+bboxmin.y = 411 bboxmax.y = 448
+bboxmin .x = 411 bboxmax.x = 476
+bboxmin.y = 411 bboxmax.y = 476
+bboxmin .x = 411 bboxmax.x = 476
+bboxmin.y = 411 bboxmax.y = 476
+bboxmin .x = 408 bboxmax.x = 492
+bboxmin.y = 408 bboxmax.y = 492
+bboxmin .x = 411 bboxmax.x = 490
+bboxmin.y = 411 bboxmax.y = 490
+bboxmin .x = 408 bboxmax.x = 506
+bboxmin.y = 408 bboxmax.y = 506
+bboxmin .x = 408 bboxmax.x = 506
+bboxmin.y = 408 bboxmax.y = 506
+bboxmin .x = 400 bboxmax.x = 448
+bboxmin.y = 400 bboxmax.y = 448
+bboxmin .x = 400 bboxmax.x = 449
+bboxmin.y = 400 bboxmax.y = 449
+bboxmin .x = 400 bboxmax.x = 461
+bboxmin.y = 400 bboxmax.y = 461
+bboxmin .x = 400 bboxmax.x = 462
+bboxmin.y = 400 bboxmax.y = 462
+bboxmin .x = 517 bboxmax.x = 630
+bboxmin.y = 517 bboxmax.y = 630
+bboxmin .x = 517 bboxmax.x = 630
+bboxmin.y = 517 bboxmax.y = 630
+bboxmin .x = 491 bboxmax.x = 526
+bboxmin.y = 491 bboxmax.y = 526
+bboxmin .x = 491 bboxmax.x = 526
+bboxmin.y = 491 bboxmax.y = 526
+bboxmin .x = 508 bboxmax.x = 524
+bboxmin.y = 508 bboxmax.y = 524
+bboxmin .x = 505 bboxmax.x = 520
+bboxmin.y = 505 bboxmax.y = 520
+bboxmin .x = 505 bboxmax.x = 540
+bboxmin.y = 505 bboxmax.y = 540
+bboxmin .x = 505 bboxmax.x = 544
+bboxmin.y = 505 bboxmax.y = 544
+bboxmin .x = 488 bboxmax.x = 532
+bboxmin.y = 488 bboxmax.y = 532
+bboxmin .x = 491 bboxmax.x = 530
+bboxmin.y = 491 bboxmax.y = 530
+bboxmin .x = 495 bboxmax.x = 512
+bboxmin.y = 495 bboxmax.y = 512
+bboxmin .x = 495 bboxmax.x = 514
+bboxmin.y = 495 bboxmax.y = 514
+bboxmin .x = 471 bboxmax.x = 538
+bboxmin.y = 471 bboxmax.y = 538
+bboxmin .x = 471 bboxmax.x = 538
+bboxmin.y = 471 bboxmax.y = 538
+bboxmin .x = 485 bboxmax.x = 535
+bboxmin.y = 485 bboxmax.y = 535
+bboxmin .x = 479 bboxmax.x = 538
+bboxmin.y = 479 bboxmax.y = 538
+bboxmin .x = 229 bboxmax.x = 432
+bboxmin.y = 229 bboxmax.y = 432
+bboxmin .x = 247 bboxmax.x = 433
+bboxmin.y = 247 bboxmax.y = 433
+bboxmin .x = 299 bboxmax.x = 467
+bboxmin.y = 299 bboxmax.y = 467
+bboxmin .x = 290 bboxmax.x = 455
+bboxmin.y = 290 bboxmax.y = 455
+bboxmin .x = 300 bboxmax.x = 424
+bboxmin.y = 300 bboxmax.y = 424
+bboxmin .x = 299 bboxmax.x = 440
+bboxmin.y = 299 bboxmax.y = 440
+bboxmin .x = 348 bboxmax.x = 456
+bboxmin.y = 348 bboxmax.y = 456
+bboxmin .x = 348 bboxmax.x = 456
+bboxmin.y = 348 bboxmax.y = 456
+bboxmin .x = 349 bboxmax.x = 458
+bboxmin.y = 349 bboxmax.y = 458
+bboxmin .x = 351 bboxmax.x = 440
+bboxmin.y = 351 bboxmax.y = 440
+bboxmin .x = 351 bboxmax.x = 435
+bboxmin.y = 351 bboxmax.y = 435
+bboxmin .x = 391 bboxmax.x = 513
+bboxmin.y = 391 bboxmax.y = 513
+bboxmin .x = 403 bboxmax.x = 513
+bboxmin.y = 403 bboxmax.y = 513
+bboxmin .x = 418 bboxmax.x = 514
+bboxmin.y = 418 bboxmax.y = 514
+bboxmin .x = 432 bboxmax.x = 514
+bboxmin.y = 432 bboxmax.y = 514
+bboxmin .x = 419 bboxmax.x = 476
+bboxmin.y = 419 bboxmax.y = 476
+bboxmin .x = 419 bboxmax.x = 464
+bboxmin.y = 419 bboxmax.y = 464
+bboxmin .x = 380 bboxmax.x = 484
+bboxmin.y = 380 bboxmax.y = 484
+bboxmin .x = 370 bboxmax.x = 480
+bboxmin.y = 370 bboxmax.y = 480
+bboxmin .x = 446 bboxmax.x = 524
+bboxmin.y = 446 bboxmax.y = 524
+bboxmin .x = 446 bboxmax.x = 513
+bboxmin.y = 446 bboxmax.y = 513
+bboxmin .x = 471 bboxmax.x = 513
+bboxmin.y = 471 bboxmax.y = 513
+bboxmin .x = 471 bboxmax.x = 518
+bboxmin.y = 471 bboxmax.y = 518
+bboxmin .x = 508 bboxmax.x = 530
+bboxmin.y = 508 bboxmax.y = 530
+bboxmin .x = 508 bboxmax.x = 530
+bboxmin.y = 508 bboxmax.y = 530
+bboxmin .x = 461 bboxmax.x = 525
+bboxmin.y = 461 bboxmax.y = 525
+bboxmin .x = 452 bboxmax.x = 532
+bboxmin.y = 452 bboxmax.y = 532
+bboxmin .x = 495 bboxmax.x = 514
+bboxmin.y = 495 bboxmax.y = 514
+bboxmin .x = 492 bboxmax.x = 519
+bboxmin.y = 492 bboxmax.y = 519
+bboxmin .x = 445 bboxmax.x = 669
+bboxmin.y = 445 bboxmax.y = 669
+bboxmin .x = 447 bboxmax.x = 669
+bboxmin.y = 447 bboxmax.y = 669
+bboxmin .x = 473 bboxmax.x = 680
+bboxmin.y = 473 bboxmax.y = 680
+bboxmin .x = 474 bboxmax.x = 680
+bboxmin.y = 474 bboxmax.y = 680
+bboxmin .x = 349 bboxmax.x = 453
+bboxmin.y = 349 bboxmax.y = 453
+bboxmin .x = 351 bboxmax.x = 448
+bboxmin.y = 351 bboxmax.y = 448
+bboxmin .x = 265 bboxmax.x = 442
+bboxmin.y = 265 bboxmax.y = 442
+bboxmin .x = 265 bboxmax.x = 442
+bboxmin.y = 265 bboxmax.y = 442
+bboxmin .x = 301 bboxmax.x = 518
+bboxmin.y = 301 bboxmax.y = 518
+bboxmin .x = 301 bboxmax.x = 518
+bboxmin.y = 301 bboxmax.y = 518
+bboxmin .x = 353 bboxmax.x = 516
+bboxmin.y = 353 bboxmax.y = 516
+bboxmin .x = 353 bboxmax.x = 516
+bboxmin.y = 353 bboxmax.y = 516
+bboxmin .x = 417 bboxmax.x = 529
+bboxmin.y = 417 bboxmax.y = 529
+bboxmin .x = 401 bboxmax.x = 526
+bboxmin.y = 401 bboxmax.y = 526
+bboxmin .x = 450 bboxmax.x = 496
+bboxmin.y = 450 bboxmax.y = 496
+bboxmin .x = 450 bboxmax.x = 497
+bboxmin.y = 450 bboxmax.y = 497
+bboxmin .x = 450 bboxmax.x = 486
+bboxmin.y = 450 bboxmax.y = 486
+bboxmin .x = 451 bboxmax.x = 483
+bboxmin.y = 451 bboxmax.y = 483
+bboxmin .x = 336 bboxmax.x = 529
+bboxmin.y = 336 bboxmax.y = 529
+bboxmin .x = 358 bboxmax.x = 530
+bboxmin.y = 358 bboxmax.y = 530
+bboxmin .x = 489 bboxmax.x = 621
+bboxmin.y = 489 bboxmax.y = 621
+bboxmin .x = 495 bboxmax.x = 621
+bboxmin.y = 495 bboxmax.y = 621
+bboxmin .x = 470 bboxmax.x = 527
+bboxmin.y = 470 bboxmax.y = 527
+bboxmin .x = 474 bboxmax.x = 527
+bboxmin.y = 474 bboxmax.y = 527
+bboxmin .x = 436 bboxmax.x = 500
+bboxmin.y = 436 bboxmax.y = 500
+bboxmin .x = 440 bboxmax.x = 500
+bboxmin.y = 440 bboxmax.y = 500
+bboxmin .x = 445 bboxmax.x = 513
+bboxmin.y = 445 bboxmax.y = 513
+bboxmin .x = 445 bboxmax.x = 513
+bboxmin.y = 445 bboxmax.y = 513
+bboxmin .x = 450 bboxmax.x = 496
+bboxmin.y = 450 bboxmax.y = 496
+bboxmin .x = 450 bboxmax.x = 496
+bboxmin.y = 450 bboxmax.y = 496
+bboxmin .x = 443 bboxmax.x = 497
+bboxmin.y = 443 bboxmax.y = 497
+bboxmin .x = 443 bboxmax.x = 497
+bboxmin.y = 443 bboxmax.y = 497
+bboxmin .x = 423 bboxmax.x = 454
+bboxmin.y = 423 bboxmax.y = 454
+bboxmin .x = 314 bboxmax.x = 439
+bboxmin.y = 314 bboxmax.y = 439
+bboxmin .x = 314 bboxmax.x = 452
+bboxmin.y = 314 bboxmax.y = 452
+bboxmin .x = 276 bboxmax.x = 469
+bboxmin.y = 276 bboxmax.y = 469
+bboxmin .x = 286 bboxmax.x = 469
+bboxmin.y = 286 bboxmax.y = 469
+bboxmin .x = 331 bboxmax.x = 501
+bboxmin.y = 331 bboxmax.y = 501
+bboxmin .x = 331 bboxmax.x = 492
+bboxmin.y = 331 bboxmax.y = 492
+bboxmin .x = 382 bboxmax.x = 474
+bboxmin.y = 382 bboxmax.y = 474
+bboxmin .x = 382 bboxmax.x = 484
+bboxmin.y = 382 bboxmax.y = 484
+bboxmin .x = 380 bboxmax.x = 502
+bboxmin.y = 380 bboxmax.y = 502
+bboxmin .x = 391 bboxmax.x = 502
+bboxmin.y = 391 bboxmax.y = 502
+bboxmin .x = 342 bboxmax.x = 461
+bboxmin.y = 342 bboxmax.y = 461
+bboxmin .x = 339 bboxmax.x = 463
+bboxmin.y = 339 bboxmax.y = 463
+bboxmin .x = 350 bboxmax.x = 454
+bboxmin.y = 350 bboxmax.y = 454
+bboxmin .x = 350 bboxmax.x = 456
+bboxmin.y = 350 bboxmax.y = 456
+bboxmin .x = 350 bboxmax.x = 457
+bboxmin.y = 350 bboxmax.y = 457
+bboxmin .x = 350 bboxmax.x = 457
+bboxmin.y = 350 bboxmax.y = 457
+bboxmin .x = 351 bboxmax.x = 455
+bboxmin.y = 351 bboxmax.y = 455
+bboxmin .x = 351 bboxmax.x = 458
+bboxmin.y = 351 bboxmax.y = 458
+bboxmin .x = 411 bboxmax.x = 433
+bboxmin.y = 411 bboxmax.y = 433
+bboxmin .x = 408 bboxmax.x = 433
+bboxmin.y = 408 bboxmax.y = 433
+bboxmin .x = 400 bboxmax.x = 477
+bboxmin.y = 400 bboxmax.y = 477
+bboxmin .x = 400 bboxmax.x = 477
+bboxmin.y = 400 bboxmax.y = 477
+bboxmin .x = 467 bboxmax.x = 513
+bboxmin.y = 467 bboxmax.y = 513
+bboxmin .x = 467 bboxmax.x = 513
+bboxmin.y = 467 bboxmax.y = 513
+bboxmin .x = 467 bboxmax.x = 517
+bboxmin.y = 467 bboxmax.y = 517
+bboxmin .x = 467 bboxmax.x = 518
+bboxmin.y = 467 bboxmax.y = 518
+bboxmin .x = 314 bboxmax.x = 487
+bboxmin.y = 314 bboxmax.y = 487
+bboxmin .x = 314 bboxmax.x = 480
+bboxmin.y = 314 bboxmax.y = 480
+bboxmin .x = 317 bboxmax.x = 463
+bboxmin.y = 317 bboxmax.y = 463
+bboxmin .x = 317 bboxmax.x = 459
+bboxmin.y = 317 bboxmax.y = 459
+bboxmin .x = 436 bboxmax.x = 455
+bboxmin.y = 436 bboxmax.y = 455
+bboxmin .x = 436 bboxmax.x = 455
+bboxmin.y = 436 bboxmax.y = 455
+bboxmin .x = 508 bboxmax.x = 536
+bboxmin.y = 508 bboxmax.y = 536
+bboxmin .x = 508 bboxmax.x = 540
+bboxmin.y = 508 bboxmax.y = 540
+bboxmin .x = 400 bboxmax.x = 493
+bboxmin.y = 400 bboxmax.y = 493
+bboxmin .x = 400 bboxmax.x = 492
+bboxmin.y = 400 bboxmax.y = 492
+bboxmin .x = 400 bboxmax.x = 507
+bboxmin.y = 400 bboxmax.y = 507
+bboxmin .x = 400 bboxmax.x = 506
+bboxmin.y = 400 bboxmax.y = 506
+bboxmin .x = 351 bboxmax.x = 455
+bboxmin.y = 351 bboxmax.y = 455
+bboxmin .x = 351 bboxmax.x = 451
+bboxmin.y = 351 bboxmax.y = 451
+bboxmin .x = 327 bboxmax.x = 451
+bboxmin.y = 327 bboxmax.y = 451
+bboxmin .x = 331 bboxmax.x = 451
+bboxmin.y = 331 bboxmax.y = 451
+bboxmin .x = 325 bboxmax.x = 439
+bboxmin.y = 325 bboxmax.y = 439
+bboxmin .x = 327 bboxmax.x = 440
+bboxmin.y = 327 bboxmax.y = 440
+bboxmin .x = 420 bboxmax.x = 473
+bboxmin.y = 420 bboxmax.y = 473
+bboxmin .x = 425 bboxmax.x = 469
+bboxmin.y = 425 bboxmax.y = 469
+bboxmin .x = 314 bboxmax.x = 439
+bboxmin.y = 314 bboxmax.y = 439
+bboxmin .x = 316 bboxmax.x = 439
+bboxmin.y = 316 bboxmax.y = 439
+bboxmin .x = 420 bboxmax.x = 450
+bboxmin.y = 420 bboxmax.y = 450
+bboxmin .x = 420 bboxmax.x = 450
+bboxmin.y = 420 bboxmax.y = 450
+bboxmin .x = 431 bboxmax.x = 455
+bboxmin.y = 431 bboxmax.y = 455
+bboxmin .x = 440 bboxmax.x = 451
+bboxmin.y = 440 bboxmax.y = 451
+bboxmin .x = 434 bboxmax.x = 457
+bboxmin.y = 434 bboxmax.y = 457
+bboxmin .x = 434 bboxmax.x = 457
+bboxmin.y = 434 bboxmax.y = 457
+bboxmin .x = 425 bboxmax.x = 459
+bboxmin.y = 425 bboxmax.y = 459
+bboxmin .x = 425 bboxmax.x = 459
+bboxmin.y = 425 bboxmax.y = 459
+bboxmin .x = 479 bboxmax.x = 555
+bboxmin.y = 479 bboxmax.y = 555
+bboxmin .x = 485 bboxmax.x = 555
+bboxmin.y = 485 bboxmax.y = 555
+bboxmin .x = 346 bboxmax.x = 462
+bboxmin.y = 346 bboxmax.y = 462
+bboxmin .x = 342 bboxmax.x = 465
+bboxmin.y = 342 bboxmax.y = 465
+bboxmin .x = 340 bboxmax.x = 450
+bboxmin.y = 340 bboxmax.y = 450
+bboxmin .x = 340 bboxmax.x = 446
+bboxmin.y = 340 bboxmax.y = 446
+bboxmin .x = 350 bboxmax.x = 399
+bboxmin.y = 350 bboxmax.y = 399
+bboxmin .x = 350 bboxmax.x = 418
+bboxmin.y = 350 bboxmax.y = 418
+bboxmin .x = 337 bboxmax.x = 440
+bboxmin.y = 337 bboxmax.y = 440
+bboxmin .x = 340 bboxmax.x = 440
+bboxmin.y = 340 bboxmax.y = 440
+bboxmin .x = 352 bboxmax.x = 448
+bboxmin.y = 352 bboxmax.y = 448
+bboxmin .x = 355 bboxmax.x = 429
+bboxmin.y = 355 bboxmax.y = 429
+bboxmin .x = 358 bboxmax.x = 415
+bboxmin.y = 358 bboxmax.y = 415
+bboxmin .x = 357 bboxmax.x = 429
+bboxmin.y = 357 bboxmax.y = 429
+bboxmin .x = 406 bboxmax.x = 421
+bboxmin.y = 406 bboxmax.y = 421
+bboxmin .x = 407 bboxmax.x = 421
+bboxmin.y = 407 bboxmax.y = 421
+bboxmin .x = 400 bboxmax.x = 420
+bboxmin.y = 400 bboxmax.y = 420
+bboxmin .x = 400 bboxmax.x = 420
+bboxmin.y = 400 bboxmax.y = 420
+bboxmin .x = 413 bboxmax.x = 427
+bboxmin.y = 413 bboxmax.y = 427
+bboxmin .x = 414 bboxmax.x = 461
+bboxmin.y = 414 bboxmax.y = 461
+bboxmin .x = 414 bboxmax.x = 459
+bboxmin.y = 414 bboxmax.y = 459
+bboxmin .x = 344 bboxmax.x = 459
+bboxmin.y = 344 bboxmax.y = 459
+bboxmin .x = 344 bboxmax.x = 461
+bboxmin.y = 344 bboxmax.y = 461
+bboxmin .x = 464 bboxmax.x = 493
+bboxmin.y = 464 bboxmax.y = 493
+bboxmin .x = 463 bboxmax.x = 493
+bboxmin.y = 463 bboxmax.y = 493
+bboxmin .x = 498 bboxmax.x = 507
+bboxmin.y = 498 bboxmax.y = 507
+bboxmin .x = 498 bboxmax.x = 507
+bboxmin.y = 498 bboxmax.y = 507
+bboxmin .x = 497 bboxmax.x = 503
+bboxmin.y = 497 bboxmax.y = 503
+bboxmin .x = 497 bboxmax.x = 501
+bboxmin.y = 497 bboxmax.y = 501
+bboxmin .x = 265 bboxmax.x = 424
+bboxmin.y = 265 bboxmax.y = 424
+bboxmin .x = 265 bboxmax.x = 400
+bboxmin.y = 265 bboxmax.y = 400
+bboxmin .x = 266 bboxmax.x = 453
+bboxmin.y = 266 bboxmax.y = 453
+bboxmin .x = 269 bboxmax.x = 455
+bboxmin.y = 269 bboxmax.y = 455
+bboxmin .x = 468 bboxmax.x = 681
+bboxmin.y = 468 bboxmax.y = 681
+bboxmin .x = 468 bboxmax.x = 667
+bboxmin.y = 468 bboxmax.y = 667
+bboxmin .x = 266 bboxmax.x = 453
+bboxmin.y = 266 bboxmax.y = 453
+bboxmin .x = 444 bboxmax.x = 516
+bboxmin.y = 444 bboxmax.y = 516
+bboxmin .x = 444 bboxmax.x = 521
+bboxmin.y = 444 bboxmax.y = 521
+bboxmin .x = 321 bboxmax.x = 529
+bboxmin.y = 321 bboxmax.y = 529
+bboxmin .x = 321 bboxmax.x = 529
+bboxmin.y = 321 bboxmax.y = 529
+bboxmin .x = 441 bboxmax.x = 492
+bboxmin.y = 441 bboxmax.y = 492
+bboxmin .x = 440 bboxmax.x = 492
+bboxmin.y = 440 bboxmax.y = 492
+bboxmin .x = 441 bboxmax.x = 483
+bboxmin.y = 441 bboxmax.y = 483
+bboxmin .x = 443 bboxmax.x = 471
+bboxmin.y = 443 bboxmax.y = 471
+bboxmin .x = 525 bboxmax.x = 592
+bboxmin.y = 525 bboxmax.y = 592
+bboxmin .x = 525 bboxmax.x = 592
+bboxmin.y = 525 bboxmax.y = 592
+bboxmin .x = 505 bboxmax.x = 547
+bboxmin.y = 505 bboxmax.y = 547
+bboxmin .x = 501 bboxmax.x = 547
+bboxmin.y = 501 bboxmax.y = 547
+bboxmin .x = 503 bboxmax.x = 513
+bboxmin.y = 503 bboxmax.y = 513
+bboxmin .x = 501 bboxmax.x = 510
+bboxmin.y = 501 bboxmax.y = 510
+bboxmin .x = 505 bboxmax.x = 552
+bboxmin.y = 505 bboxmax.y = 552
+bboxmin .x = 498 bboxmax.x = 552
+bboxmin.y = 498 bboxmax.y = 552
+bboxmin .x = 472 bboxmax.x = 687
+bboxmin.y = 472 bboxmax.y = 687
+bboxmin .x = 469 bboxmax.x = 687
+bboxmin.y = 469 bboxmax.y = 687
+bboxmin .x = 499 bboxmax.x = 662
+bboxmin.y = 499 bboxmax.y = 662
+bboxmin .x = 496 bboxmax.x = 666
+bboxmin.y = 496 bboxmax.y = 666
+bboxmin .x = 472 bboxmax.x = 687
+bboxmin.y = 472 bboxmax.y = 687
+bboxmin .x = 472 bboxmax.x = 687
+bboxmin.y = 472 bboxmax.y = 687
+bboxmin .x = 509 bboxmax.x = 581
+bboxmin.y = 509 bboxmax.y = 581
+bboxmin .x = 507 bboxmax.x = 581
+bboxmin.y = 507 bboxmax.y = 581
+bboxmin .x = 503 bboxmax.x = 520
+bboxmin.y = 503 bboxmax.y = 520
+bboxmin .x = 503 bboxmax.x = 519
+bboxmin.y = 503 bboxmax.y = 519
+bboxmin .x = 265 bboxmax.x = 423
+bboxmin.y = 265 bboxmax.y = 423
+bboxmin .x = 260 bboxmax.x = 400
+bboxmin.y = 260 bboxmax.y = 400
+bboxmin .x = 284 bboxmax.x = 455
+bboxmin.y = 284 bboxmax.y = 455
+bboxmin .x = 284 bboxmax.x = 454
+bboxmin.y = 284 bboxmax.y = 454
+bboxmin .x = 467 bboxmax.x = 488
+bboxmin.y = 467 bboxmax.y = 488
+bboxmin .x = 465 bboxmax.x = 483
+bboxmin.y = 465 bboxmax.y = 483
+bboxmin .x = 490 bboxmax.x = 526
+bboxmin.y = 490 bboxmax.y = 526
+bboxmin .x = 490 bboxmax.x = 520
+bboxmin.y = 490 bboxmax.y = 520
+bboxmin .x = 350 bboxmax.x = 458
+bboxmin.y = 350 bboxmax.y = 458
+bboxmin .x = 350 bboxmax.x = 458
+bboxmin.y = 350 bboxmax.y = 458
+bboxmin .x = 347 bboxmax.x = 461
+bboxmin.y = 347 bboxmax.y = 461
+bboxmin .x = 347 bboxmax.x = 458
+bboxmin.y = 347 bboxmax.y = 458
+bboxmin .x = 361 bboxmax.x = 432
+bboxmin.y = 361 bboxmax.y = 432
+bboxmin .x = 357 bboxmax.x = 445
+bboxmin.y = 357 bboxmax.y = 445
+bboxmin .x = 377 bboxmax.x = 411
+bboxmin.y = 377 bboxmax.y = 411
+bboxmin .x = 379 bboxmax.x = 411
+bboxmin.y = 379 bboxmax.y = 411
+bboxmin .x = 353 bboxmax.x = 441
+bboxmin.y = 353 bboxmax.y = 441
+bboxmin .x = 353 bboxmax.x = 445
+bboxmin.y = 353 bboxmax.y = 445
+bboxmin .x = 356 bboxmax.x = 412
+bboxmin.y = 356 bboxmax.y = 412
+bboxmin .x = 356 bboxmax.x = 412
+bboxmin.y = 356 bboxmax.y = 412
+bboxmin .x = 400 bboxmax.x = 705
+bboxmin.y = 400 bboxmax.y = 705
+bboxmin .x = 400 bboxmax.x = 705
+bboxmin.y = 400 bboxmax.y = 705
+bboxmin .x = 432 bboxmax.x = 481
+bboxmin.y = 432 bboxmax.y = 481
+bboxmin .x = 441 bboxmax.x = 481
+bboxmin.y = 441 bboxmax.y = 481
+bboxmin .x = 477 bboxmax.x = 494
+bboxmin.y = 477 bboxmax.y = 494
+bboxmin .x = 478 bboxmax.x = 494
+bboxmin.y = 478 bboxmax.y = 494
+bboxmin .x = 485 bboxmax.x = 517
+bboxmin.y = 485 bboxmax.y = 517
+bboxmin .x = 485 bboxmax.x = 512
+bboxmin.y = 485 bboxmax.y = 512
+bboxmin .x = 443 bboxmax.x = 496
+bboxmin.y = 443 bboxmax.y = 496
+bboxmin .x = 443 bboxmax.x = 496
+bboxmin.y = 443 bboxmax.y = 496
+bboxmin .x = 442 bboxmax.x = 498
+bboxmin.y = 442 bboxmax.y = 498
+bboxmin .x = 442 bboxmax.x = 498
+bboxmin.y = 442 bboxmax.y = 498
+bboxmin .x = 269 bboxmax.x = 455
+bboxmin.y = 269 bboxmax.y = 455
+bboxmin .x = 276 bboxmax.x = 455
+bboxmin.y = 276 bboxmax.y = 455
+bboxmin .x = 284 bboxmax.x = 440
+bboxmin.y = 284 bboxmax.y = 440
+bboxmin .x = 280 bboxmax.x = 425
+bboxmin.y = 280 bboxmax.y = 425
+bboxmin .x = 496 bboxmax.x = 506
+bboxmin.y = 496 bboxmax.y = 506
+bboxmin .x = 497 bboxmax.x = 506
+bboxmin.y = 497 bboxmax.y = 506
+bboxmin .x = 496 bboxmax.x = 510
+bboxmin.y = 496 bboxmax.y = 510
+bboxmin .x = 496 bboxmax.x = 506
+bboxmin.y = 496 bboxmax.y = 506
+bboxmin .x = 503 bboxmax.x = 513
+bboxmin.y = 503 bboxmax.y = 513
+bboxmin .x = 502 bboxmax.x = 509
+bboxmin.y = 502 bboxmax.y = 509
+bboxmin .x = 470 bboxmax.x = 520
+bboxmin.y = 470 bboxmax.y = 520
+bboxmin .x = 469 bboxmax.x = 520
+bboxmin.y = 469 bboxmax.y = 520
+bboxmin .x = 440 bboxmax.x = 500
+bboxmin.y = 440 bboxmax.y = 500
+bboxmin .x = 441 bboxmax.x = 498
+bboxmin.y = 441 bboxmax.y = 498
+bboxmin .x = 299 bboxmax.x = 479
+bboxmin.y = 299 bboxmax.y = 479
+bboxmin .x = 312 bboxmax.x = 479
+bboxmin.y = 312 bboxmax.y = 479
+bboxmin .x = 265 bboxmax.x = 442
+bboxmin.y = 265 bboxmax.y = 442
+bboxmin .x = 265 bboxmax.x = 424
+bboxmin.y = 265 bboxmax.y = 424
+bboxmin .x = 305 bboxmax.x = 506
+bboxmin.y = 305 bboxmax.y = 506
+bboxmin .x = 305 bboxmax.x = 506
+bboxmin.y = 305 bboxmax.y = 506
+bboxmin .x = 352 bboxmax.x = 448
+bboxmin.y = 352 bboxmax.y = 448
+bboxmin .x = 350 bboxmax.x = 454
+bboxmin.y = 350 bboxmax.y = 454
+bboxmin .x = 332 bboxmax.x = 469
+bboxmin.y = 332 bboxmax.y = 469
+bboxmin .x = 332 bboxmax.x = 472
+bboxmin.y = 332 bboxmax.y = 472
+bboxmin .x = 375 bboxmax.x = 433
+bboxmin.y = 375 bboxmax.y = 433
+bboxmin .x = 379 bboxmax.x = 433
+bboxmin.y = 379 bboxmax.y = 433
+bboxmin .x = 367 bboxmax.x = 450
+bboxmin.y = 367 bboxmax.y = 450
+bboxmin .x = 372 bboxmax.x = 450
+bboxmin.y = 372 bboxmax.y = 450
+bboxmin .x = 453 bboxmax.x = 471
+bboxmin.y = 453 bboxmax.y = 471
+bboxmin .x = 453 bboxmax.x = 466
+bboxmin.y = 453 bboxmax.y = 466
+bboxmin .x = 419 bboxmax.x = 494
+bboxmin.y = 419 bboxmax.y = 494
+bboxmin .x = 432 bboxmax.x = 494
+bboxmin.y = 432 bboxmax.y = 494
+bboxmin .x = 432 bboxmax.x = 480
+bboxmin.y = 432 bboxmax.y = 480
+bboxmin .x = 432 bboxmax.x = 480
+bboxmin.y = 432 bboxmax.y = 480
+bboxmin .x = 416 bboxmax.x = 504
+bboxmin.y = 416 bboxmax.y = 504
+bboxmin .x = 416 bboxmax.x = 504
+bboxmin.y = 416 bboxmax.y = 504
+bboxmin .x = 444 bboxmax.x = 460
+bboxmin.y = 444 bboxmax.y = 460
+bboxmin .x = 443 bboxmax.x = 470
+bboxmin.y = 443 bboxmax.y = 470
+bboxmin .x = 433 bboxmax.x = 541
+bboxmin.y = 433 bboxmax.y = 541
+bboxmin .x = 433 bboxmax.x = 551
+bboxmin.y = 433 bboxmax.y = 551
+bboxmin .x = 457 bboxmax.x = 539
+bboxmin.y = 457 bboxmax.y = 539
+bboxmin .x = 457 bboxmax.x = 533
+bboxmin.y = 457 bboxmax.y = 533
+bboxmin .x = 489 bboxmax.x = 594
+bboxmin.y = 489 bboxmax.y = 594
+bboxmin .x = 487 bboxmax.x = 594
+bboxmin.y = 487 bboxmax.y = 594
+bboxmin .x = 440 bboxmax.x = 509
+bboxmin.y = 440 bboxmax.y = 509
+bboxmin .x = 442 bboxmax.x = 509
+bboxmin.y = 442 bboxmax.y = 509
+bboxmin .x = 442 bboxmax.x = 506
+bboxmin.y = 442 bboxmax.y = 506
+bboxmin .x = 442 bboxmax.x = 506
+bboxmin.y = 442 bboxmax.y = 506
+bboxmin .x = 525 bboxmax.x = 571
+bboxmin.y = 525 bboxmax.y = 571
+bboxmin .x = 521 bboxmax.x = 571
+bboxmin.y = 521 bboxmax.y = 571
+bboxmin .x = 225 bboxmax.x = 432
+bboxmin.y = 225 bboxmax.y = 432
+bboxmin .x = 211 bboxmax.x = 400
+bboxmin.y = 211 bboxmax.y = 400
+bboxmin .x = 341 bboxmax.x = 511
+bboxmin.y = 341 bboxmax.y = 511
+bboxmin .x = 335 bboxmax.x = 463
+bboxmin.y = 335 bboxmax.y = 463
+bboxmin .x = 335 bboxmax.x = 459
+bboxmin.y = 335 bboxmax.y = 459
+bboxmin .x = 313 bboxmax.x = 508
+bboxmin.y = 313 bboxmax.y = 508
+bboxmin .x = 302 bboxmax.x = 491
+bboxmin.y = 302 bboxmax.y = 491
+bboxmin .x = 341 bboxmax.x = 518
+bboxmin.y = 341 bboxmax.y = 518
+bboxmin .x = 302 bboxmax.x = 508
+bboxmin.y = 302 bboxmax.y = 508
+bboxmin .x = 302 bboxmax.x = 508
+bboxmin.y = 302 bboxmax.y = 508
+bboxmin .x = 505 bboxmax.x = 549
+bboxmin.y = 505 bboxmax.y = 549
+bboxmin .x = 513 bboxmax.x = 549
+bboxmin.y = 513 bboxmax.y = 549
+bboxmin .x = 445 bboxmax.x = 640
+bboxmin.y = 445 bboxmax.y = 640
+bboxmin .x = 440 bboxmax.x = 640
+bboxmin.y = 440 bboxmax.y = 640
+bboxmin .x = 400 bboxmax.x = 643
+bboxmin.y = 400 bboxmax.y = 643
+bboxmin .x = 400 bboxmax.x = 643
+bboxmin.y = 400 bboxmax.y = 643
+bboxmin .x = 417 bboxmax.x = 607
+bboxmin.y = 417 bboxmax.y = 607
+bboxmin .x = 419 bboxmax.x = 607
+bboxmin.y = 419 bboxmax.y = 607
+bboxmin .x = 400 bboxmax.x = 696
+bboxmin.y = 400 bboxmax.y = 696
+bboxmin .x = 400 bboxmax.x = 696
+bboxmin.y = 400 bboxmax.y = 696
+bboxmin .x = 400 bboxmax.x = 674
+bboxmin.y = 400 bboxmax.y = 674
+bboxmin .x = 400 bboxmax.x = 674
+bboxmin.y = 400 bboxmax.y = 674
+bboxmin .x = 433 bboxmax.x = 529
+bboxmin.y = 433 bboxmax.y = 529
+bboxmin .x = 433 bboxmax.x = 532
+bboxmin.y = 433 bboxmax.y = 532
+bboxmin .x = 418 bboxmax.x = 533
+bboxmin.y = 418 bboxmax.y = 533
+bboxmin .x = 418 bboxmax.x = 536
+bboxmin.y = 418 bboxmax.y = 536
+bboxmin .x = 418 bboxmax.x = 536
+bboxmin.y = 418 bboxmax.y = 536
+bboxmin .x = 402 bboxmax.x = 533
+bboxmin.y = 402 bboxmax.y = 533
+bboxmin .x = 286 bboxmax.x = 486
+bboxmin.y = 286 bboxmax.y = 486
+bboxmin .x = 286 bboxmax.x = 479
+bboxmin.y = 286 bboxmax.y = 479
+bboxmin .x = 325 bboxmax.x = 469
+bboxmin.y = 325 bboxmax.y = 469
+bboxmin .x = 332 bboxmax.x = 469
+bboxmin.y = 332 bboxmax.y = 469
+bboxmin .x = 343 bboxmax.x = 459
+bboxmin.y = 343 bboxmax.y = 459
+bboxmin .x = 343 bboxmax.x = 456
+bboxmin.y = 343 bboxmax.y = 456
+bboxmin .x = 348 bboxmax.x = 456
+bboxmin.y = 348 bboxmax.y = 456
+bboxmin .x = 349 bboxmax.x = 454
+bboxmin.y = 349 bboxmax.y = 454
+bboxmin .x = 487 bboxmax.x = 512
+bboxmin.y = 487 bboxmax.y = 512
+bboxmin .x = 491 bboxmax.x = 512
+bboxmin.y = 491 bboxmax.y = 512
+bboxmin .x = 495 bboxmax.x = 502
+bboxmin.y = 495 bboxmax.y = 502
+bboxmin .x = 494 bboxmax.x = 501
+bboxmin.y = 494 bboxmax.y = 501
+bboxmin .x = 496 bboxmax.x = 500
+bboxmin.y = 496 bboxmax.y = 500
+bboxmin .x = 495 bboxmax.x = 499
+bboxmin.y = 495 bboxmax.y = 499
+bboxmin .x = 491 bboxmax.x = 508
+bboxmin.y = 491 bboxmax.y = 508
+bboxmin .x = 494 bboxmax.x = 508
+bboxmin.y = 494 bboxmax.y = 508
+bboxmin .x = 495 bboxmax.x = 645
+bboxmin.y = 495 bboxmax.y = 645
+bboxmin .x = 498 bboxmax.x = 645
+bboxmin.y = 498 bboxmax.y = 645
+bboxmin .x = 470 bboxmax.x = 660
+bboxmin.y = 470 bboxmax.y = 660
+bboxmin .x = 473 bboxmax.x = 660
+bboxmin.y = 473 bboxmax.y = 660
+bboxmin .x = 515 bboxmax.x = 600
+bboxmin.y = 515 bboxmax.y = 600
+bboxmin .x = 509 bboxmax.x = 600
+bboxmin.y = 509 bboxmax.y = 600
+bboxmin .x = 508 bboxmax.x = 520
+bboxmin.y = 508 bboxmax.y = 520
+bboxmin .x = 508 bboxmax.x = 529
+bboxmin.y = 508 bboxmax.y = 529
+bboxmin .x = 498 bboxmax.x = 538
+bboxmin.y = 498 bboxmax.y = 538
+bboxmin .x = 493 bboxmax.x = 538
+bboxmin.y = 493 bboxmax.y = 538
+bboxmin .x = 479 bboxmax.x = 539
+bboxmin.y = 479 bboxmax.y = 539
+bboxmin .x = 474 bboxmax.x = 539
+bboxmin.y = 474 bboxmax.y = 539
+bboxmin .x = 358 bboxmax.x = 493
+bboxmin.y = 358 bboxmax.y = 493
+bboxmin .x = 358 bboxmax.x = 490
+bboxmin.y = 358 bboxmax.y = 490
+bboxmin .x = 304 bboxmax.x = 452
+bboxmin.y = 304 bboxmax.y = 452
+bboxmin .x = 299 bboxmax.x = 440
+bboxmin.y = 299 bboxmax.y = 440
+bboxmin .x = 304 bboxmax.x = 467
+bboxmin.y = 304 bboxmax.y = 467
+bboxmin .x = 304 bboxmax.x = 463
+bboxmin.y = 304 bboxmax.y = 463
+bboxmin .x = 334 bboxmax.x = 483
+bboxmin.y = 334 bboxmax.y = 483
+bboxmin .x = 331 bboxmax.x = 487
+bboxmin.y = 331 bboxmax.y = 487
+bboxmin .x = 392 bboxmax.x = 459
+bboxmin.y = 392 bboxmax.y = 459
+bboxmin .x = 392 bboxmax.x = 454
+bboxmin.y = 392 bboxmax.y = 454
+bboxmin .x = 415 bboxmax.x = 441
+bboxmin.y = 415 bboxmax.y = 441
+bboxmin .x = 415 bboxmax.x = 441
+bboxmin.y = 415 bboxmax.y = 441
+bboxmin .x = 420 bboxmax.x = 455
+bboxmin.y = 420 bboxmax.y = 455
+bboxmin .x = 420 bboxmax.x = 450
+bboxmin.y = 420 bboxmax.y = 450
+bboxmin .x = 420 bboxmax.x = 440
+bboxmin.y = 420 bboxmax.y = 440
+bboxmin .x = 415 bboxmax.x = 441
+bboxmin.y = 415 bboxmax.y = 441
+bboxmin .x = 420 bboxmax.x = 523
+bboxmin.y = 420 bboxmax.y = 523
+bboxmin .x = 420 bboxmax.x = 541
+bboxmin.y = 420 bboxmax.y = 541
+bboxmin .x = 417 bboxmax.x = 523
+bboxmin.y = 417 bboxmax.y = 523
+bboxmin .x = 417 bboxmax.x = 529
+bboxmin.y = 417 bboxmax.y = 529
+bboxmin .x = 265 bboxmax.x = 425
+bboxmin.y = 265 bboxmax.y = 425
+bboxmin .x = 358 bboxmax.x = 400
+bboxmin.y = 358 bboxmax.y = 400
+bboxmin .x = 358 bboxmax.x = 415
+bboxmin.y = 358 bboxmax.y = 415
+bboxmin .x = 351 bboxmax.x = 435
+bboxmin.y = 351 bboxmax.y = 435
+bboxmin .x = 352 bboxmax.x = 435
+bboxmin.y = 352 bboxmax.y = 435
+bboxmin .x = 316 bboxmax.x = 400
+bboxmin.y = 316 bboxmax.y = 400
+bboxmin .x = 316 bboxmax.x = 421
+bboxmin.y = 316 bboxmax.y = 421
+bboxmin .x = 325 bboxmax.x = 424
+bboxmin.y = 325 bboxmax.y = 424
+bboxmin .x = 325 bboxmax.x = 424
+bboxmin.y = 325 bboxmax.y = 424
+bboxmin .x = 300 bboxmax.x = 421
+bboxmin.y = 300 bboxmax.y = 421
+bboxmin .x = 300 bboxmax.x = 400
+bboxmin.y = 300 bboxmax.y = 400
+bboxmin .x = 280 bboxmax.x = 400
+bboxmin.y = 280 bboxmax.y = 400
+bboxmin .x = 280 bboxmax.x = 425
+bboxmin.y = 280 bboxmax.y = 425
+bboxmin .x = 458 bboxmax.x = 507
+bboxmin.y = 458 bboxmax.y = 507
+bboxmin .x = 458 bboxmax.x = 513
+bboxmin.y = 458 bboxmax.y = 513
+bboxmin .x = 470 bboxmax.x = 502
+bboxmin.y = 470 bboxmax.y = 502
+bboxmin .x = 470 bboxmax.x = 496
+bboxmin.y = 470 bboxmax.y = 496
+bboxmin .x = 478 bboxmax.x = 493
+bboxmin.y = 478 bboxmax.y = 493
+bboxmin .x = 478 bboxmax.x = 493
+bboxmin.y = 478 bboxmax.y = 493
+bboxmin .x = 463 bboxmax.x = 495
+bboxmin.y = 463 bboxmax.y = 495
+bboxmin .x = 463 bboxmax.x = 495
+bboxmin.y = 463 bboxmax.y = 495
+bboxmin .x = 465 bboxmax.x = 475
+bboxmin.y = 465 bboxmax.y = 475
+bboxmin .x = 457 bboxmax.x = 484
+bboxmin.y = 457 bboxmax.y = 484
+bboxmin .x = 445 bboxmax.x = 481
+bboxmin.y = 445 bboxmax.y = 481
+bboxmin .x = 445 bboxmax.x = 484
+bboxmin.y = 445 bboxmax.y = 484
+bboxmin .x = 400 bboxmax.x = 433
+bboxmin.y = 400 bboxmax.y = 433
+bboxmin .x = 400 bboxmax.x = 433
+bboxmin.y = 400 bboxmax.y = 433
+bboxmin .x = 407 bboxmax.x = 424
+bboxmin.y = 407 bboxmax.y = 424
+bboxmin .x = 407 bboxmax.x = 424
+bboxmin.y = 407 bboxmax.y = 424
+bboxmin .x = 441 bboxmax.x = 483
+bboxmin.y = 441 bboxmax.y = 483
+bboxmin .x = 440 bboxmax.x = 490
+bboxmin.y = 440 bboxmax.y = 490
+bboxmin .x = 488 bboxmax.x = 517
+bboxmin.y = 488 bboxmax.y = 517
+bboxmin .x = 488 bboxmax.x = 519
+bboxmin.y = 488 bboxmax.y = 519
+bboxmin .x = 464 bboxmax.x = 489
+bboxmin.y = 464 bboxmax.y = 489
+bboxmin .x = 465 bboxmax.x = 489
+bboxmin.y = 465 bboxmax.y = 489
+bboxmin .x = 499 bboxmax.x = 507
+bboxmin.y = 499 bboxmax.y = 507
+bboxmin .x = 499 bboxmax.x = 510
+bboxmin.y = 499 bboxmax.y = 510
+bboxmin .x = 441 bboxmax.x = 494
+bboxmin.y = 441 bboxmax.y = 494
+bboxmin .x = 441 bboxmax.x = 492
+bboxmin.y = 441 bboxmax.y = 492
+bboxmin .x = 445 bboxmax.x = 516
+bboxmin.y = 445 bboxmax.y = 516
+bboxmin .x = 445 bboxmax.x = 516
+bboxmin.y = 445 bboxmax.y = 516
+bboxmin .x = 453 bboxmax.x = 518
+bboxmin.y = 453 bboxmax.y = 518
+bboxmin .x = 455 bboxmax.x = 520
+bboxmin.y = 455 bboxmax.y = 520
+bboxmin .x = 450 bboxmax.x = 489
+bboxmin.y = 450 bboxmax.y = 489
+bboxmin .x = 450 bboxmax.x = 492
+bboxmin.y = 450 bboxmax.y = 492
+bboxmin .x = 491 bboxmax.x = 499
+bboxmin.y = 491 bboxmax.y = 499
+bboxmin .x = 490 bboxmax.x = 494
+bboxmin.y = 490 bboxmax.y = 494
+bboxmin .x = 480 bboxmax.x = 490
+bboxmin.y = 480 bboxmax.y = 490
+bboxmin .x = 482 bboxmax.x = 496
+bboxmin.y = 482 bboxmax.y = 496
+bboxmin .x = 490 bboxmax.x = 497
+bboxmin.y = 490 bboxmax.y = 497
+bboxmin .x = 490 bboxmax.x = 495
+bboxmin.y = 490 bboxmax.y = 495
+bboxmin .x = 440 bboxmax.x = 512
+bboxmin.y = 440 bboxmax.y = 512
+bboxmin .x = 436 bboxmax.x = 512
+bboxmin.y = 436 bboxmax.y = 512
+bboxmin .x = 423 bboxmax.x = 499
+bboxmin.y = 423 bboxmax.y = 499
+bboxmin .x = 424 bboxmax.x = 493
+bboxmin.y = 424 bboxmax.y = 493
+bboxmin .x = 427 bboxmax.x = 446
+bboxmin.y = 427 bboxmax.y = 446
+bboxmin .x = 427 bboxmax.x = 435
+bboxmin.y = 427 bboxmax.y = 435
+bboxmin .x = 427 bboxmax.x = 450
+bboxmin.y = 427 bboxmax.y = 450
+bboxmin .x = 427 bboxmax.x = 445
+bboxmin.y = 427 bboxmax.y = 445
+bboxmin .x = 510 bboxmax.x = 535
+bboxmin.y = 510 bboxmax.y = 535
+bboxmin .x = 510 bboxmax.x = 530
+bboxmin.y = 510 bboxmax.y = 530
+bboxmin .x = 485 bboxmax.x = 535
+bboxmin.y = 485 bboxmax.y = 535
+bboxmin .x = 488 bboxmax.x = 535
+bboxmin.y = 488 bboxmax.y = 535
+bboxmin .x = 452 bboxmax.x = 532
+bboxmin.y = 452 bboxmax.y = 532
+bboxmin .x = 439 bboxmax.x = 536
+bboxmin.y = 439 bboxmax.y = 536
+bboxmin .x = 364 bboxmax.x = 526
+bboxmin.y = 364 bboxmax.y = 526
+bboxmin .x = 364 bboxmax.x = 526
+bboxmin.y = 364 bboxmax.y = 526
+bboxmin .x = 382 bboxmax.x = 530
+bboxmin.y = 382 bboxmax.y = 530
+bboxmin .x = 401 bboxmax.x = 533
+bboxmin.y = 401 bboxmax.y = 533
+bboxmin .x = 342 bboxmax.x = 512
+bboxmin.y = 342 bboxmax.y = 512
+bboxmin .x = 331 bboxmax.x = 501
+bboxmin.y = 331 bboxmax.y = 501
+bboxmin .x = 348 bboxmax.x = 493
+bboxmin.y = 348 bboxmax.y = 493
+bboxmin .x = 348 bboxmax.x = 501
+bboxmin.y = 348 bboxmax.y = 501
+bboxmin .x = 402 bboxmax.x = 538
+bboxmin.y = 402 bboxmax.y = 538
+bboxmin .x = 381 bboxmax.x = 530
+bboxmin.y = 381 bboxmax.y = 530
+bboxmin .x = 346 bboxmax.x = 493
+bboxmin.y = 346 bboxmax.y = 493
+bboxmin .x = 346 bboxmax.x = 493
+bboxmin.y = 346 bboxmax.y = 493
+bboxmin .x = 334 bboxmax.x = 483
+bboxmin.y = 334 bboxmax.y = 483
+bboxmin .x = 334 bboxmax.x = 474
+bboxmin.y = 334 bboxmax.y = 474
+bboxmin .x = 346 bboxmax.x = 466
+bboxmin.y = 346 bboxmax.y = 466
+bboxmin .x = 347 bboxmax.x = 466
+bboxmin.y = 347 bboxmax.y = 466
+bboxmin .x = 452 bboxmax.x = 540
+bboxmin.y = 452 bboxmax.y = 540
+bboxmin .x = 452 bboxmax.x = 540
+bboxmin.y = 452 bboxmax.y = 540
+bboxmin .x = 501 bboxmax.x = 549
+bboxmin.y = 501 bboxmax.y = 549
+bboxmin .x = 501 bboxmax.x = 549
+bboxmin.y = 501 bboxmax.y = 549
+bboxmin .x = 486 bboxmax.x = 504
+bboxmin.y = 486 bboxmax.y = 504
+bboxmin .x = 479 bboxmax.x = 502
+bboxmin.y = 479 bboxmax.y = 502
+bboxmin .x = 490 bboxmax.x = 501
+bboxmin.y = 490 bboxmax.y = 501
+bboxmin .x = 486 bboxmax.x = 496
+bboxmin.y = 486 bboxmax.y = 496
+bboxmin .x = 425 bboxmax.x = 540
+bboxmin.y = 425 bboxmax.y = 540
+bboxmin .x = 425 bboxmax.x = 536
+bboxmin.y = 425 bboxmax.y = 536
+bboxmin .x = 393 bboxmax.x = 406
+bboxmin.y = 393 bboxmax.y = 406
+bboxmin .x = 393 bboxmax.x = 410
+bboxmin.y = 393 bboxmax.y = 410
+bboxmin .x = 407 bboxmax.x = 477
+bboxmin.y = 407 bboxmax.y = 477
+bboxmin .x = 407 bboxmax.x = 486
+bboxmin.y = 407 bboxmax.y = 486
+bboxmin .x = 406 bboxmax.x = 468
+bboxmin.y = 406 bboxmax.y = 468
+bboxmin .x = 406 bboxmax.x = 460
+bboxmin.y = 406 bboxmax.y = 460
+bboxmin .x = 380 bboxmax.x = 466
+bboxmin.y = 380 bboxmax.y = 466
+bboxmin .x = 392 bboxmax.x = 466
+bboxmin.y = 392 bboxmax.y = 466
+bboxmin .x = 380 bboxmax.x = 448
+bboxmin.y = 380 bboxmax.y = 448
+bboxmin .x = 372 bboxmax.x = 450
+bboxmin.y = 372 bboxmax.y = 450
+bboxmin .x = 383 bboxmax.x = 433
+bboxmin.y = 383 bboxmax.y = 433
+bboxmin .x = 383 bboxmax.x = 448
+bboxmin.y = 383 bboxmax.y = 448
+bboxmin .x = 353 bboxmax.x = 451
+bboxmin.y = 353 bboxmax.y = 451
+bboxmin .x = 353 bboxmax.x = 454
+bboxmin.y = 353 bboxmax.y = 454
+bboxmin .x = 351 bboxmax.x = 448
+bboxmin.y = 351 bboxmax.y = 448
+bboxmin .x = 351 bboxmax.x = 451
+bboxmin.y = 351 bboxmax.y = 451
+bboxmin .x = 359 bboxmax.x = 458
+bboxmin.y = 359 bboxmax.y = 458
+bboxmin .x = 363 bboxmax.x = 458
+bboxmin.y = 363 bboxmax.y = 458
+bboxmin .x = 421 bboxmax.x = 432
+bboxmin.y = 421 bboxmax.y = 432
+bboxmin .x = 421 bboxmax.x = 435
+bboxmin.y = 421 bboxmax.y = 435
+bboxmin .x = 434 bboxmax.x = 463
+bboxmin.y = 434 bboxmax.y = 463
+bboxmin .x = 427 bboxmax.x = 469
+bboxmin.y = 427 bboxmax.y = 469
+bboxmin .x = 423 bboxmax.x = 510
+bboxmin.y = 423 bboxmax.y = 510
+bboxmin .x = 429 bboxmax.x = 510
+bboxmin.y = 429 bboxmax.y = 510
+bboxmin .x = 416 bboxmax.x = 518
+bboxmin.y = 416 bboxmax.y = 518
+bboxmin .x = 420 bboxmax.x = 518
+bboxmin.y = 420 bboxmax.y = 518
+bboxmin .x = 408 bboxmax.x = 522
+bboxmin.y = 408 bboxmax.y = 522
+bboxmin .x = 410 bboxmax.x = 522
+bboxmin.y = 410 bboxmax.y = 522
+bboxmin .x = 400 bboxmax.x = 523
+bboxmin.y = 400 bboxmax.y = 523
+bboxmin .x = 400 bboxmax.x = 523
+bboxmin.y = 400 bboxmax.y = 523
+bboxmin .x = 422 bboxmax.x = 703
+bboxmin.y = 422 bboxmax.y = 703
+bboxmin .x = 422 bboxmax.x = 703
+bboxmin.y = 422 bboxmax.y = 703
+bboxmin .x = 447 bboxmax.x = 680
+bboxmin.y = 447 bboxmax.y = 680
+bboxmin .x = 447 bboxmax.x = 690
+bboxmin.y = 447 bboxmax.y = 690
+bboxmin .x = 312 bboxmax.x = 467
+bboxmin.y = 312 bboxmax.y = 467
+bboxmin .x = 312 bboxmax.x = 474
+bboxmin.y = 312 bboxmax.y = 474
+bboxmin .x = 337 bboxmax.x = 418
+bboxmin.y = 337 bboxmax.y = 418
+bboxmin .x = 337 bboxmax.x = 399
+bboxmin.y = 337 bboxmax.y = 399
+bboxmin .x = 497 bboxmax.x = 501
+bboxmin.y = 497 bboxmax.y = 501
+bboxmin .x = 497 bboxmax.x = 503
+bboxmin.y = 497 bboxmax.y = 503
+bboxmin .x = 244 bboxmax.x = 462
+bboxmin.y = 244 bboxmax.y = 462
+bboxmin .x = 225 bboxmax.x = 432
+bboxmin.y = 225 bboxmax.y = 432
+bboxmin .x = 287 bboxmax.x = 500
+bboxmin.y = 287 bboxmax.y = 500
+bboxmin .x = 306 bboxmax.x = 500
+bboxmin.y = 306 bboxmax.y = 500
+bboxmin .x = 266 bboxmax.x = 498
+bboxmin.y = 266 bboxmax.y = 498
+bboxmin .x = 287 bboxmax.x = 502
+bboxmin.y = 287 bboxmax.y = 502
+bboxmin .x = 286 bboxmax.x = 491
+bboxmin.y = 286 bboxmax.y = 491
+bboxmin .x = 271 bboxmax.x = 466
+bboxmin.y = 271 bboxmax.y = 466
+bboxmin .x = 432 bboxmax.x = 520
+bboxmin.y = 432 bboxmax.y = 520
+bboxmin .x = 445 bboxmax.x = 520
+bboxmin.y = 445 bboxmax.y = 520
+bboxmin .x = 469 bboxmax.x = 532
+bboxmin.y = 469 bboxmax.y = 532
+bboxmin .x = 469 bboxmax.x = 526
+bboxmin.y = 469 bboxmax.y = 526
+bboxmin .x = 517 bboxmax.x = 617
+bboxmin.y = 517 bboxmax.y = 617
+bboxmin .x = 515 bboxmax.x = 617
+bboxmin.y = 515 bboxmax.y = 617
+bboxmin .x = 525 bboxmax.x = 571
+bboxmin.y = 525 bboxmax.y = 571
+bboxmin .x = 525 bboxmax.x = 581
+bboxmin.y = 525 bboxmax.y = 581
+bboxmin .x = 487 bboxmax.x = 661
+bboxmin.y = 487 bboxmax.y = 661
+bboxmin .x = 432 bboxmax.x = 500
+bboxmin.y = 432 bboxmax.y = 500
+bboxmin .x = 445 bboxmax.x = 500
+bboxmin.y = 445 bboxmax.y = 500
+bboxmin .x = 394 bboxmax.x = 466
+bboxmin.y = 394 bboxmax.y = 466
+bboxmin .x = 394 bboxmax.x = 477
+bboxmin.y = 394 bboxmax.y = 477
+bboxmin .x = 405 bboxmax.x = 495
+bboxmin.y = 405 bboxmax.y = 495
+bboxmin .x = 405 bboxmax.x = 506
+bboxmin.y = 405 bboxmax.y = 506
+bboxmin .x = 394 bboxmax.x = 495
+bboxmin.y = 394 bboxmax.y = 495
+bboxmin .x = 405 bboxmax.x = 495
+bboxmin.y = 405 bboxmax.y = 495
+bboxmin .x = 370 bboxmax.x = 464
+bboxmin.y = 370 bboxmax.y = 464
+bboxmin .x = 370 bboxmax.x = 474
+bboxmin.y = 370 bboxmax.y = 474
+bboxmin .x = 363 bboxmax.x = 464
+bboxmin.y = 363 bboxmax.y = 464
+bboxmin .x = 370 bboxmax.x = 464
+bboxmin.y = 370 bboxmax.y = 464
+bboxmin .x = 400 bboxmax.x = 413
+bboxmin.y = 400 bboxmax.y = 413
+bboxmin .x = 400 bboxmax.x = 413
+bboxmin.y = 400 bboxmax.y = 413
+bboxmin .x = 420 bboxmax.x = 455
+bboxmin.y = 420 bboxmax.y = 455
+bboxmin .x = 448 bboxmax.x = 544
+bboxmin.y = 448 bboxmax.y = 544
+bboxmin .x = 453 bboxmax.x = 548
+bboxmin.y = 453 bboxmax.y = 548
+bboxmin .x = 469 bboxmax.x = 548
+bboxmin.y = 469 bboxmax.y = 548
+bboxmin .x = 469 bboxmax.x = 552
+bboxmin.y = 469 bboxmax.y = 552
+bboxmin .x = 488 bboxmax.x = 552
+bboxmin.y = 488 bboxmax.y = 552
+bboxmin .x = 488 bboxmax.x = 554
+bboxmin.y = 488 bboxmax.y = 554
+bboxmin .x = 481 bboxmax.x = 554
+bboxmin.y = 481 bboxmax.y = 554
+bboxmin .x = 481 bboxmax.x = 554
+bboxmin.y = 481 bboxmax.y = 554
+bboxmin .x = 465 bboxmax.x = 552
+bboxmin.y = 465 bboxmax.y = 552
+bboxmin .x = 467 bboxmax.x = 552
+bboxmin.y = 467 bboxmax.y = 552
+bboxmin .x = 439 bboxmax.x = 546
+bboxmin.y = 439 bboxmax.y = 546
+bboxmin .x = 436 bboxmax.x = 547
+bboxmin.y = 436 bboxmax.y = 547
+bboxmin .x = 408 bboxmax.x = 543
+bboxmin.y = 408 bboxmax.y = 543
+bboxmin .x = 403 bboxmax.x = 543
+bboxmin.y = 403 bboxmax.y = 543
+bboxmin .x = 393 bboxmax.x = 544
+bboxmin.y = 393 bboxmax.y = 544
+bboxmin .x = 403 bboxmax.x = 543
+bboxmin.y = 403 bboxmax.y = 543
+bboxmin .x = 393 bboxmax.x = 544
+bboxmin.y = 393 bboxmax.y = 544
+bboxmin .x = 393 bboxmax.x = 544
+bboxmin.y = 393 bboxmax.y = 544
+bboxmin .x = 425 bboxmax.x = 532
+bboxmin.y = 425 bboxmax.y = 532
+bboxmin .x = 417 bboxmax.x = 532
+bboxmin.y = 417 bboxmax.y = 532
+bboxmin .x = 448 bboxmax.x = 543
+bboxmin.y = 448 bboxmax.y = 543
+bboxmin .x = 456 bboxmax.x = 543
+bboxmin.y = 456 bboxmax.y = 543
+bboxmin .x = 474 bboxmax.x = 546
+bboxmin.y = 474 bboxmax.y = 546
+bboxmin .x = 474 bboxmax.x = 539
+bboxmin.y = 474 bboxmax.y = 539
+bboxmin .x = 489 bboxmax.x = 547
+bboxmin.y = 489 bboxmax.y = 547
+bboxmin .x = 387 bboxmax.x = 538
+bboxmin.y = 387 bboxmax.y = 538
+bboxmin .x = 387 bboxmax.x = 531
+bboxmin.y = 387 bboxmax.y = 531
+bboxmin .x = 397 bboxmax.x = 536
+bboxmin.y = 397 bboxmax.y = 536
+bboxmin .x = 394 bboxmax.x = 538
+bboxmin.y = 394 bboxmax.y = 538
+bboxmin .x = 418 bboxmax.x = 542
+bboxmin.y = 418 bboxmax.y = 542
+bboxmin .x = 424 bboxmax.x = 540
+bboxmin.y = 424 bboxmax.y = 540
+bboxmin .x = 413 bboxmax.x = 541
+bboxmin.y = 413 bboxmax.y = 541
+bboxmin .x = 413 bboxmax.x = 542
+bboxmin.y = 413 bboxmax.y = 542
+bboxmin .x = 465 bboxmax.x = 546
+bboxmin.y = 465 bboxmax.y = 546
+bboxmin .x = 467 bboxmax.x = 546
+bboxmin.y = 467 bboxmax.y = 546
+bboxmin .x = 439 bboxmax.x = 546
+bboxmin.y = 439 bboxmax.y = 546
+bboxmin .x = 414 bboxmax.x = 547
+bboxmin.y = 414 bboxmax.y = 547
+bboxmin .x = 415 bboxmax.x = 547
+bboxmin.y = 415 bboxmax.y = 547
+bboxmin .x = 465 bboxmax.x = 547
+bboxmin.y = 465 bboxmax.y = 547
+bboxmin .x = 465 bboxmax.x = 546
+bboxmin.y = 465 bboxmax.y = 546
+bboxmin .x = 415 bboxmax.x = 542
+bboxmin.y = 415 bboxmax.y = 542
+bboxmin .x = 425 bboxmax.x = 539
+bboxmin.y = 425 bboxmax.y = 539
+bboxmin .x = 437 bboxmax.x = 539
+bboxmin.y = 437 bboxmax.y = 539
+bboxmin .x = 404 bboxmax.x = 544
+bboxmin.y = 404 bboxmax.y = 544
+bboxmin .x = 408 bboxmax.x = 544
+bboxmin.y = 408 bboxmax.y = 544
+bboxmin .x = 408 bboxmax.x = 543
+bboxmin.y = 408 bboxmax.y = 543
+bboxmin .x = 408 bboxmax.x = 543
+bboxmin.y = 408 bboxmax.y = 543
+bboxmin .x = 430 bboxmax.x = 539
+bboxmin.y = 430 bboxmax.y = 539
+bboxmin .x = 423 bboxmax.x = 544
+bboxmin.y = 423 bboxmax.y = 544
+bboxmin .x = 408 bboxmax.x = 540
+bboxmin.y = 408 bboxmax.y = 540
+bboxmin .x = 408 bboxmax.x = 544
+bboxmin.y = 408 bboxmax.y = 544
+bboxmin .x = 434 bboxmax.x = 541
+bboxmin.y = 434 bboxmax.y = 541
+bboxmin .x = 430 bboxmax.x = 539
+bboxmin.y = 430 bboxmax.y = 539
+bboxmin .x = 378 bboxmax.x = 534
+bboxmin.y = 378 bboxmax.y = 534
+bboxmin .x = 404 bboxmax.x = 544
+bboxmin.y = 404 bboxmax.y = 544
+bboxmin .x = 408 bboxmax.x = 543
+bboxmin.y = 408 bboxmax.y = 543
+bboxmin .x = 481 bboxmax.x = 539
+bboxmin.y = 481 bboxmax.y = 539
+bboxmin .x = 494 bboxmax.x = 537
+bboxmin.y = 494 bboxmax.y = 537
+bboxmin .x = 373 bboxmax.x = 527
+bboxmin.y = 373 bboxmax.y = 527
+bboxmin .x = 260 bboxmax.x = 430
+bboxmin.y = 260 bboxmax.y = 430
+bboxmin .x = 260 bboxmax.x = 430
+bboxmin.y = 260 bboxmax.y = 430
+bboxmin .x = 429 bboxmax.x = 512
+bboxmin.y = 429 bboxmax.y = 512
+bboxmin .x = 429 bboxmax.x = 523
+bboxmin.y = 429 bboxmax.y = 523
+bboxmin .x = 481 bboxmax.x = 519
+bboxmin.y = 481 bboxmax.y = 519
+bboxmin .x = 476 bboxmax.x = 525
+bboxmin.y = 476 bboxmax.y = 525
+bboxmin .x = 441 bboxmax.x = 542
+bboxmin.y = 441 bboxmax.y = 542
+bboxmin .x = 434 bboxmax.x = 542
+bboxmin.y = 434 bboxmax.y = 542
+bboxmin .x = 461 bboxmax.x = 536
+bboxmin.y = 461 bboxmax.y = 536
+bboxmin .x = 461 bboxmax.x = 536
+bboxmin.y = 461 bboxmax.y = 536
+bboxmin .x = 441 bboxmax.x = 542
+bboxmin.y = 441 bboxmax.y = 542
+bboxmin .x = 441 bboxmax.x = 542
+bboxmin.y = 441 bboxmax.y = 542
+bboxmin .x = 487 bboxmax.x = 512
+bboxmin.y = 487 bboxmax.y = 512
+bboxmin .x = 481 bboxmax.x = 518
+bboxmin.y = 481 bboxmax.y = 518
+bboxmin .x = 399 bboxmax.x = 538
+bboxmin.y = 399 bboxmax.y = 538
+bboxmin .x = 399 bboxmax.x = 539
+bboxmin.y = 399 bboxmax.y = 539
+bboxmin .x = 416 bboxmax.x = 432
+bboxmin.y = 416 bboxmax.y = 432
+bboxmin .x = 356 bboxmax.x = 470
+bboxmin.y = 356 bboxmax.y = 470
+bboxmin .x = 361 bboxmax.x = 470
+bboxmin.y = 361 bboxmax.y = 470
+bboxmin .x = 352 bboxmax.x = 470
+bboxmin.y = 352 bboxmax.y = 470
+bboxmin .x = 350 bboxmax.x = 466
+bboxmin.y = 350 bboxmax.y = 466
+bboxmin .x = 339 bboxmax.x = 474
+bboxmin.y = 339 bboxmax.y = 474
+bboxmin .x = 339 bboxmax.x = 466
+bboxmin.y = 339 bboxmax.y = 466
+bboxmin .x = 445 bboxmax.x = 507
+bboxmin.y = 445 bboxmax.y = 507
+bboxmin .x = 445 bboxmax.x = 488
+bboxmin.y = 445 bboxmax.y = 488
+bboxmin .x = 244 bboxmax.x = 462
+bboxmin.y = 244 bboxmax.y = 462
+bboxmin .x = 244 bboxmax.x = 485
+bboxmin.y = 244 bboxmax.y = 485
+bboxmin .x = 456 bboxmax.x = 539
+bboxmin.y = 456 bboxmax.y = 539
+bboxmin .x = 456 bboxmax.x = 541
+bboxmin.y = 456 bboxmax.y = 541
+bboxmin .x = 446 bboxmax.x = 698
+bboxmin.y = 446 bboxmax.y = 698
+bboxmin .x = 444 bboxmax.x = 698
+bboxmin.y = 444 bboxmax.y = 698
+bboxmin .x = 515 bboxmax.x = 634
+bboxmin.y = 515 bboxmax.y = 634
+bboxmin .x = 512 bboxmax.x = 634
+bboxmin.y = 512 bboxmax.y = 634
+bboxmin .x = 496 bboxmax.x = 666
+bboxmin.y = 496 bboxmax.y = 666
+bboxmin .x = 492 bboxmax.x = 666
+bboxmin.y = 492 bboxmax.y = 666
+bboxmin .x = 400 bboxmax.x = 705
+bboxmin.y = 400 bboxmax.y = 705
+bboxmin .x = 400 bboxmax.x = 705
+bboxmin.y = 400 bboxmax.y = 705
+bboxmin .x = 489 bboxmax.x = 537
+bboxmin.y = 489 bboxmax.y = 537
+bboxmin .x = 410 bboxmax.x = 544
+bboxmin.y = 410 bboxmax.y = 544
+bboxmin .x = 410 bboxmax.x = 541
+bboxmin.y = 410 bboxmax.y = 541
+bboxmin .x = 400 bboxmax.x = 543
+bboxmin.y = 400 bboxmax.y = 543
+bboxmin .x = 400 bboxmax.x = 544
+bboxmin.y = 400 bboxmax.y = 544
+bboxmin .x = 350 bboxmax.x = 457
+bboxmin.y = 350 bboxmax.y = 457
+bboxmin .x = 360 bboxmax.x = 444
+bboxmin.y = 360 bboxmax.y = 444
+bboxmin .x = 359 bboxmax.x = 453
+bboxmin.y = 359 bboxmax.y = 453
+bboxmin .x = 350 bboxmax.x = 457
+bboxmin.y = 350 bboxmax.y = 457
+bboxmin .x = 350 bboxmax.x = 458
+bboxmin.y = 350 bboxmax.y = 458
+bboxmin .x = 325 bboxmax.x = 450
+bboxmin.y = 325 bboxmax.y = 450
+bboxmin .x = 441 bboxmax.x = 500
+bboxmin.y = 441 bboxmax.y = 500
+bboxmin .x = 443 bboxmax.x = 498
+bboxmin.y = 443 bboxmax.y = 498
+bboxmin .x = 443 bboxmax.x = 495
+bboxmin.y = 443 bboxmax.y = 495
+bboxmin .x = 476 bboxmax.x = 495
+bboxmin.y = 476 bboxmax.y = 495
+bboxmin .x = 476 bboxmax.x = 495
+bboxmin.y = 476 bboxmax.y = 495
+bboxmin .x = 493 bboxmax.x = 503
+bboxmin.y = 493 bboxmax.y = 503
+bboxmin .x = 493 bboxmax.x = 505
+bboxmin.y = 493 bboxmax.y = 505
+bboxmin .x = 496 bboxmax.x = 500
+bboxmin.y = 496 bboxmax.y = 500
+bboxmin .x = 496 bboxmax.x = 513
+bboxmin.y = 496 bboxmax.y = 513
+bboxmin .x = 489 bboxmax.x = 517
+bboxmin.y = 489 bboxmax.y = 517
+bboxmin .x = 443 bboxmax.x = 514
+bboxmin.y = 443 bboxmax.y = 514
+bboxmin .x = 275 bboxmax.x = 469
+bboxmin.y = 275 bboxmax.y = 469
+bboxmin .x = 275 bboxmax.x = 475
+bboxmin.y = 275 bboxmax.y = 475
+bboxmin .x = 265 bboxmax.x = 425
+bboxmin.y = 265 bboxmax.y = 425
+bboxmin .x = 265 bboxmax.x = 400
+bboxmin.y = 265 bboxmax.y = 400
+bboxmin .x = 248 bboxmax.x = 433
+bboxmin.y = 248 bboxmax.y = 433
+bboxmin .x = 263 bboxmax.x = 433
+bboxmin.y = 263 bboxmax.y = 433
+bboxmin .x = 271 bboxmax.x = 453
+bboxmin.y = 271 bboxmax.y = 453
+bboxmin .x = 424 bboxmax.x = 546
+bboxmin.y = 424 bboxmax.y = 546
+bboxmin .x = 424 bboxmax.x = 546
+bboxmin.y = 424 bboxmax.y = 546
+bboxmin .x = 418 bboxmax.x = 432
+bboxmin.y = 418 bboxmax.y = 432
+bboxmin .x = 422 bboxmax.x = 440
+bboxmin.y = 422 bboxmax.y = 440
+bboxmin .x = 422 bboxmax.x = 437
+bboxmin.y = 422 bboxmax.y = 437
+bboxmin .x = 325 bboxmax.x = 418
+bboxmin.y = 325 bboxmax.y = 418
+bboxmin .x = 325 bboxmax.x = 400
+bboxmin.y = 325 bboxmax.y = 400
+bboxmin .x = 367 bboxmax.x = 407
+bboxmin.y = 367 bboxmax.y = 407
+bboxmin .x = 367 bboxmax.x = 418
+bboxmin.y = 367 bboxmax.y = 418
+bboxmin .x = 164 bboxmax.x = 455
+bboxmin.y = 164 bboxmax.y = 455
+bboxmin .x = 164 bboxmax.x = 454
+bboxmin.y = 164 bboxmax.y = 454
+bboxmin .x = 216 bboxmax.x = 511
+bboxmin.y = 216 bboxmax.y = 511
+bboxmin .x = 216 bboxmax.x = 511
+bboxmin.y = 216 bboxmax.y = 511
+bboxmin .x = 210 bboxmax.x = 527
+bboxmin.y = 210 bboxmax.y = 527
+bboxmin .x = 210 bboxmax.x = 511
+bboxmin.y = 210 bboxmax.y = 511
+bboxmin .x = 103 bboxmax.x = 465
+bboxmin.y = 103 bboxmax.y = 465
+bboxmin .x = 118 bboxmax.x = 465
+bboxmin.y = 118 bboxmax.y = 465
+bboxmin .x = 237 bboxmax.x = 555
+bboxmin.y = 237 bboxmax.y = 555
+bboxmin .x = 237 bboxmax.x = 555
+bboxmin.y = 237 bboxmax.y = 555
+bboxmin .x = 152 bboxmax.x = 555
+bboxmin.y = 152 bboxmax.y = 555
+bboxmin .x = 170 bboxmax.x = 555
+bboxmin.y = 170 bboxmax.y = 555
+bboxmin .x = 118 bboxmax.x = 502
+bboxmin.y = 118 bboxmax.y = 502
+bboxmin .x = 132 bboxmax.x = 502
+bboxmin.y = 132 bboxmax.y = 502
+bboxmin .x = 132 bboxmax.x = 536
+bboxmin.y = 132 bboxmax.y = 536
+bboxmin .x = 132 bboxmax.x = 517
+bboxmin.y = 132 bboxmax.y = 517
+bboxmin .x = 246 bboxmax.x = 527
+bboxmin.y = 246 bboxmax.y = 527
+bboxmin .x = 258 bboxmax.x = 521
+bboxmin.y = 258 bboxmax.y = 521
+bboxmin .x = 172 bboxmax.x = 534
+bboxmin.y = 172 bboxmax.y = 534
+bboxmin .x = 182 bboxmax.x = 534
+bboxmin.y = 182 bboxmax.y = 534
+bboxmin .x = 170 bboxmax.x = 558
+bboxmin.y = 170 bboxmax.y = 558
+bboxmin .x = 170 bboxmax.x = 534
+bboxmin.y = 170 bboxmax.y = 534
+bboxmin .x = 210 bboxmax.x = 532
+bboxmin.y = 210 bboxmax.y = 532
+bboxmin .x = 199 bboxmax.x = 558
+bboxmin.y = 199 bboxmax.y = 558
+bboxmin .x = 189 bboxmax.x = 511
+bboxmin.y = 189 bboxmax.y = 511
+bboxmin .x = 189 bboxmax.x = 499
+bboxmin.y = 189 bboxmax.y = 499
+bboxmin .x = 189 bboxmax.x = 486
+bboxmin.y = 189 bboxmax.y = 486
+bboxmin .x = 174 bboxmax.x = 455
+bboxmin.y = 174 bboxmax.y = 455
+bboxmin .x = 127 bboxmax.x = 456
+bboxmin.y = 127 bboxmax.y = 456
+bboxmin .x = 139 bboxmax.x = 456
+bboxmin.y = 139 bboxmax.y = 456
+bboxmin .x = 148 bboxmax.x = 517
+bboxmin.y = 148 bboxmax.y = 517
+bboxmin .x = 148 bboxmax.x = 511
+bboxmin.y = 148 bboxmax.y = 511
+bboxmin .x = 139 bboxmax.x = 456
+bboxmin.y = 139 bboxmax.y = 456
+bboxmin .x = 139 bboxmax.x = 486
+bboxmin.y = 139 bboxmax.y = 486
+bboxmin .x = 121 bboxmax.x = 424
+bboxmin.y = 121 bboxmax.y = 424
+bboxmin .x = 121 bboxmax.x = 423
+bboxmin.y = 121 bboxmax.y = 423
+bboxmin .x = 258 bboxmax.x = 512
+bboxmin.y = 258 bboxmax.y = 512
+bboxmin .x = 281 bboxmax.x = 512
+bboxmin.y = 281 bboxmax.y = 512
+bboxmin .x = 103 bboxmax.x = 424
+bboxmin.y = 103 bboxmax.y = 424
+bboxmin .x = 94 bboxmax.x = 400
+bboxmin.y = 94 bboxmax.y = 400
+bboxmin .x = 281 bboxmax.x = 502
+bboxmin.y = 281 bboxmax.y = 502
+bboxmin .x = 190 bboxmax.x = 430
+bboxmin.y = 190 bboxmax.y = 430
+bboxmin .x = 190 bboxmax.x = 430
+bboxmin.y = 190 bboxmax.y = 430
+bboxmin .x = 197 bboxmax.x = 458
+bboxmin.y = 197 bboxmax.y = 458
+bboxmin .x = 197 bboxmax.x = 458
+bboxmin.y = 197 bboxmax.y = 458
+bboxmin .x = 254 bboxmax.x = 499
+bboxmin.y = 254 bboxmax.y = 499
+bboxmin .x = 254 bboxmax.x = 501
+bboxmin.y = 254 bboxmax.y = 501
+bboxmin .x = 230 bboxmax.x = 499
+bboxmin.y = 230 bboxmax.y = 499
+bboxmin .x = 230 bboxmax.x = 498
+bboxmin.y = 230 bboxmax.y = 498
+bboxmin .x = 211 bboxmax.x = 486
+bboxmin.y = 211 bboxmax.y = 486
+bboxmin .x = 211 bboxmax.x = 485
+bboxmin.y = 211 bboxmax.y = 485
+bboxmin .x = 162 bboxmax.x = 426
+bboxmin.y = 162 bboxmax.y = 426
+bboxmin .x = 162 bboxmax.x = 426
+bboxmin.y = 162 bboxmax.y = 426
+bboxmin .x = 237 bboxmax.x = 555
+bboxmin.y = 237 bboxmax.y = 555
+bboxmin .x = 225 bboxmax.x = 584
+bboxmin.y = 225 bboxmax.y = 584
+bboxmin .x = 89 bboxmax.x = 465
+bboxmin.y = 89 bboxmax.y = 465
+bboxmin .x = 75 bboxmax.x = 439
+bboxmin.y = 75 bboxmax.y = 439
+bboxmin .x = 132 bboxmax.x = 536
+bboxmin.y = 132 bboxmax.y = 536
+bboxmin .x = 111 bboxmax.x = 524
+bboxmin.y = 111 bboxmax.y = 524
+bboxmin .x = 192 bboxmax.x = 590
+bboxmin.y = 192 bboxmax.y = 590
+bboxmin .x = 192 bboxmax.x = 590
+bboxmin.y = 192 bboxmax.y = 590
+bboxmin .x = 152 bboxmax.x = 555
+bboxmin.y = 152 bboxmax.y = 555
+bboxmin .x = 135 bboxmax.x = 560
+bboxmin.y = 135 bboxmax.y = 560
+bboxmin .x = 75 bboxmax.x = 432
+bboxmin.y = 75 bboxmax.y = 432
+bboxmin .x = 68 bboxmax.x = 400
+bboxmin.y = 68 bboxmax.y = 400
+bboxmin .x = 89 bboxmax.x = 524
+bboxmin.y = 89 bboxmax.y = 524
+bboxmin .x = 111 bboxmax.x = 524
+bboxmin.y = 111 bboxmax.y = 524
+bboxmin .x = 162 bboxmax.x = 590
+bboxmin.y = 162 bboxmax.y = 590
+bboxmin .x = 162 bboxmax.x = 558
+bboxmin.y = 162 bboxmax.y = 558
+bboxmin .x = 485 bboxmax.x = 512
+bboxmin.y = 485 bboxmax.y = 512
+bboxmin .x = 485 bboxmax.x = 512
+bboxmin.y = 485 bboxmax.y = 512
+bboxmin .x = 346 bboxmax.x = 462
+bboxmin.y = 346 bboxmax.y = 462
+bboxmin .x = 347 bboxmax.x = 462
+bboxmin.y = 347 bboxmax.y = 462
+bboxmin .x = 498 bboxmax.x = 503
+bboxmin.y = 498 bboxmax.y = 503
+bboxmin .x = 498 bboxmax.x = 503
+bboxmin.y = 498 bboxmax.y = 503
+bboxmin .x = 342 bboxmax.x = 453
+bboxmin.y = 342 bboxmax.y = 453
+bboxmin .x = 338 bboxmax.x = 450
+bboxmin.y = 338 bboxmax.y = 450
+bboxmin .x = 499 bboxmax.x = 504
+bboxmin.y = 499 bboxmax.y = 504
+bboxmin .x = 348 bboxmax.x = 458
+bboxmin.y = 348 bboxmax.y = 458
+bboxmin .x = 349 bboxmax.x = 458
+bboxmin.y = 349 bboxmax.y = 458
+bboxmin .x = 350 bboxmax.x = 458
+bboxmin.y = 350 bboxmax.y = 458
+bboxmin .x = 342 bboxmax.x = 355
+bboxmin.y = 342 bboxmax.y = 355
+bboxmin .x = 287 bboxmax.x = 320
+bboxmin.y = 287 bboxmax.y = 320
+bboxmin .x = 287 bboxmax.x = 320
+bboxmin.y = 287 bboxmax.y = 320
+bboxmin .x = 285 bboxmax.x = 403
+bboxmin.y = 285 bboxmax.y = 403
+bboxmin .x = 287 bboxmax.x = 403
+bboxmin.y = 287 bboxmax.y = 403
+bboxmin .x = 260 bboxmax.x = 505
+bboxmin.y = 260 bboxmax.y = 505
+bboxmin .x = 259 bboxmax.x = 505
+bboxmin.y = 259 bboxmax.y = 505
+bboxmin .x = 247 bboxmax.x = 367
+bboxmin.y = 247 bboxmax.y = 367
+bboxmin .x = 247 bboxmax.x = 367
+bboxmin.y = 247 bboxmax.y = 367
+bboxmin .x = 269 bboxmax.x = 347
+bboxmin.y = 269 bboxmax.y = 347
+bboxmin .x = 275 bboxmax.x = 345
+bboxmin.y = 275 bboxmax.y = 345
+bboxmin .x = 263 bboxmax.x = 370
+bboxmin.y = 263 bboxmax.y = 370
+bboxmin .x = 263 bboxmax.x = 347
+bboxmin.y = 263 bboxmax.y = 347
+bboxmin .x = 278 bboxmax.x = 347
+bboxmin.y = 278 bboxmax.y = 347
+bboxmin .x = 286 bboxmax.x = 326
+bboxmin.y = 286 bboxmax.y = 326
+bboxmin .x = 266 bboxmax.x = 592
+bboxmin.y = 266 bboxmax.y = 592
+bboxmin .x = 266 bboxmax.x = 592
+bboxmin.y = 266 bboxmax.y = 592
+bboxmin .x = 272 bboxmax.x = 559
+bboxmin.y = 272 bboxmax.y = 559
+bboxmin .x = 270 bboxmax.x = 559
+bboxmin.y = 270 bboxmax.y = 559
+bboxmin .x = 285 bboxmax.x = 520
+bboxmin.y = 285 bboxmax.y = 520
+bboxmin .x = 285 bboxmax.x = 513
+bboxmin.y = 285 bboxmax.y = 513
+bboxmin .x = 272 bboxmax.x = 550
+bboxmin.y = 272 bboxmax.y = 550
+bboxmin .x = 272 bboxmax.x = 539
+bboxmin.y = 272 bboxmax.y = 539
+bboxmin .x = 292 bboxmax.x = 510
+bboxmin.y = 292 bboxmax.y = 510
+bboxmin .x = 296 bboxmax.x = 510
+bboxmin.y = 296 bboxmax.y = 510
+bboxmin .x = 266 bboxmax.x = 589
+bboxmin.y = 266 bboxmax.y = 589
+bboxmin .x = 266 bboxmax.x = 581
+bboxmin.y = 266 bboxmax.y = 581
+bboxmin .x = 276 bboxmax.x = 539
+bboxmin.y = 276 bboxmax.y = 539
+bboxmin .x = 280 bboxmax.x = 539
+bboxmin.y = 280 bboxmax.y = 539
+bboxmin .x = 311 bboxmax.x = 594
+bboxmin.y = 311 bboxmax.y = 594
+bboxmin .x = 311 bboxmax.x = 603
+bboxmin.y = 311 bboxmax.y = 603
+bboxmin .x = 313 bboxmax.x = 575
+bboxmin.y = 313 bboxmax.y = 575
+bboxmin .x = 314 bboxmax.x = 575
+bboxmin.y = 314 bboxmax.y = 575
+bboxmin .x = 311 bboxmax.x = 634
+bboxmin.y = 311 bboxmax.y = 634
+bboxmin .x = 306 bboxmax.x = 634
+bboxmin.y = 306 bboxmax.y = 634
+bboxmin .x = 331 bboxmax.x = 518
+bboxmin.y = 331 bboxmax.y = 518
+bboxmin .x = 331 bboxmax.x = 518
+bboxmin.y = 331 bboxmax.y = 518
+bboxmin .x = 332 bboxmax.x = 513
+bboxmin.y = 332 bboxmax.y = 513
+bboxmin .x = 314 bboxmax.x = 555
+bboxmin.y = 314 bboxmax.y = 555
+bboxmin .x = 320 bboxmax.x = 551
+bboxmin.y = 320 bboxmax.y = 551
+bboxmin .x = 325 bboxmax.x = 527
+bboxmin.y = 325 bboxmax.y = 527
+bboxmin .x = 325 bboxmax.x = 527
+bboxmin.y = 325 bboxmax.y = 527
+bboxmin .x = 259 bboxmax.x = 452
+bboxmin.y = 259 bboxmax.y = 452
+bboxmin .x = 260 bboxmax.x = 452
+bboxmin.y = 260 bboxmax.y = 452
+bboxmin .x = 278 bboxmax.x = 382
+bboxmin.y = 278 bboxmax.y = 382
+bboxmin .x = 279 bboxmax.x = 364
+bboxmin.y = 279 bboxmax.y = 364
+bboxmin .x = 325 bboxmax.x = 352
+bboxmin.y = 325 bboxmax.y = 352
+bboxmin .x = 326 bboxmax.x = 350
+bboxmin.y = 326 bboxmax.y = 350
+bboxmin .x = 270 bboxmax.x = 402
+bboxmin.y = 270 bboxmax.y = 402
+bboxmin .x = 271 bboxmax.x = 382
+bboxmin.y = 271 bboxmax.y = 382
+bboxmin .x = 296 bboxmax.x = 380
+bboxmin.y = 296 bboxmax.y = 380
+bboxmin .x = 296 bboxmax.x = 391
+bboxmin.y = 296 bboxmax.y = 391
+bboxmin .x = 334 bboxmax.x = 356
+bboxmin.y = 334 bboxmax.y = 356
+bboxmin .x = 337 bboxmax.x = 356
+bboxmin.y = 337 bboxmax.y = 356
+bboxmin .x = 316 bboxmax.x = 358
+bboxmin.y = 316 bboxmax.y = 358
+bboxmin .x = 316 bboxmax.x = 358
+bboxmin.y = 316 bboxmax.y = 358
+bboxmin .x = 275 bboxmax.x = 481
+bboxmin.y = 275 bboxmax.y = 481
+bboxmin .x = 277 bboxmax.x = 481
+bboxmin.y = 277 bboxmax.y = 481
+bboxmin .x = 277 bboxmax.x = 432
+bboxmin.y = 277 bboxmax.y = 432
+bboxmin .x = 286 bboxmax.x = 432
+bboxmin.y = 286 bboxmax.y = 432
+bboxmin .x = 274 bboxmax.x = 417
+bboxmin.y = 274 bboxmax.y = 417
+bboxmin .x = 274 bboxmax.x = 403
+bboxmin.y = 274 bboxmax.y = 403
+bboxmin .x = 331 bboxmax.x = 348
+bboxmin.y = 331 bboxmax.y = 348
+bboxmin .x = 335 bboxmax.x = 348
+bboxmin.y = 335 bboxmax.y = 348
+bboxmin .x = 320 bboxmax.x = 382
+bboxmin.y = 320 bboxmax.y = 382
+bboxmin .x = 327 bboxmax.x = 382
+bboxmin.y = 327 bboxmax.y = 382
+bboxmin .x = 320 bboxmax.x = 339
+bboxmin.y = 320 bboxmax.y = 339
+bboxmin .x = 320 bboxmax.x = 334
+bboxmin.y = 320 bboxmax.y = 334
+bboxmin .x = 320 bboxmax.x = 370
+bboxmin.y = 320 bboxmax.y = 370
+bboxmin .x = 316 bboxmax.x = 370
+bboxmin.y = 316 bboxmax.y = 370
+bboxmin .x = 343 bboxmax.x = 353
+bboxmin.y = 343 bboxmax.y = 353
+bboxmin .x = 343 bboxmax.x = 349
+bboxmin.y = 343 bboxmax.y = 349
+bboxmin .x = 350 bboxmax.x = 455
+bboxmin.y = 350 bboxmax.y = 455
+bboxmin .x = 356 bboxmax.x = 464
+bboxmin.y = 356 bboxmax.y = 464
+bboxmin .x = 364 bboxmax.x = 480
+bboxmin.y = 364 bboxmax.y = 480
+bboxmin .x = 368 bboxmax.x = 486
+bboxmin.y = 368 bboxmax.y = 486
+bboxmin .x = 357 bboxmax.x = 483
+bboxmin.y = 357 bboxmax.y = 483
+bboxmin .x = 360 bboxmax.x = 493
+bboxmin.y = 360 bboxmax.y = 493
+bboxmin .x = 305 bboxmax.x = 331
+bboxmin.y = 305 bboxmax.y = 331
+bboxmin .x = 305 bboxmax.x = 331
+bboxmin.y = 305 bboxmax.y = 331
+bboxmin .x = 279 bboxmax.x = 358
+bboxmin.y = 279 bboxmax.y = 358
+bboxmin .x = 283 bboxmax.x = 342
+bboxmin.y = 283 bboxmax.y = 342
+bboxmin .x = 264 bboxmax.x = 411
+bboxmin.y = 264 bboxmax.y = 411
+bboxmin .x = 267 bboxmax.x = 399
+bboxmin.y = 267 bboxmax.y = 399
+bboxmin .x = 261 bboxmax.x = 434
+bboxmin.y = 261 bboxmax.y = 434
+bboxmin .x = 259 bboxmax.x = 441
+bboxmin.y = 259 bboxmax.y = 441
+bboxmin .x = 354 bboxmax.x = 694
+bboxmin.y = 354 bboxmax.y = 694
+bboxmin .x = 353 bboxmax.x = 694
+bboxmin.y = 353 bboxmax.y = 694
+bboxmin .x = 283 bboxmax.x = 662
+bboxmin.y = 283 bboxmax.y = 662
+bboxmin .x = 283 bboxmax.x = 644
+bboxmin.y = 283 bboxmax.y = 644
+bboxmin .x = 272 bboxmax.x = 630
+bboxmin.y = 272 bboxmax.y = 630
+bboxmin .x = 273 bboxmax.x = 634
+bboxmin.y = 273 bboxmax.y = 634
+bboxmin .x = 338 bboxmax.x = 606
+bboxmin.y = 338 bboxmax.y = 606
+bboxmin .x = 336 bboxmax.x = 606
+bboxmin.y = 336 bboxmax.y = 606
+bboxmin .x = 361 bboxmax.x = 500
+bboxmin.y = 361 bboxmax.y = 500
+bboxmin .x = 360 bboxmax.x = 493
+bboxmin.y = 360 bboxmax.y = 493
+bboxmin .x = 372 bboxmax.x = 490
+bboxmin.y = 372 bboxmax.y = 490
+bboxmin .x = 372 bboxmax.x = 490
+bboxmin.y = 372 bboxmax.y = 490
+bboxmin .x = 360 bboxmax.x = 643
+bboxmin.y = 360 bboxmax.y = 643
+bboxmin .x = 356 bboxmax.x = 643
+bboxmin.y = 356 bboxmax.y = 643
+bboxmin .x = 384 bboxmax.x = 572
+bboxmin.y = 384 bboxmax.y = 572
+bboxmin .x = 387 bboxmax.x = 571
+bboxmin.y = 387 bboxmax.y = 571
+bboxmin .x = 381 bboxmax.x = 607
+bboxmin.y = 381 bboxmax.y = 607
+bboxmin .x = 384 bboxmax.x = 607
+bboxmin.y = 384 bboxmax.y = 607
+bboxmin .x = 294 bboxmax.x = 564
+bboxmin.y = 294 bboxmax.y = 564
+bboxmin .x = 294 bboxmax.x = 572
+bboxmin.y = 294 bboxmax.y = 572
+bboxmin .x = 280 bboxmax.x = 551
+bboxmin.y = 280 bboxmax.y = 551
+bboxmin .x = 280 bboxmax.x = 564
+bboxmin.y = 280 bboxmax.y = 564
+bboxmin .x = 333 bboxmax.x = 475
+bboxmin.y = 333 bboxmax.y = 475
+bboxmin .x = 333 bboxmax.x = 480
+bboxmin.y = 333 bboxmax.y = 480
+bboxmin .x = 358 bboxmax.x = 415
+bboxmin.y = 358 bboxmax.y = 415
+bboxmin .x = 358 bboxmax.x = 416
+bboxmin.y = 358 bboxmax.y = 416
+bboxmin .x = 346 bboxmax.x = 423
+bboxmin.y = 346 bboxmax.y = 423
+bboxmin .x = 347 bboxmax.x = 423
+bboxmin.y = 347 bboxmax.y = 423
+bboxmin .x = 374 bboxmax.x = 397
+bboxmin.y = 374 bboxmax.y = 397
+bboxmin .x = 366 bboxmax.x = 397
+bboxmin.y = 366 bboxmax.y = 397
+bboxmin .x = 334 bboxmax.x = 460
+bboxmin.y = 334 bboxmax.y = 460
+bboxmin .x = 335 bboxmax.x = 460
+bboxmin.y = 335 bboxmax.y = 460
+bboxmin .x = 383 bboxmax.x = 400
+bboxmin.y = 383 bboxmax.y = 400
+bboxmin .x = 387 bboxmax.x = 400
+bboxmin.y = 387 bboxmax.y = 400
+bboxmin .x = 340 bboxmax.x = 428
+bboxmin.y = 340 bboxmax.y = 428
+bboxmin .x = 340 bboxmax.x = 436
+bboxmin.y = 340 bboxmax.y = 436
+bboxmin .x = 335 bboxmax.x = 441
+bboxmin.y = 335 bboxmax.y = 441
+bboxmin .x = 335 bboxmax.x = 448
+bboxmin.y = 335 bboxmax.y = 448
+bboxmin .x = 357 bboxmax.x = 498
+bboxmin.y = 357 bboxmax.y = 498
+bboxmin .x = 357 bboxmax.x = 498
+bboxmin.y = 357 bboxmax.y = 498
+bboxmin .x = 354 bboxmax.x = 673
+bboxmin.y = 354 bboxmax.y = 673
+bboxmin .x = 356 bboxmax.x = 673
+bboxmin.y = 356 bboxmax.y = 673
+bboxmin .x = 326 bboxmax.x = 699
+bboxmin.y = 326 bboxmax.y = 699
+bboxmin .x = 326 bboxmax.x = 699
+bboxmin.y = 326 bboxmax.y = 699
+bboxmin .x = 332 bboxmax.x = 681
+bboxmin.y = 332 bboxmax.y = 681
+bboxmin .x = 354 bboxmax.x = 703
+bboxmin.y = 354 bboxmax.y = 703
+bboxmin .x = 357 bboxmax.x = 703
+bboxmin.y = 357 bboxmax.y = 703
+bboxmin .x = 338 bboxmax.x = 575
+bboxmin.y = 338 bboxmax.y = 575
+bboxmin .x = 338 bboxmax.x = 575
+bboxmin.y = 338 bboxmax.y = 575
+bboxmin .x = 363 bboxmax.x = 574
+bboxmin.y = 363 bboxmax.y = 574
+bboxmin .x = 363 bboxmax.x = 574
+bboxmin.y = 363 bboxmax.y = 574
+bboxmin .x = 342 bboxmax.x = 533
+bboxmin.y = 342 bboxmax.y = 533
+bboxmin .x = 342 bboxmax.x = 533
+bboxmin.y = 342 bboxmax.y = 533
+bboxmin .x = 341 bboxmax.x = 363
+bboxmin.y = 341 bboxmax.y = 363
+bboxmin .x = 337 bboxmax.x = 363
+bboxmin.y = 337 bboxmax.y = 363
+bboxmin .x = 361 bboxmax.x = 445
+bboxmin.y = 361 bboxmax.y = 445
+bboxmin .x = 361 bboxmax.x = 447
+bboxmin.y = 361 bboxmax.y = 447
+bboxmin .x = 370 bboxmax.x = 431
+bboxmin.y = 370 bboxmax.y = 431
+bboxmin .x = 370 bboxmax.x = 433
+bboxmin.y = 370 bboxmax.y = 433
+bboxmin .x = 362 bboxmax.x = 386
+bboxmin.y = 362 bboxmax.y = 386
+bboxmin .x = 364 bboxmax.x = 388
+bboxmin.y = 364 bboxmax.y = 388
+bboxmin .x = 354 bboxmax.x = 386
+bboxmin.y = 354 bboxmax.y = 386
+bboxmin .x = 356 bboxmax.x = 386
+bboxmin.y = 356 bboxmax.y = 386
+bboxmin .x = 374 bboxmax.x = 407
+bboxmin.y = 374 bboxmax.y = 407
+bboxmin .x = 374 bboxmax.x = 416
+bboxmin.y = 374 bboxmax.y = 416
+bboxmin .x = 364 bboxmax.x = 400
+bboxmin.y = 364 bboxmax.y = 400
+bboxmin .x = 364 bboxmax.x = 400
+bboxmin.y = 364 bboxmax.y = 400
+bboxmin .x = 378 bboxmax.x = 448
+bboxmin.y = 378 bboxmax.y = 448
+bboxmin .x = 373 bboxmax.x = 448
+bboxmin.y = 373 bboxmax.y = 448
+bboxmin .x = 375 bboxmax.x = 476
+bboxmin.y = 375 bboxmax.y = 476
+bboxmin .x = 375 bboxmax.x = 476
+bboxmin.y = 375 bboxmax.y = 476
+bboxmin .x = 380 bboxmax.x = 490
+bboxmin.y = 380 bboxmax.y = 490
+bboxmin .x = 383 bboxmax.x = 492
+bboxmin.y = 383 bboxmax.y = 492
+bboxmin .x = 383 bboxmax.x = 506
+bboxmin.y = 383 bboxmax.y = 506
+bboxmin .x = 383 bboxmax.x = 506
+bboxmin.y = 383 bboxmax.y = 506
+bboxmin .x = 386 bboxmax.x = 449
+bboxmin.y = 386 bboxmax.y = 449
+bboxmin .x = 386 bboxmax.x = 448
+bboxmin.y = 386 bboxmax.y = 448
+bboxmin .x = 385 bboxmax.x = 462
+bboxmin.y = 385 bboxmax.y = 462
+bboxmin .x = 385 bboxmax.x = 461
+bboxmin.y = 385 bboxmax.y = 461
+bboxmin .x = 273 bboxmax.x = 630
+bboxmin.y = 273 bboxmax.y = 630
+bboxmin .x = 272 bboxmax.x = 630
+bboxmin.y = 272 bboxmax.y = 630
+bboxmin .x = 273 bboxmax.x = 508
+bboxmin.y = 273 bboxmax.y = 508
+bboxmin .x = 273 bboxmax.x = 505
+bboxmin.y = 273 bboxmax.y = 505
+bboxmin .x = 273 bboxmax.x = 517
+bboxmin.y = 273 bboxmax.y = 517
+bboxmin .x = 273 bboxmax.x = 524
+bboxmin.y = 273 bboxmax.y = 524
+bboxmin .x = 263 bboxmax.x = 544
+bboxmin.y = 263 bboxmax.y = 544
+bboxmin .x = 263 bboxmax.x = 540
+bboxmin.y = 263 bboxmax.y = 540
+bboxmin .x = 268 bboxmax.x = 510
+bboxmin.y = 268 bboxmax.y = 510
+bboxmin .x = 268 bboxmax.x = 510
+bboxmin.y = 268 bboxmax.y = 510
+bboxmin .x = 285 bboxmax.x = 503
+bboxmin.y = 285 bboxmax.y = 503
+bboxmin .x = 286 bboxmax.x = 502
+bboxmin.y = 286 bboxmax.y = 502
+bboxmin .x = 259 bboxmax.x = 508
+bboxmin.y = 259 bboxmax.y = 508
+bboxmin .x = 259 bboxmax.x = 508
+bboxmin.y = 259 bboxmax.y = 508
+bboxmin .x = 262 bboxmax.x = 508
+bboxmin.y = 262 bboxmax.y = 508
+bboxmin .x = 264 bboxmax.x = 510
+bboxmin.y = 264 bboxmax.y = 510
+bboxmin .x = 247 bboxmax.x = 367
+bboxmin.y = 247 bboxmax.y = 367
+bboxmin .x = 229 bboxmax.x = 400
+bboxmin.y = 229 bboxmax.y = 400
+bboxmin .x = 290 bboxmax.x = 345
+bboxmin.y = 290 bboxmax.y = 345
+bboxmin .x = 299 bboxmax.x = 345
+bboxmin.y = 299 bboxmax.y = 345
+bboxmin .x = 299 bboxmax.x = 376
+bboxmin.y = 299 bboxmax.y = 376
+bboxmin .x = 300 bboxmax.x = 379
+bboxmin.y = 300 bboxmax.y = 379
+bboxmin .x = 342 bboxmax.x = 350
+bboxmin.y = 342 bboxmax.y = 350
+bboxmin .x = 342 bboxmax.x = 350
+bboxmin.y = 342 bboxmax.y = 350
+bboxmin .x = 341 bboxmax.x = 351
+bboxmin.y = 341 bboxmax.y = 351
+bboxmin .x = 351 bboxmax.x = 370
+bboxmin.y = 351 bboxmax.y = 370
+bboxmin .x = 351 bboxmax.x = 370
+bboxmin.y = 351 bboxmax.y = 370
+bboxmin .x = 287 bboxmax.x = 418
+bboxmin.y = 287 bboxmax.y = 418
+bboxmin .x = 287 bboxmax.x = 405
+bboxmin.y = 287 bboxmax.y = 405
+bboxmin .x = 286 bboxmax.x = 445
+bboxmin.y = 286 bboxmax.y = 445
+bboxmin .x = 286 bboxmax.x = 432
+bboxmin.y = 286 bboxmax.y = 432
+bboxmin .x = 332 bboxmax.x = 441
+bboxmin.y = 332 bboxmax.y = 441
+bboxmin .x = 324 bboxmax.x = 441
+bboxmin.y = 324 bboxmax.y = 441
+bboxmin .x = 310 bboxmax.x = 382
+bboxmin.y = 310 bboxmax.y = 382
+bboxmin .x = 310 bboxmax.x = 394
+bboxmin.y = 310 bboxmax.y = 394
+bboxmin .x = 280 bboxmax.x = 471
+bboxmin.y = 280 bboxmax.y = 471
+bboxmin .x = 277 bboxmax.x = 471
+bboxmin.y = 277 bboxmax.y = 471
+bboxmin .x = 282 bboxmax.x = 487
+bboxmin.y = 282 bboxmax.y = 487
+bboxmin .x = 286 bboxmax.x = 487
+bboxmin.y = 286 bboxmax.y = 487
+bboxmin .x = 268 bboxmax.x = 530
+bboxmin.y = 268 bboxmax.y = 530
+bboxmin .x = 272 bboxmax.x = 530
+bboxmin.y = 272 bboxmax.y = 530
+bboxmin .x = 268 bboxmax.x = 469
+bboxmin.y = 268 bboxmax.y = 469
+bboxmin .x = 268 bboxmax.x = 475
+bboxmin.y = 268 bboxmax.y = 475
+bboxmin .x = 278 bboxmax.x = 505
+bboxmin.y = 278 bboxmax.y = 505
+bboxmin .x = 278 bboxmax.x = 505
+bboxmin.y = 278 bboxmax.y = 505
+bboxmin .x = 328 bboxmax.x = 669
+bboxmin.y = 328 bboxmax.y = 669
+bboxmin .x = 330 bboxmax.x = 669
+bboxmin.y = 330 bboxmax.y = 669
+bboxmin .x = 302 bboxmax.x = 680
+bboxmin.y = 302 bboxmax.y = 680
+bboxmin .x = 303 bboxmax.x = 680
+bboxmin.y = 303 bboxmax.y = 680
+bboxmin .x = 351 bboxmax.x = 360
+bboxmin.y = 351 bboxmax.y = 360
+bboxmin .x = 347 bboxmax.x = 352
+bboxmin.y = 347 bboxmax.y = 352
+bboxmin .x = 265 bboxmax.x = 375
+bboxmin.y = 265 bboxmax.y = 375
+bboxmin .x = 265 bboxmax.x = 358
+bboxmin.y = 265 bboxmax.y = 358
+bboxmin .x = 283 bboxmax.x = 336
+bboxmin.y = 283 bboxmax.y = 336
+bboxmin .x = 283 bboxmax.x = 336
+bboxmin.y = 283 bboxmax.y = 336
+bboxmin .x = 285 bboxmax.x = 386
+bboxmin.y = 285 bboxmax.y = 386
+bboxmin .x = 285 bboxmax.x = 386
+bboxmin.y = 285 bboxmax.y = 386
+bboxmin .x = 267 bboxmax.x = 418
+bboxmin.y = 267 bboxmax.y = 418
+bboxmin .x = 267 bboxmax.x = 433
+bboxmin.y = 267 bboxmax.y = 433
+bboxmin .x = 337 bboxmax.x = 497
+bboxmin.y = 337 bboxmax.y = 497
+bboxmin .x = 336 bboxmax.x = 496
+bboxmin.y = 336 bboxmax.y = 496
+bboxmin .x = 333 bboxmax.x = 483
+bboxmin.y = 333 bboxmax.y = 483
+bboxmin .x = 335 bboxmax.x = 486
+bboxmin.y = 335 bboxmax.y = 486
+bboxmin .x = 271 bboxmax.x = 381
+bboxmin.y = 271 bboxmax.y = 381
+bboxmin .x = 271 bboxmax.x = 361
+bboxmin.y = 271 bboxmax.y = 361
+bboxmin .x = 286 bboxmax.x = 622
+bboxmin.y = 286 bboxmax.y = 622
+bboxmin .x = 292 bboxmax.x = 622
+bboxmin.y = 292 bboxmax.y = 622
+bboxmin .x = 305 bboxmax.x = 527
+bboxmin.y = 305 bboxmax.y = 527
+bboxmin .x = 309 bboxmax.x = 527
+bboxmin.y = 309 bboxmax.y = 527
+bboxmin .x = 359 bboxmax.x = 500
+bboxmin.y = 359 bboxmax.y = 500
+bboxmin .x = 360 bboxmax.x = 500
+bboxmin.y = 360 bboxmax.y = 500
+bboxmin .x = 347 bboxmax.x = 513
+bboxmin.y = 347 bboxmax.y = 513
+bboxmin .x = 347 bboxmax.x = 513
+bboxmin.y = 347 bboxmax.y = 513
+bboxmin .x = 336 bboxmax.x = 496
+bboxmin.y = 336 bboxmax.y = 496
+bboxmin .x = 336 bboxmax.x = 496
+bboxmin.y = 336 bboxmax.y = 496
+bboxmin .x = 349 bboxmax.x = 497
+bboxmin.y = 349 bboxmax.y = 497
+bboxmin .x = 349 bboxmax.x = 497
+bboxmin.y = 349 bboxmax.y = 497
+bboxmin .x = 346 bboxmax.x = 444
+bboxmin.y = 346 bboxmax.y = 444
+bboxmin .x = 314 bboxmax.x = 363
+bboxmin.y = 314 bboxmax.y = 363
+bboxmin .x = 314 bboxmax.x = 363
+bboxmin.y = 314 bboxmax.y = 363
+bboxmin .x = 286 bboxmax.x = 331
+bboxmin.y = 286 bboxmax.y = 331
+bboxmin .x = 276 bboxmax.x = 345
+bboxmin.y = 276 bboxmax.y = 345
+bboxmin .x = 306 bboxmax.x = 348
+bboxmin.y = 306 bboxmax.y = 348
+bboxmin .x = 299 bboxmax.x = 353
+bboxmin.y = 299 bboxmax.y = 353
+bboxmin .x = 316 bboxmax.x = 407
+bboxmin.y = 316 bboxmax.y = 407
+bboxmin .x = 323 bboxmax.x = 407
+bboxmin.y = 323 bboxmax.y = 407
+bboxmin .x = 298 bboxmax.x = 405
+bboxmin.y = 298 bboxmax.y = 405
+bboxmin .x = 298 bboxmax.x = 394
+bboxmin.y = 298 bboxmax.y = 394
+bboxmin .x = 334 bboxmax.x = 344
+bboxmin.y = 334 bboxmax.y = 344
+bboxmin .x = 334 bboxmax.x = 346
+bboxmin.y = 334 bboxmax.y = 346
+bboxmin .x = 344 bboxmax.x = 352
+bboxmin.y = 344 bboxmax.y = 352
+bboxmin .x = 345 bboxmax.x = 352
+bboxmin.y = 345 bboxmax.y = 352
+bboxmin .x = 343 bboxmax.x = 353
+bboxmin.y = 343 bboxmax.y = 353
+bboxmin .x = 343 bboxmax.x = 353
+bboxmin.y = 343 bboxmax.y = 353
+bboxmin .x = 341 bboxmax.x = 359
+bboxmin.y = 341 bboxmax.y = 359
+bboxmin .x = 344 bboxmax.x = 359
+bboxmin.y = 344 bboxmax.y = 359
+bboxmin .x = 386 bboxmax.x = 433
+bboxmin.y = 386 bboxmax.y = 433
+bboxmin .x = 378 bboxmax.x = 433
+bboxmin.y = 378 bboxmax.y = 433
+bboxmin .x = 385 bboxmax.x = 477
+bboxmin.y = 385 bboxmax.y = 477
+bboxmin .x = 385 bboxmax.x = 477
+bboxmin.y = 385 bboxmax.y = 477
+bboxmin .x = 315 bboxmax.x = 513
+bboxmin.y = 315 bboxmax.y = 513
+bboxmin .x = 314 bboxmax.x = 513
+bboxmin.y = 314 bboxmax.y = 513
+bboxmin .x = 312 bboxmax.x = 518
+bboxmin.y = 312 bboxmax.y = 518
+bboxmin .x = 312 bboxmax.x = 517
+bboxmin.y = 312 bboxmax.y = 517
+bboxmin .x = 314 bboxmax.x = 334
+bboxmin.y = 314 bboxmax.y = 334
+bboxmin .x = 313 bboxmax.x = 334
+bboxmin.y = 313 bboxmax.y = 334
+bboxmin .x = 317 bboxmax.x = 347
+bboxmin.y = 317 bboxmax.y = 347
+bboxmin .x = 317 bboxmax.x = 340
+bboxmin.y = 317 bboxmax.y = 340
+bboxmin .x = 346 bboxmax.x = 455
+bboxmin.y = 346 bboxmax.y = 455
+bboxmin .x = 346 bboxmax.x = 455
+bboxmin.y = 346 bboxmax.y = 455
+bboxmin .x = 264 bboxmax.x = 540
+bboxmin.y = 264 bboxmax.y = 540
+bboxmin .x = 264 bboxmax.x = 535
+bboxmin.y = 264 bboxmax.y = 535
+bboxmin .x = 389 bboxmax.x = 492
+bboxmin.y = 389 bboxmax.y = 492
+bboxmin .x = 391 bboxmax.x = 493
+bboxmin.y = 391 bboxmax.y = 493
+bboxmin .x = 391 bboxmax.x = 506
+bboxmin.y = 391 bboxmax.y = 506
+bboxmin .x = 391 bboxmax.x = 507
+bboxmin.y = 391 bboxmax.y = 507
+bboxmin .x = 347 bboxmax.x = 353
+bboxmin.y = 347 bboxmax.y = 353
+bboxmin .x = 344 bboxmax.x = 353
+bboxmin.y = 344 bboxmax.y = 353
+bboxmin .x = 331 bboxmax.x = 348
+bboxmin.y = 331 bboxmax.y = 348
+bboxmin .x = 327 bboxmax.x = 359
+bboxmin.y = 327 bboxmax.y = 359
+bboxmin .x = 327 bboxmax.x = 359
+bboxmin.y = 327 bboxmax.y = 359
+bboxmin .x = 326 bboxmax.x = 374
+bboxmin.y = 326 bboxmax.y = 374
+bboxmin .x = 366 bboxmax.x = 469
+bboxmin.y = 366 bboxmax.y = 469
+bboxmin .x = 372 bboxmax.x = 473
+bboxmin.y = 372 bboxmax.y = 473
+bboxmin .x = 316 bboxmax.x = 374
+bboxmin.y = 316 bboxmax.y = 374
+bboxmin .x = 314 bboxmax.x = 363
+bboxmin.y = 314 bboxmax.y = 363
+bboxmin .x = 349 bboxmax.x = 427
+bboxmin.y = 349 bboxmax.y = 427
+bboxmin .x = 349 bboxmax.x = 427
+bboxmin.y = 349 bboxmax.y = 427
+bboxmin .x = 349 bboxmax.x = 451
+bboxmin.y = 349 bboxmax.y = 451
+bboxmin .x = 345 bboxmax.x = 444
+bboxmin.y = 345 bboxmax.y = 444
+bboxmin .x = 349 bboxmax.x = 457
+bboxmin.y = 349 bboxmax.y = 457
+bboxmin .x = 349 bboxmax.x = 457
+bboxmin.y = 349 bboxmax.y = 457
+bboxmin .x = 361 bboxmax.x = 459
+bboxmin.y = 361 bboxmax.y = 459
+bboxmin .x = 361 bboxmax.x = 459
+bboxmin.y = 361 bboxmax.y = 459
+bboxmin .x = 295 bboxmax.x = 555
+bboxmin.y = 295 bboxmax.y = 555
+bboxmin .x = 300 bboxmax.x = 555
+bboxmin.y = 300 bboxmax.y = 555
+bboxmin .x = 333 bboxmax.x = 346
+bboxmin.y = 333 bboxmax.y = 346
+bboxmin .x = 333 bboxmax.x = 347
+bboxmin.y = 333 bboxmax.y = 347
+bboxmin .x = 340 bboxmax.x = 362
+bboxmin.y = 340 bboxmax.y = 362
+bboxmin .x = 340 bboxmax.x = 353
+bboxmin.y = 340 bboxmax.y = 353
+bboxmin .x = 350 bboxmax.x = 399
+bboxmin.y = 350 bboxmax.y = 399
+bboxmin .x = 350 bboxmax.x = 399
+bboxmin.y = 350 bboxmax.y = 399
+bboxmin .x = 340 bboxmax.x = 362
+bboxmin.y = 340 bboxmax.y = 362
+bboxmin .x = 337 bboxmax.x = 372
+bboxmin.y = 337 bboxmax.y = 372
+bboxmin .x = 351 bboxmax.x = 354
+bboxmin.y = 351 bboxmax.y = 354
+bboxmin .x = 357 bboxmax.x = 384
+bboxmin.y = 357 bboxmax.y = 384
+bboxmin .x = 358 bboxmax.x = 385
+bboxmin.y = 358 bboxmax.y = 385
+bboxmin .x = 378 bboxmax.x = 422
+bboxmin.y = 378 bboxmax.y = 422
+bboxmin .x = 378 bboxmax.x = 416
+bboxmin.y = 378 bboxmax.y = 416
+bboxmin .x = 391 bboxmax.x = 420
+bboxmin.y = 391 bboxmax.y = 420
+bboxmin .x = 391 bboxmax.x = 420
+bboxmin.y = 391 bboxmax.y = 420
+bboxmin .x = 383 bboxmax.x = 428
+bboxmin.y = 383 bboxmax.y = 428
+bboxmin .x = 373 bboxmax.x = 459
+bboxmin.y = 373 bboxmax.y = 459
+bboxmin .x = 375 bboxmax.x = 461
+bboxmin.y = 375 bboxmax.y = 461
+bboxmin .x = 339 bboxmax.x = 348
+bboxmin.y = 339 bboxmax.y = 348
+bboxmin .x = 340 bboxmax.x = 348
+bboxmin.y = 340 bboxmax.y = 348
+bboxmin .x = 321 bboxmax.x = 493
+bboxmin.y = 321 bboxmax.y = 493
+bboxmin .x = 319 bboxmax.x = 493
+bboxmin.y = 319 bboxmax.y = 493
+bboxmin .x = 292 bboxmax.x = 503
+bboxmin.y = 292 bboxmax.y = 503
+bboxmin .x = 292 bboxmax.x = 503
+bboxmin.y = 292 bboxmax.y = 503
+bboxmin .x = 298 bboxmax.x = 498
+bboxmin.y = 298 bboxmax.y = 498
+bboxmin .x = 296 bboxmax.x = 498
+bboxmin.y = 296 bboxmax.y = 498
+bboxmin .x = 265 bboxmax.x = 400
+bboxmin.y = 265 bboxmax.y = 400
+bboxmin .x = 265 bboxmax.x = 400
+bboxmin.y = 265 bboxmax.y = 400
+bboxmin .x = 269 bboxmax.x = 347
+bboxmin.y = 269 bboxmax.y = 347
+bboxmin .x = 266 bboxmax.x = 359
+bboxmin.y = 266 bboxmax.y = 359
+bboxmin .x = 309 bboxmax.x = 667
+bboxmin.y = 309 bboxmax.y = 667
+bboxmin .x = 309 bboxmax.x = 681
+bboxmin.y = 309 bboxmax.y = 681
+bboxmin .x = 266 bboxmax.x = 370
+bboxmin.y = 266 bboxmax.y = 370
+bboxmin .x = 343 bboxmax.x = 521
+bboxmin.y = 343 bboxmax.y = 521
+bboxmin .x = 345 bboxmax.x = 516
+bboxmin.y = 345 bboxmax.y = 516
+bboxmin .x = 271 bboxmax.x = 361
+bboxmin.y = 271 bboxmax.y = 361
+bboxmin .x = 271 bboxmax.x = 361
+bboxmin.y = 271 bboxmax.y = 361
+bboxmin .x = 349 bboxmax.x = 492
+bboxmin.y = 349 bboxmax.y = 492
+bboxmin .x = 349 bboxmax.x = 492
+bboxmin.y = 349 bboxmax.y = 492
+bboxmin .x = 346 bboxmax.x = 471
+bboxmin.y = 346 bboxmax.y = 471
+bboxmin .x = 347 bboxmax.x = 483
+bboxmin.y = 347 bboxmax.y = 483
+bboxmin .x = 267 bboxmax.x = 592
+bboxmin.y = 267 bboxmax.y = 592
+bboxmin .x = 267 bboxmax.x = 592
+bboxmin.y = 267 bboxmax.y = 592
+bboxmin .x = 263 bboxmax.x = 547
+bboxmin.y = 263 bboxmax.y = 547
+bboxmin .x = 263 bboxmax.x = 547
+bboxmin.y = 263 bboxmax.y = 547
+bboxmin .x = 285 bboxmax.x = 506
+bboxmin.y = 285 bboxmax.y = 506
+bboxmin .x = 285 bboxmax.x = 511
+bboxmin.y = 285 bboxmax.y = 511
+bboxmin .x = 286 bboxmax.x = 551
+bboxmin.y = 286 bboxmax.y = 551
+bboxmin .x = 283 bboxmax.x = 551
+bboxmin.y = 283 bboxmax.y = 551
+bboxmin .x = 309 bboxmax.x = 686
+bboxmin.y = 309 bboxmax.y = 686
+bboxmin .x = 305 bboxmax.x = 686
+bboxmin.y = 305 bboxmax.y = 686
+bboxmin .x = 285 bboxmax.x = 667
+bboxmin.y = 285 bboxmax.y = 667
+bboxmin .x = 283 bboxmax.x = 662
+bboxmin.y = 283 bboxmax.y = 662
+bboxmin .x = 302 bboxmax.x = 686
+bboxmin.y = 302 bboxmax.y = 686
+bboxmin .x = 302 bboxmax.x = 686
+bboxmin.y = 302 bboxmax.y = 686
+bboxmin .x = 280 bboxmax.x = 581
+bboxmin.y = 280 bboxmax.y = 581
+bboxmin .x = 279 bboxmax.x = 581
+bboxmin.y = 279 bboxmax.y = 581
+bboxmin .x = 280 bboxmax.x = 517
+bboxmin.y = 280 bboxmax.y = 517
+bboxmin .x = 278 bboxmax.x = 517
+bboxmin.y = 278 bboxmax.y = 517
+bboxmin .x = 260 bboxmax.x = 400
+bboxmin.y = 260 bboxmax.y = 400
+bboxmin .x = 265 bboxmax.x = 400
+bboxmin.y = 265 bboxmax.y = 400
+bboxmin .x = 284 bboxmax.x = 360
+bboxmin.y = 284 bboxmax.y = 360
+bboxmin .x = 284 bboxmax.x = 345
+bboxmin.y = 284 bboxmax.y = 345
+bboxmin .x = 317 bboxmax.x = 483
+bboxmin.y = 317 bboxmax.y = 483
+bboxmin .x = 312 bboxmax.x = 483
+bboxmin.y = 312 bboxmax.y = 483
+bboxmin .x = 291 bboxmax.x = 520
+bboxmin.y = 291 bboxmax.y = 520
+bboxmin .x = 291 bboxmax.x = 526
+bboxmin.y = 291 bboxmax.y = 526
+bboxmin .x = 338 bboxmax.x = 351
+bboxmin.y = 338 bboxmax.y = 351
+bboxmin .x = 338 bboxmax.x = 353
+bboxmin.y = 338 bboxmax.y = 353
+bboxmin .x = 338 bboxmax.x = 350
+bboxmin.y = 338 bboxmax.y = 350
+bboxmin .x = 338 bboxmax.x = 350
+bboxmin.y = 338 bboxmax.y = 350
+bboxmin .x = 352 bboxmax.x = 367
+bboxmin.y = 352 bboxmax.y = 367
+bboxmin .x = 352 bboxmax.x = 375
+bboxmin.y = 352 bboxmax.y = 375
+bboxmin .x = 380 bboxmax.x = 389
+bboxmin.y = 380 bboxmax.y = 389
+bboxmin .x = 377 bboxmax.x = 400
+bboxmin.y = 377 bboxmax.y = 400
+bboxmin .x = 353 bboxmax.x = 362
+bboxmin.y = 353 bboxmax.y = 362
+bboxmin .x = 353 bboxmax.x = 369
+bboxmin.y = 353 bboxmax.y = 369
+bboxmin .x = 356 bboxmax.x = 386
+bboxmin.y = 356 bboxmax.y = 386
+bboxmin .x = 356 bboxmax.x = 399
+bboxmin.y = 356 bboxmax.y = 399
+bboxmin .x = 377 bboxmax.x = 705
+bboxmin.y = 377 bboxmax.y = 705
+bboxmin .x = 377 bboxmax.x = 705
+bboxmin.y = 377 bboxmax.y = 705
+bboxmin .x = 320 bboxmax.x = 453
+bboxmin.y = 320 bboxmax.y = 453
+bboxmin .x = 320 bboxmax.x = 444
+bboxmin.y = 320 bboxmax.y = 444
+bboxmin .x = 308 bboxmax.x = 494
+bboxmin.y = 308 bboxmax.y = 494
+bboxmin .x = 310 bboxmax.x = 494
+bboxmin.y = 310 bboxmax.y = 494
+bboxmin .x = 296 bboxmax.x = 513
+bboxmin.y = 296 bboxmax.y = 513
+bboxmin .x = 296 bboxmax.x = 517
+bboxmin.y = 296 bboxmax.y = 517
+bboxmin .x = 350 bboxmax.x = 496
+bboxmin.y = 350 bboxmax.y = 496
+bboxmin .x = 350 bboxmax.x = 496
+bboxmin.y = 350 bboxmax.y = 496
+bboxmin .x = 357 bboxmax.x = 498
+bboxmin.y = 357 bboxmax.y = 498
+bboxmin .x = 357 bboxmax.x = 498
+bboxmin.y = 357 bboxmax.y = 498
+bboxmin .x = 276 bboxmax.x = 345
+bboxmin.y = 276 bboxmax.y = 345
+bboxmin .x = 269 bboxmax.x = 358
+bboxmin.y = 269 bboxmax.y = 358
+bboxmin .x = 280 bboxmax.x = 376
+bboxmin.y = 280 bboxmax.y = 376
+bboxmin .x = 284 bboxmax.x = 376
+bboxmin.y = 284 bboxmax.y = 376
+bboxmin .x = 292 bboxmax.x = 500
+bboxmin.y = 292 bboxmax.y = 500
+bboxmin .x = 292 bboxmax.x = 500
+bboxmin.y = 292 bboxmax.y = 500
+bboxmin .x = 291 bboxmax.x = 500
+bboxmin.y = 291 bboxmax.y = 500
+bboxmin .x = 288 bboxmax.x = 502
+bboxmin.y = 288 bboxmax.y = 502
+bboxmin .x = 289 bboxmax.x = 510
+bboxmin.y = 289 bboxmax.y = 510
+bboxmin .x = 289 bboxmax.x = 513
+bboxmin.y = 289 bboxmax.y = 513
+bboxmin .x = 312 bboxmax.x = 520
+bboxmin.y = 312 bboxmax.y = 520
+bboxmin .x = 309 bboxmax.x = 520
+bboxmin.y = 309 bboxmax.y = 520
+bboxmin .x = 357 bboxmax.x = 498
+bboxmin.y = 357 bboxmax.y = 498
+bboxmin .x = 358 bboxmax.x = 500
+bboxmin.y = 358 bboxmax.y = 500
+bboxmin .x = 312 bboxmax.x = 325
+bboxmin.y = 312 bboxmax.y = 325
+bboxmin .x = 299 bboxmax.x = 331
+bboxmin.y = 299 bboxmax.y = 331
+bboxmin .x = 265 bboxmax.x = 377
+bboxmin.y = 265 bboxmax.y = 377
+bboxmin .x = 265 bboxmax.x = 376
+bboxmin.y = 265 bboxmax.y = 376
+bboxmin .x = 295 bboxmax.x = 342
+bboxmin.y = 295 bboxmax.y = 342
+bboxmin .x = 295 bboxmax.x = 342
+bboxmin.y = 295 bboxmax.y = 342
+bboxmin .x = 346 bboxmax.x = 352
+bboxmin.y = 346 bboxmax.y = 352
+bboxmin .x = 347 bboxmax.x = 353
+bboxmin.y = 347 bboxmax.y = 353
+bboxmin .x = 327 bboxmax.x = 342
+bboxmin.y = 327 bboxmax.y = 342
+bboxmin .x = 331 bboxmax.x = 342
+bboxmin.y = 331 bboxmax.y = 342
+bboxmin .x = 366 bboxmax.x = 389
+bboxmin.y = 366 bboxmax.y = 389
+bboxmin .x = 366 bboxmax.x = 383
+bboxmin.y = 366 bboxmax.y = 383
+bboxmin .x = 350 bboxmax.x = 383
+bboxmin.y = 350 bboxmax.y = 383
+bboxmin .x = 350 bboxmax.x = 375
+bboxmin.y = 350 bboxmax.y = 375
+bboxmin .x = 333 bboxmax.x = 465
+bboxmin.y = 333 bboxmax.y = 465
+bboxmin .x = 333 bboxmax.x = 471
+bboxmin.y = 333 bboxmax.y = 471
+bboxmin .x = 306 bboxmax.x = 444
+bboxmin.y = 306 bboxmax.y = 444
+bboxmin .x = 306 bboxmax.x = 432
+bboxmin.y = 306 bboxmax.y = 432
+bboxmin .x = 356 bboxmax.x = 480
+bboxmin.y = 356 bboxmax.y = 480
+bboxmin .x = 356 bboxmax.x = 480
+bboxmin.y = 356 bboxmax.y = 480
+bboxmin .x = 376 bboxmax.x = 504
+bboxmin.y = 376 bboxmax.y = 504
+bboxmin .x = 376 bboxmax.x = 504
+bboxmin.y = 376 bboxmax.y = 504
+bboxmin .x = 346 bboxmax.x = 470
+bboxmin.y = 346 bboxmax.y = 470
+bboxmin .x = 346 bboxmax.x = 460
+bboxmin.y = 346 bboxmax.y = 460
+bboxmin .x = 340 bboxmax.x = 551
+bboxmin.y = 340 bboxmax.y = 551
+bboxmin .x = 342 bboxmax.x = 541
+bboxmin.y = 342 bboxmax.y = 541
+bboxmin .x = 325 bboxmax.x = 533
+bboxmin.y = 325 bboxmax.y = 533
+bboxmin .x = 320 bboxmax.x = 539
+bboxmin.y = 320 bboxmax.y = 539
+bboxmin .x = 294 bboxmax.x = 594
+bboxmin.y = 294 bboxmax.y = 594
+bboxmin .x = 292 bboxmax.x = 594
+bboxmin.y = 292 bboxmax.y = 594
+bboxmin .x = 355 bboxmax.x = 509
+bboxmin.y = 355 bboxmax.y = 509
+bboxmin .x = 355 bboxmax.x = 509
+bboxmin.y = 355 bboxmax.y = 509
+bboxmin .x = 355 bboxmax.x = 506
+bboxmin.y = 355 bboxmax.y = 506
+bboxmin .x = 355 bboxmax.x = 506
+bboxmin.y = 355 bboxmax.y = 506
+bboxmin .x = 270 bboxmax.x = 571
+bboxmin.y = 270 bboxmax.y = 571
+bboxmin .x = 269 bboxmax.x = 571
+bboxmin.y = 269 bboxmax.y = 571
+bboxmin .x = 211 bboxmax.x = 400
+bboxmin.y = 211 bboxmax.y = 400
+bboxmin .x = 224 bboxmax.x = 400
+bboxmin.y = 224 bboxmax.y = 400
+bboxmin .x = 289 bboxmax.x = 377
+bboxmin.y = 289 bboxmax.y = 377
+bboxmin .x = 335 bboxmax.x = 344
+bboxmin.y = 335 bboxmax.y = 344
+bboxmin .x = 335 bboxmax.x = 344
+bboxmin.y = 335 bboxmax.y = 344
+bboxmin .x = 294 bboxmax.x = 341
+bboxmin.y = 294 bboxmax.y = 341
+bboxmin .x = 293 bboxmax.x = 341
+bboxmin.y = 293 bboxmax.y = 341
+bboxmin .x = 282 bboxmax.x = 373
+bboxmin.y = 282 bboxmax.y = 373
+bboxmin .x = 293 bboxmax.x = 347
+bboxmin.y = 293 bboxmax.y = 347
+bboxmin .x = 293 bboxmax.x = 347
+bboxmin.y = 293 bboxmax.y = 347
+bboxmin .x = 266 bboxmax.x = 550
+bboxmin.y = 266 bboxmax.y = 550
+bboxmin .x = 266 bboxmax.x = 549
+bboxmin.y = 266 bboxmax.y = 549
+bboxmin .x = 336 bboxmax.x = 641
+bboxmin.y = 336 bboxmax.y = 641
+bboxmin .x = 330 bboxmax.x = 641
+bboxmin.y = 330 bboxmax.y = 641
+bboxmin .x = 379 bboxmax.x = 643
+bboxmin.y = 379 bboxmax.y = 643
+bboxmin .x = 381 bboxmax.x = 643
+bboxmin.y = 381 bboxmax.y = 643
+bboxmin .x = 360 bboxmax.x = 607
+bboxmin.y = 360 bboxmax.y = 607
+bboxmin .x = 363 bboxmax.x = 607
+bboxmin.y = 363 bboxmax.y = 607
+bboxmin .x = 377 bboxmax.x = 696
+bboxmin.y = 377 bboxmax.y = 696
+bboxmin .x = 378 bboxmax.x = 696
+bboxmin.y = 378 bboxmax.y = 696
+bboxmin .x = 379 bboxmax.x = 674
+bboxmin.y = 379 bboxmax.y = 674
+bboxmin .x = 378 bboxmax.x = 674
+bboxmin.y = 378 bboxmax.y = 674
+bboxmin .x = 269 bboxmax.x = 461
+bboxmin.y = 269 bboxmax.y = 461
+bboxmin .x = 271 bboxmax.x = 461
+bboxmin.y = 271 bboxmax.y = 461
+bboxmin .x = 264 bboxmax.x = 451
+bboxmin.y = 264 bboxmax.y = 451
+bboxmin .x = 267 bboxmax.x = 451
+bboxmin.y = 267 bboxmax.y = 451
+bboxmin .x = 262 bboxmax.x = 425
+bboxmin.y = 262 bboxmax.y = 425
+bboxmin .x = 262 bboxmax.x = 439
+bboxmin.y = 262 bboxmax.y = 439
+bboxmin .x = 286 bboxmax.x = 331
+bboxmin.y = 286 bboxmax.y = 331
+bboxmin .x = 286 bboxmax.x = 321
+bboxmin.y = 286 bboxmax.y = 321
+bboxmin .x = 331 bboxmax.x = 339
+bboxmin.y = 331 bboxmax.y = 339
+bboxmin .x = 325 bboxmax.x = 336
+bboxmin.y = 325 bboxmax.y = 336
+bboxmin .x = 343 bboxmax.x = 349
+bboxmin.y = 343 bboxmax.y = 349
+bboxmin .x = 340 bboxmax.x = 348
+bboxmin.y = 340 bboxmax.y = 348
+bboxmin .x = 346 bboxmax.x = 352
+bboxmin.y = 346 bboxmax.y = 352
+bboxmin .x = 344 bboxmax.x = 350
+bboxmin.y = 344 bboxmax.y = 350
+bboxmin .x = 286 bboxmax.x = 496
+bboxmin.y = 286 bboxmax.y = 496
+bboxmin .x = 286 bboxmax.x = 494
+bboxmin.y = 286 bboxmax.y = 494
+bboxmin .x = 295 bboxmax.x = 496
+bboxmin.y = 295 bboxmax.y = 496
+bboxmin .x = 295 bboxmax.x = 497
+bboxmin.y = 295 bboxmax.y = 497
+bboxmin .x = 298 bboxmax.x = 497
+bboxmin.y = 298 bboxmax.y = 497
+bboxmin .x = 298 bboxmax.x = 497
+bboxmin.y = 298 bboxmax.y = 497
+bboxmin .x = 291 bboxmax.x = 496
+bboxmin.y = 291 bboxmax.y = 496
+bboxmin .x = 291 bboxmax.x = 496
+bboxmin.y = 291 bboxmax.y = 496
+bboxmin .x = 284 bboxmax.x = 644
+bboxmin.y = 284 bboxmax.y = 644
+bboxmin .x = 286 bboxmax.x = 644
+bboxmin.y = 286 bboxmax.y = 644
+bboxmin .x = 303 bboxmax.x = 660
+bboxmin.y = 303 bboxmax.y = 660
+bboxmin .x = 306 bboxmax.x = 660
+bboxmin.y = 306 bboxmax.y = 660
+bboxmin .x = 279 bboxmax.x = 600
+bboxmin.y = 279 bboxmax.y = 600
+bboxmin .x = 276 bboxmax.x = 600
+bboxmin.y = 276 bboxmax.y = 600
+bboxmin .x = 280 bboxmax.x = 529
+bboxmin.y = 280 bboxmax.y = 529
+bboxmin .x = 280 bboxmax.x = 520
+bboxmin.y = 280 bboxmax.y = 520
+bboxmin .x = 291 bboxmax.x = 537
+bboxmin.y = 291 bboxmax.y = 537
+bboxmin .x = 286 bboxmax.x = 537
+bboxmin.y = 286 bboxmax.y = 537
+bboxmin .x = 305 bboxmax.x = 539
+bboxmin.y = 305 bboxmax.y = 539
+bboxmin .x = 300 bboxmax.x = 539
+bboxmin.y = 300 bboxmax.y = 539
+bboxmin .x = 310 bboxmax.x = 380
+bboxmin.y = 310 bboxmax.y = 380
+bboxmin .x = 307 bboxmax.x = 380
+bboxmin.y = 307 bboxmax.y = 380
+bboxmin .x = 299 bboxmax.x = 363
+bboxmin.y = 299 bboxmax.y = 363
+bboxmin .x = 304 bboxmax.x = 363
+bboxmin.y = 304 bboxmax.y = 363
+bboxmin .x = 304 bboxmax.x = 346
+bboxmin.y = 304 bboxmax.y = 346
+bboxmin .x = 304 bboxmax.x = 336
+bboxmin.y = 304 bboxmax.y = 336
+bboxmin .x = 308 bboxmax.x = 348
+bboxmin.y = 308 bboxmax.y = 348
+bboxmin .x = 308 bboxmax.x = 348
+bboxmin.y = 308 bboxmax.y = 348
+bboxmin .x = 346 bboxmax.x = 416
+bboxmin.y = 346 bboxmax.y = 416
+bboxmin .x = 341 bboxmax.x = 416
+bboxmin.y = 341 bboxmax.y = 416
+bboxmin .x = 358 bboxmax.x = 431
+bboxmin.y = 358 bboxmax.y = 431
+bboxmin .x = 358 bboxmax.x = 431
+bboxmin.y = 358 bboxmax.y = 431
+bboxmin .x = 349 bboxmax.x = 440
+bboxmin.y = 349 bboxmax.y = 440
+bboxmin .x = 345 bboxmax.x = 440
+bboxmin.y = 345 bboxmax.y = 440
+bboxmin .x = 349 bboxmax.x = 421
+bboxmin.y = 349 bboxmax.y = 421
+bboxmin .x = 349 bboxmax.x = 421
+bboxmin.y = 349 bboxmax.y = 421
+bboxmin .x = 359 bboxmax.x = 541
+bboxmin.y = 359 bboxmax.y = 541
+bboxmin .x = 359 bboxmax.x = 523
+bboxmin.y = 359 bboxmax.y = 523
+bboxmin .x = 271 bboxmax.x = 446
+bboxmin.y = 271 bboxmax.y = 446
+bboxmin .x = 277 bboxmax.x = 446
+bboxmin.y = 277 bboxmax.y = 446
+bboxmin .x = 265 bboxmax.x = 377
+bboxmin.y = 265 bboxmax.y = 377
+bboxmin .x = 358 bboxmax.x = 399
+bboxmin.y = 358 bboxmax.y = 399
+bboxmin .x = 358 bboxmax.x = 400
+bboxmin.y = 358 bboxmax.y = 400
+bboxmin .x = 352 bboxmax.x = 370
+bboxmin.y = 352 bboxmax.y = 370
+bboxmin .x = 351 bboxmax.x = 378
+bboxmin.y = 351 bboxmax.y = 378
+bboxmin .x = 316 bboxmax.x = 400
+bboxmin.y = 316 bboxmax.y = 400
+bboxmin .x = 316 bboxmax.x = 400
+bboxmin.y = 316 bboxmax.y = 400
+bboxmin .x = 326 bboxmax.x = 374
+bboxmin.y = 326 bboxmax.y = 374
+bboxmin .x = 326 bboxmax.x = 399
+bboxmin.y = 326 bboxmax.y = 399
+bboxmin .x = 300 bboxmax.x = 400
+bboxmin.y = 300 bboxmax.y = 400
+bboxmin .x = 300 bboxmax.x = 400
+bboxmin.y = 300 bboxmax.y = 400
+bboxmin .x = 280 bboxmax.x = 400
+bboxmin.y = 280 bboxmax.y = 400
+bboxmin .x = 280 bboxmax.x = 400
+bboxmin.y = 280 bboxmax.y = 400
+bboxmin .x = 286 bboxmax.x = 479
+bboxmin.y = 286 bboxmax.y = 479
+bboxmin .x = 294 bboxmax.x = 479
+bboxmin.y = 294 bboxmax.y = 479
+bboxmin .x = 303 bboxmax.x = 486
+bboxmin.y = 303 bboxmax.y = 486
+bboxmin .x = 297 bboxmax.x = 486
+bboxmin.y = 297 bboxmax.y = 486
+bboxmin .x = 306 bboxmax.x = 493
+bboxmin.y = 306 bboxmax.y = 493
+bboxmin .x = 306 bboxmax.x = 493
+bboxmin.y = 306 bboxmax.y = 493
+bboxmin .x = 321 bboxmax.x = 495
+bboxmin.y = 321 bboxmax.y = 495
+bboxmin .x = 321 bboxmax.x = 495
+bboxmin.y = 321 bboxmax.y = 495
+bboxmin .x = 312 bboxmax.x = 470
+bboxmin.y = 312 bboxmax.y = 470
+bboxmin .x = 312 bboxmax.x = 475
+bboxmin.y = 312 bboxmax.y = 475
+bboxmin .x = 317 bboxmax.x = 465
+bboxmin.y = 317 bboxmax.y = 465
+bboxmin .x = 320 bboxmax.x = 465
+bboxmin.y = 320 bboxmax.y = 465
+bboxmin .x = 388 bboxmax.x = 433
+bboxmin.y = 388 bboxmax.y = 433
+bboxmin .x = 388 bboxmax.x = 433
+bboxmin.y = 388 bboxmax.y = 433
+bboxmin .x = 386 bboxmax.x = 424
+bboxmin.y = 386 bboxmax.y = 424
+bboxmin .x = 386 bboxmax.x = 424
+bboxmin.y = 386 bboxmax.y = 424
+bboxmin .x = 349 bboxmax.x = 490
+bboxmin.y = 349 bboxmax.y = 490
+bboxmin .x = 347 bboxmax.x = 483
+bboxmin.y = 347 bboxmax.y = 483
+bboxmin .x = 293 bboxmax.x = 519
+bboxmin.y = 293 bboxmax.y = 519
+bboxmin .x = 293 bboxmax.x = 517
+bboxmin.y = 293 bboxmax.y = 517
+bboxmin .x = 317 bboxmax.x = 489
+bboxmin.y = 317 bboxmax.y = 489
+bboxmin .x = 319 bboxmax.x = 489
+bboxmin.y = 319 bboxmax.y = 489
+bboxmin .x = 288 bboxmax.x = 506
+bboxmin.y = 288 bboxmax.y = 506
+bboxmin .x = 289 bboxmax.x = 506
+bboxmin.y = 289 bboxmax.y = 506
+bboxmin .x = 350 bboxmax.x = 492
+bboxmin.y = 350 bboxmax.y = 492
+bboxmin .x = 350 bboxmax.x = 494
+bboxmin.y = 350 bboxmax.y = 494
+bboxmin .x = 345 bboxmax.x = 516
+bboxmin.y = 345 bboxmax.y = 516
+bboxmin .x = 345 bboxmax.x = 516
+bboxmin.y = 345 bboxmax.y = 516
+bboxmin .x = 329 bboxmax.x = 520
+bboxmin.y = 329 bboxmax.y = 520
+bboxmin .x = 331 bboxmax.x = 518
+bboxmin.y = 331 bboxmax.y = 518
+bboxmin .x = 336 bboxmax.x = 492
+bboxmin.y = 336 bboxmax.y = 492
+bboxmin .x = 335 bboxmax.x = 489
+bboxmin.y = 335 bboxmax.y = 489
+bboxmin .x = 298 bboxmax.x = 494
+bboxmin.y = 298 bboxmax.y = 494
+bboxmin .x = 298 bboxmax.x = 496
+bboxmin.y = 298 bboxmax.y = 496
+bboxmin .x = 303 bboxmax.x = 490
+bboxmin.y = 303 bboxmax.y = 490
+bboxmin .x = 306 bboxmax.x = 490
+bboxmin.y = 306 bboxmax.y = 490
+bboxmin .x = 301 bboxmax.x = 496
+bboxmin.y = 301 bboxmax.y = 496
+bboxmin .x = 301 bboxmax.x = 496
+bboxmin.y = 301 bboxmax.y = 496
+bboxmin .x = 355 bboxmax.x = 513
+bboxmin.y = 355 bboxmax.y = 513
+bboxmin .x = 355 bboxmax.x = 513
+bboxmin.y = 355 bboxmax.y = 513
+bboxmin .x = 368 bboxmax.x = 493
+bboxmin.y = 368 bboxmax.y = 493
+bboxmin .x = 369 bboxmax.x = 499
+bboxmin.y = 369 bboxmax.y = 499
+bboxmin .x = 362 bboxmax.x = 433
+bboxmin.y = 362 bboxmax.y = 433
+bboxmin .x = 352 bboxmax.x = 433
+bboxmin.y = 352 bboxmax.y = 433
+bboxmin .x = 352 bboxmax.x = 445
+bboxmin.y = 352 bboxmax.y = 445
+bboxmin .x = 349 bboxmax.x = 445
+bboxmin.y = 349 bboxmax.y = 445
+bboxmin .x = 265 bboxmax.x = 530
+bboxmin.y = 265 bboxmax.y = 530
+bboxmin .x = 265 bboxmax.x = 535
+bboxmin.y = 265 bboxmax.y = 535
+bboxmin .x = 265 bboxmax.x = 510
+bboxmin.y = 265 bboxmax.y = 510
+bboxmin .x = 264 bboxmax.x = 510
+bboxmin.y = 264 bboxmax.y = 510
+bboxmin .x = 264 bboxmax.x = 461
+bboxmin.y = 264 bboxmax.y = 461
+bboxmin .x = 264 bboxmax.x = 469
+bboxmin.y = 264 bboxmax.y = 469
+bboxmin .x = 274 bboxmax.x = 401
+bboxmin.y = 274 bboxmax.y = 401
+bboxmin .x = 274 bboxmax.x = 401
+bboxmin.y = 274 bboxmax.y = 401
+bboxmin .x = 267 bboxmax.x = 418
+bboxmin.y = 267 bboxmax.y = 418
+bboxmin .x = 270 bboxmax.x = 402
+bboxmin.y = 270 bboxmax.y = 402
+bboxmin .x = 295 bboxmax.x = 353
+bboxmin.y = 295 bboxmax.y = 353
+bboxmin .x = 289 bboxmax.x = 364
+bboxmin.y = 289 bboxmax.y = 364
+bboxmin .x = 296 bboxmax.x = 374
+bboxmin.y = 296 bboxmax.y = 374
+bboxmin .x = 296 bboxmax.x = 374
+bboxmin.y = 296 bboxmax.y = 374
+bboxmin .x = 264 bboxmax.x = 411
+bboxmin.y = 264 bboxmax.y = 411
+bboxmin .x = 262 bboxmax.x = 425
+bboxmin.y = 262 bboxmax.y = 425
+bboxmin .x = 307 bboxmax.x = 364
+bboxmin.y = 307 bboxmax.y = 364
+bboxmin .x = 307 bboxmax.x = 364
+bboxmin.y = 307 bboxmax.y = 364
+bboxmin .x = 320 bboxmax.x = 345
+bboxmin.y = 320 bboxmax.y = 345
+bboxmin .x = 316 bboxmax.x = 346
+bboxmin.y = 316 bboxmax.y = 346
+bboxmin .x = 334 bboxmax.x = 350
+bboxmin.y = 334 bboxmax.y = 350
+bboxmin .x = 333 bboxmax.x = 350
+bboxmin.y = 333 bboxmax.y = 350
+bboxmin .x = 260 bboxmax.x = 485
+bboxmin.y = 260 bboxmax.y = 485
+bboxmin .x = 260 bboxmax.x = 485
+bboxmin.y = 260 bboxmax.y = 485
+bboxmin .x = 263 bboxmax.x = 550
+bboxmin.y = 263 bboxmax.y = 550
+bboxmin .x = 263 bboxmax.x = 550
+bboxmin.y = 263 bboxmax.y = 550
+bboxmin .x = 290 bboxmax.x = 487
+bboxmin.y = 290 bboxmax.y = 487
+bboxmin .x = 290 bboxmax.x = 491
+bboxmin.y = 290 bboxmax.y = 491
+bboxmin .x = 295 bboxmax.x = 491
+bboxmin.y = 295 bboxmax.y = 491
+bboxmin .x = 295 bboxmax.x = 494
+bboxmin.y = 295 bboxmax.y = 494
+bboxmin .x = 262 bboxmax.x = 461
+bboxmin.y = 262 bboxmax.y = 461
+bboxmin .x = 260 bboxmax.x = 461
+bboxmin.y = 260 bboxmax.y = 461
+bboxmin .x = 389 bboxmax.x = 407
+bboxmin.y = 389 bboxmax.y = 407
+bboxmin .x = 392 bboxmax.x = 407
+bboxmin.y = 392 bboxmax.y = 407
+bboxmin .x = 314 bboxmax.x = 432
+bboxmin.y = 314 bboxmax.y = 432
+bboxmin .x = 323 bboxmax.x = 432
+bboxmin.y = 323 bboxmax.y = 432
+bboxmin .x = 340 bboxmax.x = 428
+bboxmin.y = 340 bboxmax.y = 428
+bboxmin .x = 332 bboxmax.x = 428
+bboxmin.y = 332 bboxmax.y = 428
+bboxmin .x = 334 bboxmax.x = 406
+bboxmin.y = 334 bboxmax.y = 406
+bboxmin .x = 334 bboxmax.x = 395
+bboxmin.y = 334 bboxmax.y = 395
+bboxmin .x = 343 bboxmax.x = 383
+bboxmin.y = 343 bboxmax.y = 383
+bboxmin .x = 343 bboxmax.x = 392
+bboxmin.y = 343 bboxmax.y = 392
+bboxmin .x = 352 bboxmax.x = 404
+bboxmin.y = 352 bboxmax.y = 404
+bboxmin .x = 358 bboxmax.x = 404
+bboxmin.y = 358 bboxmax.y = 404
+bboxmin .x = 345 bboxmax.x = 367
+bboxmin.y = 345 bboxmax.y = 367
+bboxmin .x = 349 bboxmax.x = 367
+bboxmin.y = 349 bboxmax.y = 367
+bboxmin .x = 349 bboxmax.x = 357
+bboxmin.y = 349 bboxmax.y = 357
+bboxmin .x = 351 bboxmax.x = 358
+bboxmin.y = 351 bboxmax.y = 358
+bboxmin .x = 341 bboxmax.x = 373
+bboxmin.y = 341 bboxmax.y = 373
+bboxmin .x = 341 bboxmax.x = 367
+bboxmin.y = 341 bboxmax.y = 367
+bboxmin .x = 363 bboxmax.x = 433
+bboxmin.y = 363 bboxmax.y = 433
+bboxmin .x = 370 bboxmax.x = 432
+bboxmin.y = 370 bboxmax.y = 432
+bboxmin .x = 364 bboxmax.x = 469
+bboxmin.y = 364 bboxmax.y = 469
+bboxmin .x = 358 bboxmax.x = 464
+bboxmin.y = 358 bboxmax.y = 464
+bboxmin .x = 364 bboxmax.x = 510
+bboxmin.y = 364 bboxmax.y = 510
+bboxmin .x = 369 bboxmax.x = 510
+bboxmin.y = 369 bboxmax.y = 510
+bboxmin .x = 371 bboxmax.x = 518
+bboxmin.y = 371 bboxmax.y = 518
+bboxmin .x = 376 bboxmax.x = 518
+bboxmin.y = 376 bboxmax.y = 518
+bboxmin .x = 380 bboxmax.x = 522
+bboxmin.y = 380 bboxmax.y = 522
+bboxmin .x = 384 bboxmax.x = 522
+bboxmin.y = 384 bboxmax.y = 522
+bboxmin .x = 390 bboxmax.x = 523
+bboxmin.y = 390 bboxmax.y = 523
+bboxmin .x = 391 bboxmax.x = 523
+bboxmin.y = 391 bboxmax.y = 523
+bboxmin .x = 353 bboxmax.x = 703
+bboxmin.y = 353 bboxmax.y = 703
+bboxmin .x = 353 bboxmax.x = 703
+bboxmin.y = 353 bboxmax.y = 703
+bboxmin .x = 326 bboxmax.x = 690
+bboxmin.y = 326 bboxmax.y = 690
+bboxmin .x = 326 bboxmax.x = 680
+bboxmin.y = 326 bboxmax.y = 680
+bboxmin .x = 312 bboxmax.x = 332
+bboxmin.y = 312 bboxmax.y = 332
+bboxmin .x = 312 bboxmax.x = 336
+bboxmin.y = 312 bboxmax.y = 336
+bboxmin .x = 337 bboxmax.x = 399
+bboxmin.y = 337 bboxmax.y = 399
+bboxmin .x = 337 bboxmax.x = 399
+bboxmin.y = 337 bboxmax.y = 399
+bboxmin .x = 297 bboxmax.x = 500
+bboxmin.y = 297 bboxmax.y = 500
+bboxmin .x = 298 bboxmax.x = 498
+bboxmin.y = 298 bboxmax.y = 498
+bboxmin .x = 224 bboxmax.x = 370
+bboxmin.y = 224 bboxmax.y = 370
+bboxmin .x = 244 bboxmax.x = 367
+bboxmin.y = 244 bboxmax.y = 367
+bboxmin .x = 298 bboxmax.x = 330
+bboxmin.y = 298 bboxmax.y = 330
+bboxmin .x = 287 bboxmax.x = 317
+bboxmin.y = 287 bboxmax.y = 317
+bboxmin .x = 287 bboxmax.x = 317
+bboxmin.y = 287 bboxmax.y = 317
+bboxmin .x = 266 bboxmax.x = 315
+bboxmin.y = 266 bboxmax.y = 315
+bboxmin .x = 271 bboxmax.x = 338
+bboxmin.y = 271 bboxmax.y = 338
+bboxmin .x = 286 bboxmax.x = 334
+bboxmin.y = 286 bboxmax.y = 334
+bboxmin .x = 280 bboxmax.x = 459
+bboxmin.y = 280 bboxmax.y = 459
+bboxmin .x = 280 bboxmax.x = 446
+bboxmin.y = 280 bboxmax.y = 446
+bboxmin .x = 268 bboxmax.x = 491
+bboxmin.y = 268 bboxmax.y = 491
+bboxmin .x = 268 bboxmax.x = 491
+bboxmin.y = 268 bboxmax.y = 491
+bboxmin .x = 276 bboxmax.x = 617
+bboxmin.y = 276 bboxmax.y = 617
+bboxmin .x = 273 bboxmax.x = 617
+bboxmin.y = 273 bboxmax.y = 617
+bboxmin .x = 267 bboxmax.x = 581
+bboxmin.y = 267 bboxmax.y = 581
+bboxmin .x = 267 bboxmax.x = 571
+bboxmin.y = 267 bboxmax.y = 571
+bboxmin .x = 297 bboxmax.x = 662
+bboxmin.y = 297 bboxmax.y = 662
+bboxmin .x = 300 bboxmax.x = 457
+bboxmin.y = 300 bboxmax.y = 457
+bboxmin .x = 300 bboxmax.x = 445
+bboxmin.y = 300 bboxmax.y = 445
+bboxmin .x = 323 bboxmax.x = 419
+bboxmin.y = 323 bboxmax.y = 419
+bboxmin .x = 332 bboxmax.x = 419
+bboxmin.y = 332 bboxmax.y = 419
+bboxmin .x = 294 bboxmax.x = 432
+bboxmin.y = 294 bboxmax.y = 432
+bboxmin .x = 305 bboxmax.x = 432
+bboxmin.y = 305 bboxmax.y = 432
+bboxmin .x = 305 bboxmax.x = 419
+bboxmin.y = 305 bboxmax.y = 419
+bboxmin .x = 305 bboxmax.x = 407
+bboxmin.y = 305 bboxmax.y = 407
+bboxmin .x = 327 bboxmax.x = 395
+bboxmin.y = 327 bboxmax.y = 395
+bboxmin .x = 334 bboxmax.x = 395
+bboxmin.y = 334 bboxmax.y = 395
+bboxmin .x = 335 bboxmax.x = 380
+bboxmin.y = 335 bboxmax.y = 380
+bboxmin .x = 335 bboxmax.x = 373
+bboxmin.y = 335 bboxmax.y = 373
+bboxmin .x = 392 bboxmax.x = 413
+bboxmin.y = 392 bboxmax.y = 413
+bboxmin .x = 392 bboxmax.x = 413
+bboxmin.y = 392 bboxmax.y = 413
+bboxmin .x = 345 bboxmax.x = 431
+bboxmin.y = 345 bboxmax.y = 431
+bboxmin .x = 252 bboxmax.x = 474
+bboxmin.y = 252 bboxmax.y = 474
+bboxmin .x = 256 bboxmax.x = 474
+bboxmin.y = 256 bboxmax.y = 474
+bboxmin .x = 248 bboxmax.x = 494
+bboxmin.y = 248 bboxmax.y = 494
+bboxmin .x = 252 bboxmax.x = 494
+bboxmin.y = 252 bboxmax.y = 494
+bboxmin .x = 246 bboxmax.x = 496
+bboxmin.y = 246 bboxmax.y = 496
+bboxmin .x = 248 bboxmax.x = 496
+bboxmin.y = 248 bboxmax.y = 496
+bboxmin .x = 246 bboxmax.x = 491
+bboxmin.y = 246 bboxmax.y = 491
+bboxmin .x = 246 bboxmax.x = 491
+bboxmin.y = 246 bboxmax.y = 491
+bboxmin .x = 248 bboxmax.x = 482
+bboxmin.y = 248 bboxmax.y = 482
+bboxmin .x = 248 bboxmax.x = 482
+bboxmin.y = 248 bboxmax.y = 482
+bboxmin .x = 249 bboxmax.x = 465
+bboxmin.y = 249 bboxmax.y = 465
+bboxmin .x = 249 bboxmax.x = 467
+bboxmin.y = 249 bboxmax.y = 467
+bboxmin .x = 258 bboxmax.x = 414
+bboxmin.y = 258 bboxmax.y = 414
+bboxmin .x = 258 bboxmax.x = 415
+bboxmin.y = 258 bboxmax.y = 415
+bboxmin .x = 256 bboxmax.x = 408
+bboxmin.y = 256 bboxmax.y = 408
+bboxmin .x = 256 bboxmax.x = 404
+bboxmin.y = 256 bboxmax.y = 404
+bboxmin .x = 256 bboxmax.x = 408
+bboxmin.y = 256 bboxmax.y = 408
+bboxmin .x = 256 bboxmax.x = 408
+bboxmin.y = 256 bboxmax.y = 408
+bboxmin .x = 266 bboxmax.x = 425
+bboxmin.y = 266 bboxmax.y = 425
+bboxmin .x = 266 bboxmax.x = 437
+bboxmin.y = 266 bboxmax.y = 437
+bboxmin .x = 257 bboxmax.x = 481
+bboxmin.y = 257 bboxmax.y = 481
+bboxmin .x = 257 bboxmax.x = 474
+bboxmin.y = 257 bboxmax.y = 474
+bboxmin .x = 257 bboxmax.x = 494
+bboxmin.y = 257 bboxmax.y = 494
+bboxmin .x = 255 bboxmax.x = 494
+bboxmin.y = 255 bboxmax.y = 494
+bboxmin .x = 253 bboxmax.x = 496
+bboxmin.y = 253 bboxmax.y = 496
+bboxmin .x = 264 bboxmax.x = 397
+bboxmin.y = 264 bboxmax.y = 397
+bboxmin .x = 262 bboxmax.x = 397
+bboxmin.y = 262 bboxmax.y = 397
+bboxmin .x = 260 bboxmax.x = 408
+bboxmin.y = 260 bboxmax.y = 408
+bboxmin .x = 260 bboxmax.x = 411
+bboxmin.y = 260 bboxmax.y = 411
+bboxmin .x = 261 bboxmax.x = 438
+bboxmin.y = 261 bboxmax.y = 438
+bboxmin .x = 258 bboxmax.x = 425
+bboxmin.y = 258 bboxmax.y = 425
+bboxmin .x = 258 bboxmax.x = 425
+bboxmin.y = 258 bboxmax.y = 425
+bboxmin .x = 260 bboxmax.x = 425
+bboxmin.y = 260 bboxmax.y = 425
+bboxmin .x = 254 bboxmax.x = 487
+bboxmin.y = 254 bboxmax.y = 487
+bboxmin .x = 254 bboxmax.x = 487
+bboxmin.y = 254 bboxmax.y = 487
+bboxmin .x = 254 bboxmax.x = 467
+bboxmin.y = 254 bboxmax.y = 467
+bboxmin .x = 254 bboxmax.x = 438
+bboxmin.y = 254 bboxmax.y = 438
+bboxmin .x = 254 bboxmax.x = 436
+bboxmin.y = 254 bboxmax.y = 436
+bboxmin .x = 254 bboxmax.x = 485
+bboxmin.y = 254 bboxmax.y = 485
+bboxmin .x = 254 bboxmax.x = 487
+bboxmin.y = 254 bboxmax.y = 487
+bboxmin .x = 258 bboxmax.x = 438
+bboxmin.y = 258 bboxmax.y = 438
+bboxmin .x = 262 bboxmax.x = 448
+bboxmin.y = 262 bboxmax.y = 448
+bboxmin .x = 262 bboxmax.x = 438
+bboxmin.y = 262 bboxmax.y = 438
+bboxmin .x = 256 bboxmax.x = 423
+bboxmin.y = 256 bboxmax.y = 423
+bboxmin .x = 256 bboxmax.x = 413
+bboxmin.y = 256 bboxmax.y = 413
+bboxmin .x = 258 bboxmax.x = 424
+bboxmin.y = 258 bboxmax.y = 424
+bboxmin .x = 258 bboxmax.x = 424
+bboxmin.y = 258 bboxmax.y = 424
+bboxmin .x = 256 bboxmax.x = 448
+bboxmin.y = 256 bboxmax.y = 448
+bboxmin .x = 259 bboxmax.x = 456
+bboxmin.y = 259 bboxmax.y = 456
+bboxmin .x = 256 bboxmax.x = 430
+bboxmin.y = 256 bboxmax.y = 430
+bboxmin .x = 260 bboxmax.x = 430
+bboxmin.y = 260 bboxmax.y = 430
+bboxmin .x = 261 bboxmax.x = 456
+bboxmin.y = 261 bboxmax.y = 456
+bboxmin .x = 260 bboxmax.x = 463
+bboxmin.y = 260 bboxmax.y = 463
+bboxmin .x = 264 bboxmax.x = 411
+bboxmin.y = 264 bboxmax.y = 411
+bboxmin .x = 258 bboxmax.x = 418
+bboxmin.y = 258 bboxmax.y = 418
+bboxmin .x = 256 bboxmax.x = 413
+bboxmin.y = 256 bboxmax.y = 413
+bboxmin .x = 263 bboxmax.x = 513
+bboxmin.y = 263 bboxmax.y = 513
+bboxmin .x = 262 bboxmax.x = 501
+bboxmin.y = 262 bboxmax.y = 501
+bboxmin .x = 270 bboxmax.x = 397
+bboxmin.y = 270 bboxmax.y = 397
+bboxmin .x = 260 bboxmax.x = 375
+bboxmin.y = 260 bboxmax.y = 375
+bboxmin .x = 260 bboxmax.x = 400
+bboxmin.y = 260 bboxmax.y = 400
+bboxmin .x = 355 bboxmax.x = 523
+bboxmin.y = 355 bboxmax.y = 523
+bboxmin .x = 355 bboxmax.x = 513
+bboxmin.y = 355 bboxmax.y = 513
+bboxmin .x = 273 bboxmax.x = 491
+bboxmin.y = 273 bboxmax.y = 491
+bboxmin .x = 273 bboxmax.x = 492
+bboxmin.y = 273 bboxmax.y = 492
+bboxmin .x = 259 bboxmax.x = 463
+bboxmin.y = 259 bboxmax.y = 463
+bboxmin .x = 259 bboxmax.x = 471
+bboxmin.y = 259 bboxmax.y = 471
+bboxmin .x = 264 bboxmax.x = 488
+bboxmin.y = 264 bboxmax.y = 488
+bboxmin .x = 264 bboxmax.x = 488
+bboxmin.y = 264 bboxmax.y = 488
+bboxmin .x = 259 bboxmax.x = 479
+bboxmin.y = 259 bboxmax.y = 479
+bboxmin .x = 259 bboxmax.x = 479
+bboxmin.y = 259 bboxmax.y = 479
+bboxmin .x = 280 bboxmax.x = 492
+bboxmin.y = 280 bboxmax.y = 492
+bboxmin .x = 280 bboxmax.x = 494
+bboxmin.y = 280 bboxmax.y = 494
+bboxmin .x = 261 bboxmax.x = 434
+bboxmin.y = 261 bboxmax.y = 434
+bboxmin .x = 262 bboxmax.x = 430
+bboxmin.y = 262 bboxmax.y = 430
+bboxmin .x = 377 bboxmax.x = 432
+bboxmin.y = 377 bboxmax.y = 432
+bboxmin .x = 328 bboxmax.x = 370
+bboxmin.y = 328 bboxmax.y = 370
+bboxmin .x = 328 bboxmax.x = 363
+bboxmin.y = 328 bboxmax.y = 363
+bboxmin .x = 325 bboxmax.x = 356
+bboxmin.y = 325 bboxmax.y = 356
+bboxmin .x = 325 bboxmax.x = 361
+bboxmin.y = 325 bboxmax.y = 361
+bboxmin .x = 327 bboxmax.x = 346
+bboxmin.y = 327 bboxmax.y = 346
+bboxmin .x = 326 bboxmax.x = 346
+bboxmin.y = 326 bboxmax.y = 346
+bboxmin .x = 300 bboxmax.x = 470
+bboxmin.y = 300 bboxmax.y = 470
+bboxmin .x = 294 bboxmax.x = 470
+bboxmin.y = 294 bboxmax.y = 470
+bboxmin .x = 244 bboxmax.x = 342
+bboxmin.y = 244 bboxmax.y = 342
+bboxmin .x = 244 bboxmax.x = 342
+bboxmin.y = 244 bboxmax.y = 342
+bboxmin .x = 260 bboxmax.x = 501
+bboxmin.y = 260 bboxmax.y = 501
+bboxmin .x = 261 bboxmax.x = 501
+bboxmin.y = 261 bboxmax.y = 501
+bboxmin .x = 332 bboxmax.x = 699
+bboxmin.y = 332 bboxmax.y = 699
+bboxmin .x = 328 bboxmax.x = 699
+bboxmin.y = 328 bboxmax.y = 699
+bboxmin .x = 275 bboxmax.x = 634
+bboxmin.y = 275 bboxmax.y = 634
+bboxmin .x = 273 bboxmax.x = 634
+bboxmin.y = 273 bboxmax.y = 634
+bboxmin .x = 289 bboxmax.x = 667
+bboxmin.y = 289 bboxmax.y = 667
+bboxmin .x = 285 bboxmax.x = 667
+bboxmin.y = 285 bboxmax.y = 667
+bboxmin .x = 380 bboxmax.x = 705
+bboxmin.y = 380 bboxmax.y = 705
+bboxmin .x = 379 bboxmax.x = 705
+bboxmin.y = 379 bboxmax.y = 705
+bboxmin .x = 264 bboxmax.x = 505
+bboxmin.y = 264 bboxmax.y = 505
+bboxmin .x = 367 bboxmax.x = 541
+bboxmin.y = 367 bboxmax.y = 541
+bboxmin .x = 367 bboxmax.x = 544
+bboxmin.y = 367 bboxmax.y = 544
+bboxmin .x = 387 bboxmax.x = 544
+bboxmin.y = 387 bboxmax.y = 544
+bboxmin .x = 390 bboxmax.x = 543
+bboxmin.y = 390 bboxmax.y = 543
+bboxmin .x = 342 bboxmax.x = 355
+bboxmin.y = 342 bboxmax.y = 355
+bboxmin .x = 347 bboxmax.x = 374
+bboxmin.y = 347 bboxmax.y = 374
+bboxmin .x = 354 bboxmax.x = 404
+bboxmin.y = 354 bboxmax.y = 404
+bboxmin .x = 342 bboxmax.x = 362
+bboxmin.y = 342 bboxmax.y = 362
+bboxmin .x = 344 bboxmax.x = 362
+bboxmin.y = 344 bboxmax.y = 362
+bboxmin .x = 325 bboxmax.x = 375
+bboxmin.y = 325 bboxmax.y = 375
+bboxmin .x = 355 bboxmax.x = 498
+bboxmin.y = 355 bboxmax.y = 498
+bboxmin .x = 355 bboxmax.x = 501
+bboxmin.y = 355 bboxmax.y = 501
+bboxmin .x = 349 bboxmax.x = 495
+bboxmin.y = 349 bboxmax.y = 495
+bboxmin .x = 303 bboxmax.x = 495
+bboxmin.y = 303 bboxmax.y = 495
+bboxmin .x = 303 bboxmax.x = 495
+bboxmin.y = 303 bboxmax.y = 495
+bboxmin .x = 297 bboxmax.x = 505
+bboxmin.y = 297 bboxmax.y = 505
+bboxmin .x = 297 bboxmax.x = 500
+bboxmin.y = 297 bboxmax.y = 500
+bboxmin .x = 299 bboxmax.x = 497
+bboxmin.y = 299 bboxmax.y = 497
+bboxmin .x = 300 bboxmax.x = 517
+bboxmin.y = 300 bboxmax.y = 517
+bboxmin .x = 296 bboxmax.x = 513
+bboxmin.y = 296 bboxmax.y = 513
+bboxmin .x = 355 bboxmax.x = 507
+bboxmin.y = 355 bboxmax.y = 507
+bboxmin .x = 356 bboxmax.x = 501
+bboxmin.y = 356 bboxmax.y = 501
+bboxmin .x = 275 bboxmax.x = 339
+bboxmin.y = 275 bboxmax.y = 339
+bboxmin .x = 275 bboxmax.x = 339
+bboxmin.y = 275 bboxmax.y = 339
+bboxmin .x = 265 bboxmax.x = 400
+bboxmin.y = 265 bboxmax.y = 400
+bboxmin .x = 265 bboxmax.x = 400
+bboxmin.y = 265 bboxmax.y = 400
+bboxmin .x = 263 bboxmax.x = 370
+bboxmin.y = 263 bboxmax.y = 370
+bboxmin .x = 248 bboxmax.x = 400
+bboxmin.y = 248 bboxmax.y = 400
+bboxmin .x = 271 bboxmax.x = 356
+bboxmin.y = 271 bboxmax.y = 356
+bboxmin .x = 254 bboxmax.x = 465
+bboxmin.y = 254 bboxmax.y = 465
+bboxmin .x = 254 bboxmax.x = 465
+bboxmin.y = 254 bboxmax.y = 465
+bboxmin .x = 362 bboxmax.x = 433
+bboxmin.y = 362 bboxmax.y = 433
+bboxmin .x = 362 bboxmax.x = 431
+bboxmin.y = 362 bboxmax.y = 431
+bboxmin .x = 359 bboxmax.x = 427
+bboxmin.y = 359 bboxmax.y = 427
+bboxmin .x = 325 bboxmax.x = 400
+bboxmin.y = 325 bboxmax.y = 400
+bboxmin .x = 325 bboxmax.x = 400
+bboxmin.y = 325 bboxmax.y = 400
+bboxmin .x = 367 bboxmax.x = 404
+bboxmin.y = 367 bboxmax.y = 404
+bboxmin .x = 367 bboxmax.x = 407
+bboxmin.y = 367 bboxmax.y = 407
+bboxmin .x = 164 bboxmax.x = 375
+bboxmin.y = 164 bboxmax.y = 375
+bboxmin .x = 164 bboxmax.x = 346
+bboxmin.y = 164 bboxmax.y = 346
+bboxmin .x = 216 bboxmax.x = 293
+bboxmin.y = 216 bboxmax.y = 293
+bboxmin .x = 216 bboxmax.x = 301
+bboxmin.y = 216 bboxmax.y = 301
+bboxmin .x = 210 bboxmax.x = 293
+bboxmin.y = 210 bboxmax.y = 293
+bboxmin .x = 210 bboxmax.x = 293
+bboxmin.y = 210 bboxmax.y = 293
+bboxmin .x = 118 bboxmax.x = 344
+bboxmin.y = 118 bboxmax.y = 344
+bboxmin .x = 103 bboxmax.x = 368
+bboxmin.y = 103 bboxmax.y = 368
+bboxmin .x = 237 bboxmax.x = 288
+bboxmin.y = 237 bboxmax.y = 288
+bboxmin .x = 237 bboxmax.x = 288
+bboxmin.y = 237 bboxmax.y = 288
+bboxmin .x = 170 bboxmax.x = 266
+bboxmin.y = 170 bboxmax.y = 266
+bboxmin .x = 152 bboxmax.x = 264
+bboxmin.y = 152 bboxmax.y = 264
+bboxmin .x = 132 bboxmax.x = 315
+bboxmin.y = 132 bboxmax.y = 315
+bboxmin .x = 118 bboxmax.x = 336
+bboxmin.y = 118 bboxmax.y = 336
+bboxmin .x = 132 bboxmax.x = 315
+bboxmin.y = 132 bboxmax.y = 315
+bboxmin .x = 132 bboxmax.x = 284
+bboxmin.y = 132 bboxmax.y = 284
+bboxmin .x = 257 bboxmax.x = 299
+bboxmin.y = 257 bboxmax.y = 299
+bboxmin .x = 246 bboxmax.x = 288
+bboxmin.y = 246 bboxmax.y = 288
+bboxmin .x = 182 bboxmax.x = 268
+bboxmin.y = 182 bboxmax.y = 268
+bboxmin .x = 172 bboxmax.x = 284
+bboxmin.y = 172 bboxmax.y = 284
+bboxmin .x = 170 bboxmax.x = 268
+bboxmin.y = 170 bboxmax.y = 268
+bboxmin .x = 170 bboxmax.x = 268
+bboxmin.y = 170 bboxmax.y = 268
+bboxmin .x = 199 bboxmax.x = 268
+bboxmin.y = 199 bboxmax.y = 268
+bboxmin .x = 210 bboxmax.x = 272
+bboxmin.y = 210 bboxmax.y = 272
+bboxmin .x = 189 bboxmax.x = 314
+bboxmin.y = 189 bboxmax.y = 314
+bboxmin .x = 189 bboxmax.x = 301
+bboxmin.y = 189 bboxmax.y = 301
+bboxmin .x = 174 bboxmax.x = 346
+bboxmin.y = 174 bboxmax.y = 346
+bboxmin .x = 189 bboxmax.x = 346
+bboxmin.y = 189 bboxmax.y = 346
+bboxmin .x = 139 bboxmax.x = 345
+bboxmin.y = 139 bboxmax.y = 345
+bboxmin .x = 127 bboxmax.x = 376
+bboxmin.y = 127 bboxmax.y = 376
+bboxmin .x = 148 bboxmax.x = 315
+bboxmin.y = 148 bboxmax.y = 315
+bboxmin .x = 148 bboxmax.x = 289
+bboxmin.y = 148 bboxmax.y = 289
+bboxmin .x = 139 bboxmax.x = 344
+bboxmin.y = 139 bboxmax.y = 344
+bboxmin .x = 139 bboxmax.x = 345
+bboxmin.y = 139 bboxmax.y = 345
+bboxmin .x = 121 bboxmax.x = 400
+bboxmin.y = 121 bboxmax.y = 400
+bboxmin .x = 121 bboxmax.x = 377
+bboxmin.y = 121 bboxmax.y = 377
+bboxmin .x = 281 bboxmax.x = 313
+bboxmin.y = 281 bboxmax.y = 313
+bboxmin .x = 257 bboxmax.x = 299
+bboxmin.y = 257 bboxmax.y = 299
+bboxmin .x = 94 bboxmax.x = 400
+bboxmin.y = 94 bboxmax.y = 400
+bboxmin .x = 103 bboxmax.x = 400
+bboxmin.y = 103 bboxmax.y = 400
+bboxmin .x = 281 bboxmax.x = 326
+bboxmin.y = 281 bboxmax.y = 326
+bboxmin .x = 190 bboxmax.x = 400
+bboxmin.y = 190 bboxmax.y = 400
+bboxmin .x = 190 bboxmax.x = 375
+bboxmin.y = 190 bboxmax.y = 375
+bboxmin .x = 197 bboxmax.x = 370
+bboxmin.y = 197 bboxmax.y = 370
+bboxmin .x = 197 bboxmax.x = 346
+bboxmin.y = 197 bboxmax.y = 346
+bboxmin .x = 254 bboxmax.x = 306
+bboxmin.y = 254 bboxmax.y = 306
+bboxmin .x = 254 bboxmax.x = 306
+bboxmin.y = 254 bboxmax.y = 306
+bboxmin .x = 230 bboxmax.x = 315
+bboxmin.y = 230 bboxmax.y = 315
+bboxmin .x = 230 bboxmax.x = 303
+bboxmin.y = 230 bboxmax.y = 303
+bboxmin .x = 211 bboxmax.x = 342
+bboxmin.y = 211 bboxmax.y = 342
+bboxmin .x = 211 bboxmax.x = 315
+bboxmin.y = 211 bboxmax.y = 315
+bboxmin .x = 162 bboxmax.x = 400
+bboxmin.y = 162 bboxmax.y = 400
+bboxmin .x = 162 bboxmax.x = 377
+bboxmin.y = 162 bboxmax.y = 377
+bboxmin .x = 216 bboxmax.x = 250
+bboxmin.y = 216 bboxmax.y = 250
+bboxmin .x = 237 bboxmax.x = 270
+bboxmin.y = 237 bboxmax.y = 270
+bboxmin .x = 75 bboxmax.x = 368
+bboxmin.y = 75 bboxmax.y = 368
+bboxmin .x = 89 bboxmax.x = 368
+bboxmin.y = 89 bboxmax.y = 368
+bboxmin .x = 111 bboxmax.x = 298
+bboxmin.y = 111 bboxmax.y = 298
+bboxmin .x = 132 bboxmax.x = 298
+bboxmin.y = 132 bboxmax.y = 298
+bboxmin .x = 192 bboxmax.x = 237
+bboxmin.y = 192 bboxmax.y = 237
+bboxmin .x = 192 bboxmax.x = 242
+bboxmin.y = 192 bboxmax.y = 242
+bboxmin .x = 135 bboxmax.x = 264
+bboxmin.y = 135 bboxmax.y = 264
+bboxmin .x = 152 bboxmax.x = 264
+bboxmin.y = 152 bboxmax.y = 264
+bboxmin .x = 68 bboxmax.x = 400
+bboxmin.y = 68 bboxmax.y = 400
+bboxmin .x = 75 bboxmax.x = 400
+bboxmin.y = 75 bboxmax.y = 400
+bboxmin .x = 111 bboxmax.x = 298
+bboxmin.y = 111 bboxmax.y = 298
+bboxmin .x = 89 bboxmax.x = 318
+bboxmin.y = 89 bboxmax.y = 318
+bboxmin .x = 162 bboxmax.x = 245
+bboxmin.y = 162 bboxmax.y = 245
+bboxmin .x = 162 bboxmax.x = 242
+bboxmin.y = 162 bboxmax.y = 242
+bboxmin .x = 300 bboxmax.x = 513
+bboxmin.y = 300 bboxmax.y = 513
+bboxmin .x = 299 bboxmax.x = 513
+bboxmin.y = 299 bboxmax.y = 513
+bboxmin .x = 338 bboxmax.x = 349
+bboxmin.y = 338 bboxmax.y = 349
+bboxmin .x = 338 bboxmax.x = 348
+bboxmin.y = 338 bboxmax.y = 348
+bboxmin .x = 296 bboxmax.x = 499
+bboxmin.y = 296 bboxmax.y = 499
+bboxmin .x = 296 bboxmax.x = 499
+bboxmin.y = 296 bboxmax.y = 499
+bboxmin .x = 338 bboxmax.x = 351
+bboxmin.y = 338 bboxmax.y = 351
+bboxmin .x = 342 bboxmax.x = 359
+bboxmin.y = 342 bboxmax.y = 359
+bboxmin .x = 297 bboxmax.x = 504
+bboxmin.y = 297 bboxmax.y = 504
+bboxmin .x = 297 bboxmax.x = 504
+bboxmin.y = 297 bboxmax.y = 504
+bboxmin .x = 341 bboxmax.x = 351
+bboxmin.y = 341 bboxmax.y = 351
+bboxmin .x = 341 bboxmax.x = 350
+bboxmin.y = 341 bboxmax.y = 350
+bboxmin .x = 342 bboxmax.x = 352
+bboxmin.y = 342 bboxmax.y = 352
+bboxmin .x = 442 bboxmax.x = 501
+bboxmin.y = 442 bboxmax.y = 501
+bboxmin .x = 442 bboxmax.x = 498
+bboxmin.y = 442 bboxmax.y = 498
+bboxmin .x = 387 bboxmax.x = 544
+bboxmin.y = 387 bboxmax.y = 544
+bboxmin .x = 359 bboxmax.x = 453
+bboxmin.y = 359 bboxmax.y = 453
+bboxmin .x = 460 bboxmax.x = 505
+bboxmin.y = 460 bboxmax.y = 505
+bboxmin .x = 452 bboxmax.x = 521
+bboxmin.y = 452 bboxmax.y = 521
+bboxmin .x = 460 bboxmax.x = 517
+bboxmin.y = 460 bboxmax.y = 517
+bboxmin .x = 456 bboxmax.x = 504
+bboxmin.y = 456 bboxmax.y = 504
+bboxmin .x = 460 bboxmax.x = 504
+bboxmin.y = 460 bboxmax.y = 504
+bboxmin .x = 445 bboxmax.x = 514
+bboxmin.y = 445 bboxmax.y = 514
+bboxmin .x = 441 bboxmax.x = 507
+bboxmin.y = 441 bboxmax.y = 507
+bboxmin .x = 443 bboxmax.x = 507
+bboxmin.y = 443 bboxmax.y = 507
+bboxmin .x = 496 bboxmax.x = 505
+bboxmin.y = 496 bboxmax.y = 505
+bboxmin .x = 493 bboxmax.x = 500
+bboxmin.y = 493 bboxmax.y = 500
+bboxmin .x = 441 bboxmax.x = 504
+bboxmin.y = 441 bboxmax.y = 504
+bboxmin .x = 445 bboxmax.x = 504
+bboxmin.y = 445 bboxmax.y = 504
+bboxmin .x = 460 bboxmax.x = 521
+bboxmin.y = 460 bboxmax.y = 521
+bboxmin .x = 448 bboxmax.x = 546
+bboxmin.y = 448 bboxmax.y = 546
+bboxmin .x = 438 bboxmax.x = 546
+bboxmin.y = 438 bboxmax.y = 546
+bboxmin .x = 325 bboxmax.x = 444
+bboxmin.y = 325 bboxmax.y = 444
+bboxmin .x = 360 bboxmax.x = 444
+bboxmin.y = 360 bboxmax.y = 444
+bboxmin .x = 342 bboxmax.x = 453
+bboxmin.y = 342 bboxmax.y = 453
+bboxmin .x = 325 bboxmax.x = 450
+bboxmin.y = 325 bboxmax.y = 450
+bboxmin .x = 357 bboxmax.x = 501
+bboxmin.y = 357 bboxmax.y = 501
+bboxmin .x = 357 bboxmax.x = 498
+bboxmin.y = 357 bboxmax.y = 498
+bboxmin .x = 256 bboxmax.x = 394
+bboxmin.y = 256 bboxmax.y = 394
+bboxmin .x = 344 bboxmax.x = 374
+bboxmin.y = 344 bboxmax.y = 374
+bboxmin .x = 304 bboxmax.x = 505
+bboxmin.y = 304 bboxmax.y = 505
+bboxmin .x = 329 bboxmax.x = 522
+bboxmin.y = 329 bboxmax.y = 522
+bboxmin .x = 304 bboxmax.x = 517
+bboxmin.y = 304 bboxmax.y = 517
+bboxmin .x = 324 bboxmax.x = 504
+bboxmin.y = 324 bboxmax.y = 504
+bboxmin .x = 307 bboxmax.x = 504
+bboxmin.y = 307 bboxmax.y = 504
+bboxmin .x = 340 bboxmax.x = 514
+bboxmin.y = 340 bboxmax.y = 514
+bboxmin .x = 340 bboxmax.x = 507
+bboxmin.y = 340 bboxmax.y = 507
+bboxmin .x = 355 bboxmax.x = 507
+bboxmin.y = 355 bboxmax.y = 507
+bboxmin .x = 296 bboxmax.x = 505
+bboxmin.y = 296 bboxmax.y = 505
+bboxmin .x = 300 bboxmax.x = 497
+bboxmin.y = 300 bboxmax.y = 497
+bboxmin .x = 340 bboxmax.x = 504
+bboxmin.y = 340 bboxmax.y = 504
+bboxmin .x = 340 bboxmax.x = 504
+bboxmin.y = 340 bboxmax.y = 504
+bboxmin .x = 312 bboxmax.x = 522
+bboxmin.y = 312 bboxmax.y = 522
+bboxmin .x = 254 bboxmax.x = 471
+bboxmin.y = 254 bboxmax.y = 471
+bboxmin .x = 254 bboxmax.x = 465
+bboxmin.y = 254 bboxmax.y = 465
+bboxmin .x = 325 bboxmax.x = 383
+bboxmin.y = 325 bboxmax.y = 383
+bboxmin .x = 357 bboxmax.x = 404
+bboxmin.y = 357 bboxmax.y = 404
+bboxmin .x = 342 bboxmax.x = 360
+bboxmin.y = 342 bboxmax.y = 360
+bboxmin .x = 325 bboxmax.x = 375
+bboxmin.y = 325 bboxmax.y = 375

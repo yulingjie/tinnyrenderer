@@ -6,17 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/usr/home/ylj/tinnyrenderer/tinyrenderer/geometry.cpp
-geometry.h
-/usr/home/ylj/tinnyrenderer/tinyrenderer/geometry.h
-
-/usr/home/ylj/tinnyrenderer/tinyrenderer/geometry.h
-cmath
--
+.././tinyrenderer/geometry.h
 vector
 -
-cassert
+cmath
 -
 iostream
 -
+
+.././tinyrenderer/tgaimage.h
+fstream
+-
+
+/usr/home/ylj/tinnyrenderer/triangle.cpp
+vector
+-
+iostream
+-
+geometry.h
+/usr/home/ylj/tinnyrenderer/geometry.h
+tgaimage.h
+/usr/home/ylj/tinnyrenderer/tgaimage.h
 

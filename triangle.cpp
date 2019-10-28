@@ -193,24 +193,100 @@ Vec3f barycentric(Vec3f A, Vec3f B, Vec3f C, Vec3f P) {
         s[i][1] = B[i]-A[i];
         s[i][2] = A[i]-P[i];
     }
-    Vec3f u = cross(s[0], s[1]);
+    Vec3f u = s[0]^ s[1];
     if (std::abs(u[2])>1e-2) // dont forget that u[2] is integer. If it is zero then triangle ABC is degenerate
         return Vec3f(1.f-(u.x+u.y)/u.z, u.y/u.z, u.x/u.z);
     return Vec3f(-1,1,1); // in this case generate negative coordinates, it will be thrown away by the rasterizator
 }
+Vec3f barycentric(Vec3i A, Vec3i B, Vec3i C, Vec3f P)
+{
+    Vec3f s[2];
+    for(int i =2; i--;)
+    {
+        s[i][0] = C[i] - A[i];
+        s[i][1] = B[i] - A[i];
+        s[i][2] = A[i] - P[i];
+    }
+Vec3f u = s[0]^ s[1];
+    if (std::abs(u[2])>1e-5) // dont forget that u[2] is integer. If it is zero then triangle ABC is degenerate
+        return Vec3f(1.f-(u.x+u.y)/u.z, u.y/u.z, u.x/u.z);
+    return Vec3f(-1,1,1); // in this case generate negative coordinates, it will be thrown away by the rasterizator
+
+}
 Vec3f barycentric(Vec2i *pts, Vec2i P){
-    Vec3f u = cross(Vec3f(pts[2][0] - pts[0][0],
+    Vec3f u = Vec3f(pts[2][0] - pts[0][0],
                 pts[1][0]-pts[0][0],
-                pts[0][0] - P[0]),
+                pts[0][0] - P[0])^
             Vec3f(pts[2][1] - pts[0][1],
                 pts[1][1]-pts[0][1],
                 pts[0][1]- P[1])
-            );
+            ;
     if (std::abs(u[2]) < 1) return Vec3f(-1,1,1);
     return Vec3f(1.f-(u.x + u.y)/ u.z, u.y / u.z,u.x/u.z);
 }
+void triangleBaryT(Vec3i* pts,
+//        Vec2i* uv_coords,
+        int* zbuffer,
+        TGAImage& image,
+        TGAColor color,
+        TGAImage& diffuse)
+{
+   Vec2f bboxmin(std::numeric_limits<float>::max(), std::numeric_limits<float>::max());
+   Vec2f bboxmax(-std::numeric_limits<float>::max(), -std::numeric_limits<float>::max());
+   Vec2f clamp(image.get_width()-1, image.get_height()-1);
+   for(int i = 0; i <3; ++i)
+   {
+       for(int j =0; j < 2;++j)
+       {
+           bboxmin[j] = std::max(0.f,
+                   std::min(bboxmin[j],(float)pts[i][j]));
+    //       std::cout<<"min "<<j<<" = "<<bboxmin.x<<std::endl;
+           bboxmax[j] = std::min(clamp[j],
+                   std::max(bboxmax[j], (float)pts[i][j]));
+       }
+   }
+   bboxmin.x = bboxmin[0];
+   bboxmin.y = bboxmin[1];
+   bboxmax.x= bboxmax[0];
+   bboxmax.y = bboxmax[1];
+   Vec3f P;
+   //if(bboxmin.x < 300 ||bboxmin.y < 300) return;
+   //if(bboxmax.x > 350 ||bboxmax.y > 350) return;
+  //std::cout<<"bboxmin .x = "<<bboxmin.x << " bboxmax.x = "<<bboxmax.x<<std::endl;
+   //std::cout<<"bboxmin.y = "<<bboxmin.y << " bboxmax.y = "<<bboxmax.y<<std::endl;
+   for(P.x = bboxmin.x; P.x <= bboxmax.x; P.x++){
+       for(P.y = bboxmin.y; P.y <= bboxmax.y; P.y ++){
+            Vec3f bc_screen = barycentric(pts[0],pts[1],pts[2],P);
+          //  std::cout<<"bc_screen x = "<<bc_screen.x << " bc_screen.y = "<<bc_screen.y <<" bc_screen.z = "<<bc_screen.z<<std::endl;
+            if(bc_screen.x < 0 || bc_screen.y < 0 || bc_screen.z < 0) continue;
+            P.z = 0;
+
+            for (int i=0; i<3; i++) P.z += pts[i][2]*bc_screen[i];
+            Vec2f uv;
+//            uv.x= bc_screen.x * uv_coords[0].x
+ //               + bc_screen.y * uv_coords[1].x
+   //             + bc_screen.z * uv_coords[2].x;
+  //          uv.y = bc_screen.x * uv_coords[0].y
+    //            + bc_screen.y * uv_coords[1].y
+     //           + bc_screen.z * uv_coords[2].y;
+            //float w = diffuse.get_width() * uv.x;
+            //float h = diffuse.get_height() * uv.y;
+      //      float w = uv.x;
+       //     float h = uv.y;
+        //    TGAColor c = diffuse.get((int)w,(int)h);
+            TGAColor c= TGAColor(0.5f*255,0.5f*255,0.5f*255,255);
+            //if (zbuffer[int(P.x+P.y*width)]<P.z) {
+                //std::cout<<"z for ["<<P.x<<","<<P.y<<"]"
+                    //" color is ("<< c.r << ","<<c.g<<","<<c.b<<")"<<std::endl;
+                zbuffer[int(P.x+P.y*width)] = (float)P.z;
+                image.set(P.x, P.y, c);
+            //}
+
+       }
+   }
+}
 void triangleBary(Vec3f* pts,
-        Vec2f *uv_coords,
+        Vec2i *uv_coords,
         float * zbuffer,
         TGAImage & image, TGAColor color,
         TGAImage& diffuse)
@@ -221,8 +297,10 @@ void triangleBary(Vec3f* pts,
     Vec2f clamp(image.get_width()-1, image.get_height()-1);
     for (int i=0; i<3; i++) {
         for (int j=0; j<2; j++) {
-            bboxmin[j] = std::max(0.f,      std::min(bboxmin[j], pts[i][j]));
-            bboxmax[j] = std::min(clamp[j], std::max(bboxmax[j], pts[i][j]));
+            bboxmin[j] = std::max(0.f,
+                std::min(bboxmin[j], pts[i][j]));
+            bboxmax[j] = std::min(clamp[j],
+                    std::max(bboxmax[j], pts[i][j]));
         }
     }
     Vec3f P;
@@ -237,8 +315,8 @@ void triangleBary(Vec3f* pts,
                 + bc_screen.y * uv_coords[1].x
                 + bc_screen.z * uv_coords[2].x;
             uv.y = bc_screen.x * uv_coords[0].y
-            + bc_screen.y * uv_coords[1].y
-            + bc_screen.z * uv_coords[2].y;
+                + bc_screen.y * uv_coords[1].y
+                + bc_screen.z * uv_coords[2].y;
             float w = diffuse.get_width() * uv.x;
             float h = diffuse.get_height() * uv.y;
             TGAColor c = diffuse.get((int)w,(int)h);
