@@ -1,5 +1,6 @@
 #include <vector>
 #include <iostream>
+#include <algorithm>
 #include "geometry.h"
 #include "tgaimage.h"
 
@@ -225,7 +226,7 @@ Vec3f barycentric(Vec2i *pts, Vec2i P){
     return Vec3f(1.f-(u.x + u.y)/ u.z, u.y / u.z,u.x/u.z);
 }
 void triangleBaryT(Vec3i* pts,
-//        Vec2i* uv_coords,
+        Vec2i* uv_coords,
         int* zbuffer,
         TGAImage& image,
         TGAColor color,
@@ -257,30 +258,31 @@ void triangleBaryT(Vec3i* pts,
    for(P.x = bboxmin.x; P.x <= bboxmax.x; P.x++){
        for(P.y = bboxmin.y; P.y <= bboxmax.y; P.y ++){
             Vec3f bc_screen = barycentric(pts[0],pts[1],pts[2],P);
+
           //  std::cout<<"bc_screen x = "<<bc_screen.x << " bc_screen.y = "<<bc_screen.y <<" bc_screen.z = "<<bc_screen.z<<std::endl;
             if(bc_screen.x < 0 || bc_screen.y < 0 || bc_screen.z < 0) continue;
             P.z = 0;
 
             for (int i=0; i<3; i++) P.z += pts[i][2]*bc_screen[i];
             Vec2f uv;
-//            uv.x= bc_screen.x * uv_coords[0].x
- //               + bc_screen.y * uv_coords[1].x
-   //             + bc_screen.z * uv_coords[2].x;
-  //          uv.y = bc_screen.x * uv_coords[0].y
-    //            + bc_screen.y * uv_coords[1].y
-     //           + bc_screen.z * uv_coords[2].y;
-            //float w = diffuse.get_width() * uv.x;
-            //float h = diffuse.get_height() * uv.y;
-      //      float w = uv.x;
-       //     float h = uv.y;
-        //    TGAColor c = diffuse.get((int)w,(int)h);
-            TGAColor c= TGAColor(0.5f*255,0.5f*255,0.5f*255,255);
-            //if (zbuffer[int(P.x+P.y*width)]<P.z) {
+            uv.x= bc_screen.x * uv_coords[0].x
+              + bc_screen.y * uv_coords[1].x
+                + bc_screen.z * uv_coords[2].x;
+            uv.y = bc_screen.x * uv_coords[0].y
+                + bc_screen.y * uv_coords[1].y
+                + bc_screen.z * uv_coords[2].y;
+           // float w = diffuse.get_width() * uv.x;
+           // float h = diffuse.get_height() * uv.y;
+            float w = uv.x;
+           float h = uv.y;
+            TGAColor c = diffuse.get((int)w,(int)h);
+        //    TGAColor c= TGAColor(0.5f*255,0.5f*255,0.5f*255,255);
+            if (zbuffer[int(P.x+P.y*width)]<P.z) {
                 //std::cout<<"z for ["<<P.x<<","<<P.y<<"]"
                     //" color is ("<< c.r << ","<<c.g<<","<<c.b<<")"<<std::endl;
                 zbuffer[int(P.x+P.y*width)] = (float)P.z;
                 image.set(P.x, P.y, c);
-            //}
+            }
 
        }
    }

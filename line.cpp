@@ -1,5 +1,6 @@
 #include "model.h"
 #include <cmath>
+#include <iostream>
 #include "line.h"
 
 const int width = 800;

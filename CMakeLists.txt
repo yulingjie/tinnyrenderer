@@ -24,7 +24,8 @@ add_executable(Line main.cpp line.cpp triangle.cpp
     line.h
     triangle.h
     )
-
-add_custom_command(TARGET Line 
-    POST_BUILD
-    COMMAND cp -rf $(CMAKE_SOURCE_DIR)/tinyrenderer/obj $(CMAKE_SOURCE_DIR)/build)
+#
+#add_custom_command(TARGET Line 
+#    POST_BUILD
+#    COMMAND cp -rf $(CMAKE_SOURCE_DIR)/tinyrenderer/obj $(CMAKE_SOURCE_DIR)/build	
+#	)

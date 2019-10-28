@@ -15,7 +15,7 @@ void triangle(Vec2i t0, Vec2i t1, Vec2i t2, TGAImage& image, TGAColor color);
 void triangle3(Vec3f t0, Vec3f t1, Vec3f t2, TGAImage& image, TGAColor color);
 
 void triangleBaryT(Vec3i* pts,
-        //Vec2i* uv_coords,
+        Vec2i* uv_coords,
         int *zbuffer,
         TGAImage& image,
         TGAColor color,

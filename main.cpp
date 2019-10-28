@@ -40,12 +40,15 @@ void DrawScene()
 }
 Vec3f m2v(Matrix m)
 {
+	
     return Vec3f(m[0][0]/ m[3][0], m[1][0]/m[3][0],m[2][0]/m[3][0]);
 }
 
 Matrix v2m(Vec3f v)
 {
     Matrix m(4,1);
+	
+	
     m[0][0] = v.x;
     m[1][0] = v.y;
     m[2][0] = v.z;
@@ -132,98 +135,98 @@ void triangleT(Vec3i t0, Vec3i t1, Vec3i t2,
     }
 }
 
-void DrawGeomWithZBuff(int argc, char** argv )
+void DrawGeomWithZBuff(int argc, char** argv)
 {
-   TGAImage diffuse;
+	TGAImage diffuse;
 
-    diffuse.read_tga_file("obj/african_head/african_head_diffuse.tga");
-    diffuse.flip_vertically();
-    std::cout<<"width = "<<diffuse.get_width()<<" height = "<<diffuse.get_height()<<std::endl;
-    TGAImage frame(width,height,TGAImage::RGB);
-    model = new Model("obj/african_head/african_head.obj");
-    Vec3f light_dir(0,0,-1.0);
-    Matrix Projection = Matrix::identity(4);
-    Matrix ViewPort = viewport(width/ 8, height/ 8, width * 3/4, height * 3/4);
-    Projection[3][2] = -1.f/camera.z;
-    //float* fzbuffer = new float[width* height];
-    zbuffer = new int[width*height];
-    for(int i = width * height-1; i >=0 ; i--)
-    {
-       zbuffer[i] = -std::numeric_limits<int>::max();
-    }
-    /*
-    Vec3i screen_coord[3];
-    Vec3f world_coords[3];
-    Vec2i uv_coords[3];
-    Vec3f vertices[3] = {
-        {-0.000114,-0.76357,0.23426},
-        {0.000284,-0.81913,0.28684},
-        {0.11738,-0.79278,0.30677}
-    };
-    for(int j =0; j < 3; ++j)
-    {
-        Vec3f v = vertices[j];
-        screen_coord[j] = m2v(ViewPort* Projection * v2m(v));
-        world_coords[j] =v;
-    }
-    //triangleT(screen_coord[0],screen_coord[1],screen_coord[2],
-          //frame, 0.5f,zbuffer );
-    triangleBaryT(screen_coord,
-     //       uv_coords,
-            zbuffer,
-            frame,
-            TGAColor(0.5f*255,
-                0.5f*255,
-                0.5f*255,
-                255)
-            ,
-            diffuse
-            );
+	diffuse.read_tga_file("obj/african_head_diffuse.tga");
+	diffuse.flip_vertically();
+	std::cout << "width = " << diffuse.get_width() << " height = " << diffuse.get_height() << std::endl;
+	TGAImage frame(width, height, TGAImage::RGB);
+	model = new Model("obj/african_head.obj");
+	Vec3f light_dir(0, 0, -1.0);
+	Matrix Projection = Matrix::identity(4);
+	Matrix ViewPort = viewport(width / 8, height / 8, width * 3 / 4, height * 3 / 4);
+	Projection[3][2] = -1.f / camera.z;
+	//float* fzbuffer = new float[width* height];
+	zbuffer = new int[width*height];
+	for (int i = width * height - 1; i >= 0; i--)
+	{
+		zbuffer[i] = -std::numeric_limits<int>::max();
+	}
+	/*
+	Vec3i screen_coord[3];
+	Vec3f world_coords[3];
+	Vec2i uv_coords[3];
+	Vec3f vertices[3] = {
+		{-0.000114,-0.76357,0.23426},
+		{0.000284,-0.81913,0.28684},
+		{0.11738,-0.79278,0.30677}
+	};
+	for(int j =0; j < 3; ++j)
+	{
+		Vec3f v = vertices[j];
+		screen_coord[j] = m2v(ViewPort* Projection * v2m(v));
+		world_coords[j] =v;
+	}
+	//triangleT(screen_coord[0],screen_coord[1],screen_coord[2],
+		  //frame, 0.5f,zbuffer );
+	triangleBaryT(screen_coord,
+	 //       uv_coords,
+			zbuffer,
+			frame,
+			TGAColor(0.5f*255,
+				0.5f*255,
+				0.5f*255,
+				255)
+			,
+			diffuse
+			);
 
 */
 
-       for(int i =0; i < model->nfaces(); ++i)
-       {
-       std::vector<int> face = model->face(i);
-       Vec3i screen_coord[3];
-       Vec3f world_coords[3];
-       Vec2i uv_coords[3];
-       for(int j =0; j < 3; ++j)
-       {
+	for (int i = 0; i < model->nfaces(); ++i)
+	{
+		std::vector<int> face = model->face(i);
+		Vec3i screen_coord[3];
+		Vec3f world_coords[3];
+		Vec2i uv_coords[3];
+		for (int j = 0; j < 3; ++j)
+		{
 
-       Vec2i uv= model->uv(i,j);
-       uv_coords[j] = uv;
-       Vec3f v= model->vert(face[j]);
-       screen_coord[j] =m2v(ViewPort * Projection*v2m(v));
-       world_coords[j] = v;
-       }
+			Vec2i uv = model->uv(i, j);
+			uv_coords[j] = uv;
+			Vec3f v = model->vert(face[j]);
+			screen_coord[j] = m2v(ViewPort * Projection*v2m(v));
+			world_coords[j] = v;
+		}
 
-       Vec3f n =(world_coords[2]-world_coords[0])^
-       (world_coords[1]-world_coords[0]);
-       n.normalize();
-       float intensity = n*light_dir;
- //      if(intensity > 0)
-       {
+		Vec3f n = (world_coords[2] - world_coords[0]) ^
+			(world_coords[1] - world_coords[0]);
+		n.normalize();
+		float intensity = n * light_dir;
+		      if(intensity > 0)
+		{
 
-       triangleBaryT(screen_coord,
-//       uv_coords,
-       zbuffer,
-       frame,
-       TGAColor(intensity*255,
-       intensity*255,
-       intensity*255,
-       255)
-       ,
-       diffuse
-       );
+			triangleBaryT(screen_coord,
+				       uv_coords,
+				zbuffer,
+				frame,
+				TGAColor(intensity * 255,
+					intensity * 255,
+					intensity * 255,
+					255)
+				,
+				diffuse
+			);
 
 
-       }
+		}
 
-       }
+	}
 
-    frame.flip_vertically();
-    frame.write_tga_file("output.tga");
+	frame.flip_vertically();
+	frame.write_tga_file("output.tga");
 
 }
 
