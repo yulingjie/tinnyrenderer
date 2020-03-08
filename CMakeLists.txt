@@ -1,31 +1,44 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.16)
 
-project (Line)
+project(Renderer)
 
+include_directories("${PROJECT_SOURCE_DIR}/deps")
+list(APPEND CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/cmake")
 
-option(DEBUG_PROFILE "enable ggdb profile" ON)
-if (DEBUG_PROFILE)
-set(GDB_PG_FLAG "-ggdb -g -pg -O3")
+find_package(glfw3)
 
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${GDB_PG_FLAG}")
+set(GLAD_GL "${PROJECT_SOURCE_DIR}/deps/glad/gl.h"
+            "${PROJECT_SOURCE_DIR}/deps/glad_gl.c")
+set(TGA "${PROJECT_SOURCE_DIR}/deps/tga/tgaimage.h"
+		"${PROJECT_SOURCE_DIR}/deps/tga/tgaimage.cpp")
+set(MODEL "${PROJECT_SOURCE_DIR}/deps/model.h"
+		"${PROJECT_SOURCE_DIR}/deps/model.cpp"
+		"${PROJECT_SOURCE_DIR}/deps/geometry.h"
+		"${PROJECT_SOURCE_DIR}/deps/geometry.cpp"
+		)
+set (MATH "${PROJECT_SOURCE_DIR}/deps/linmath.h")
+set(OBJ "${PROJECT_SOURCE_DIR}/obj/african_head.obj")
+add_executable(line 
+	./src/main.cpp
+	./src/shaders.h
+	./src/shaders.cpp
+	${MATH}
+	${GLAD_GL}
+	${TGA}
+	${MODEL})
+message(STATUS ${GLFW3_INCLUDE_DIR})
+message(STATUS ${GLFW3_LIBRARY})
+
+target_link_libraries(line 
+${GLFW3_LIBRARY}
+)
+message(STATUS ${CMAKE_BUILD_TYPE})
+
+target_include_directories(line PUBLIC
+${GLFW3_INCLUDE_DIR})
+
+if(NOT DEFINED CMAKE_BUILD_TYPE)
+	set(CMAKE_BUILD_TYPE "Debug")
 endif()
-set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
-
-set(TINY_INCLUDE_DIR ./tinyrenderer)
-
-include_directories(${TINY_INCLUDE_DIR})
-
-add_executable(Line main.cpp line.cpp triangle.cpp
-    ./tinyrenderer/tgaimage.cpp
-    ./tinyrenderer/model.cpp
-    ./tinyrenderer/geometry.cpp
-    ${TINY_INCLUDE_DIR}/tgaimage.h
-    ${TINY_INCLUDE_DIR}/model.h
-    line.h
-    triangle.h
-    )
-#
-#add_custom_command(TARGET Line 
-#    POST_BUILD
-#    COMMAND cp -rf $(CMAKE_SOURCE_DIR)/tinyrenderer/obj $(CMAKE_SOURCE_DIR)/build	
-#	)
+file(COPY ${PROJECT_SOURCE_DIR}/obj DESTINATION "${PROJECT_BINARY_DIR}/${CMAKE_BUILD_TYPE}/")
+file(COPY ${PROJECT_SOURCE_DIR}/obj DESTINATION "${PROJECT_BINARY_DIR}/")
